@@ -75,8 +75,11 @@ docs/_build/
 .pybuilder/
 target/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime
+*.nbconvert.ipynb
 
 # IPython
 profile_default/
@@ -92,7 +95,7 @@ ipython_config.py
 #   However, in case of collaboration, if having platform-specific dependencies or dependencies
 #   having no cross-platform support, pipenv may install dependencies that don't work, or not
 #   install all needed dependencies.
-#Pipfile.lock
+# Pipfile.lock
 
 # UV
 #   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
@@ -135,6 +138,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+P-*/          
 
 # Spyder project settings
 .spyderproject
@@ -167,28 +171,27 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Abstra
-# Abstra is an AI-powered process automation framework.
-# Ignore directories containing user credentials, local state, and settings.
-# Learn more at https://abstra.io/docs
-.abstra/
-
-# Visual Studio Code
-#  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
-#  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
-#  and can be added to the global gitignore or merged into this file. However, if you prefer, 
-#  you could uncomment the following to ignore the enitre vscode folder
-# .vscode/
-
 # Ruff stuff:
 .ruff_cache/
 
 # PyPI configuration file
 .pypirc
 
-# Cursor
-#  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
-#  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
-#  refer to https://docs.cursor.com/context/ignore-files
-.cursorignore
-.cursorindexingignore
+# VSCode settings
+# .vscode/
+
+# Data files
+# *.csv
+# *.xls
+# *.xlsx
+# *.zip
+# *.rar
+
+# Logs and output
+*.log
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
