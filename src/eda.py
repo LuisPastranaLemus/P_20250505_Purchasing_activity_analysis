@@ -142,6 +142,36 @@ def missing_values_heatmap(df):
     plt.tight_layout()
     plt.show()
 
+# Function for heatmap data visualization
+# plot_heatmap(data=heatmap_data, title='User Segmentation by Repurchase Rate', xlabel='Repurchase Rate Bins', ylabel='Repurchase Segment',
+#              cmap='YlGnBu', cbar_label='User Count')
+def plot_heatmap(data, title='', xlabel='', ylabel='', cmap='YlGnBu', annot=True, fmt='d', cbar_label='Count', figsize=(15, 7)):
+    """
+    Plots a heatmap with customization options.
+
+    Parameters:
+    data (DataFrame): Pivot table to visualize.
+    title (str): Title of the plot.
+    xlabel (str): Label for the x-axis.
+    ylabel (str): Label for the y-axis.
+    cmap (str): Color map for heatmap.
+    annot (bool): Whether to show values inside the heatmap cells.
+    fmt (str): Format for annotation text.
+    cbar_label (str): Label for the color bar.
+    figsize (tuple): Figure size (width, height).
+
+    Returns:
+    None: Displays the heatmap.
+    """
+    plt.figure(figsize=figsize)
+    sns.heatmap(data, annot=annot, fmt=fmt, cmap=cmap, cbar_kws={'label': cbar_label})
+
+    plt.title(title)
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.tight_layout()
+    plt.show()
+
 # Function to plot multiple boxplots side by side for comparison
 # plot_boxplots(ds_list=[serie1, serie2, serie3], xlabels=['Group A', 'Group B', 'Group C'], ylabel='Values', 
 #               title='Comparison of Value Distributions Across Groups', yticks_range=(0, 40, 5), rotation=45,
@@ -196,8 +226,8 @@ def plot_boxplots(ds_list, xlabels, ylabel, title, yticks_range=None, rotation=0
     plt.show()
 
 # Function to plot a histogram with mean and median reference lines
-# plot_histogram(ds=series1, bins=np.arange(100, 170, 5), color='skyblue', title='Distribution of Durations', xlabel='Duration (minutes)',
-#                ylabel='Frequency', xticks_range=(100, 170, 10), yticks_range=(0, 5, 1), rotation=45)
+# plot_histogram(ds=df_product_purchase_quantity['total_products'], bins=range(0, 65, 1), color='grey', title='Distribution for Product Quantity by Orders',
+#                xlabel='Products', ylabel='Frequency', xticks_range=range(0, 65, 5), yticks_range=range(0, 200, 20), rotation=45)
 def plot_histogram(ds, bins=10, color='grey', title='', xlabel='', ylabel='Frequency',
                    xticks_range=None, yticks_range=None, rotation=0):
     """
@@ -210,8 +240,8 @@ def plot_histogram(ds, bins=10, color='grey', title='', xlabel='', ylabel='Frequ
     title (str): Plot title.
     xlabel (str): Label for the x-axis.
     ylabel (str): Label for the y-axis.
-    xticks_range (tuple, optional): Range and step for x-ticks (min, max, step).
-    yticks_range (tuple, optional): Range and step for y-ticks (min, max, step).
+    xticks_range (range, optional): Range object for x-ticks (e.g., range(0, 100, 10)).
+    yticks_range (range, optional): Range object for y-ticks (e.g., range(0, 10, 1)).
     rotation (int): Angle of tick label rotation.
 
     Output:
@@ -219,7 +249,6 @@ def plot_histogram(ds, bins=10, color='grey', title='', xlabel='', ylabel='Frequ
     """
 
     ds = ds.dropna()
-    
     mean_val = ds.mean()
     median_val = ds.median()
 
@@ -233,12 +262,13 @@ def plot_histogram(ds, bins=10, color='grey', title='', xlabel='', ylabel='Frequ
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
 
-    if xticks_range is not None:
-        plt.xlim(xticks_range[0], xticks_range[1])
-        plt.xticks(np.arange(*xticks_range), rotation=rotation)
-    if yticks_range is not None:
-        plt.ylim(yticks_range[0], yticks_range[1])
-        plt.yticks(np.arange(*yticks_range), rotation=rotation)
+    if isinstance(xticks_range, range):
+        plt.xlim(xticks_range.start, xticks_range.stop)
+        plt.xticks(xticks_range, rotation=rotation)
+
+    if isinstance(yticks_range, range):
+        plt.ylim(yticks_range.start, yticks_range.stop)
+        plt.yticks(yticks_range, rotation=rotation)
 
     plt.legend()
     plt.grid(True)
@@ -250,7 +280,7 @@ def plot_histogram(ds, bins=10, color='grey', title='', xlabel='', ylabel='Frequ
 #                    xlabel='Duration (minutes)', ylabel='Frequency', legend_title='Subscription', legend_labels=['Free', 'Premium'])
 
 
-def plot_hue_histogram(df, x_col='', hue_col='', bins=30, title='', xlabel='', ylabel='',
+def plot_hue_histogram(df, x_col='', hue_col='', bins=30, color='grey', title='', xlabel='', ylabel='',
                        legend_title='', legend_labels=[]):
     """
     Plots a stacked histogram with grouping by a categorical variable (hue).
@@ -271,7 +301,7 @@ def plot_hue_histogram(df, x_col='', hue_col='', bins=30, title='', xlabel='', y
     """
     
     plt.figure(figsize=(15, 7))
-    sns.histplot(data=df, x=x_col, hue=hue_col, multiple='stack', bins=bins)
+    sns.histplot(data=df, x=x_col, hue=hue_col, multiple='stack', bins=bins, color=color)
     
     plt.title(title)
     plt.xlabel(xlabel)
@@ -404,9 +434,9 @@ def plot_frequency_density(ds, bins=10, color='grey', title='', xlabel='', ylabe
 # plot_grouped_barplot(ds=dataframe, x_col='month', y_col='median_duration', hue_col='plan', palette=['black', 'grey'],
 #                      title='Average Call Duration by Plan and Month', xlabel='Month', ylabel='Average Call Duration (min)',
 #                      xticks_range=range(0, 13, 1), yticks_range=range(0, 500, 50), rotation=65)
-def plot_grouped_barplot(ds, x_col, y_col, hue_col=None, palette=sns.color_palette("PRGn", n_colors=25),
+def plot_grouped_barplot(ds, x_col, y_col, hue_col=None, palette=sns.color_palette("PRGn", n_colors=50),
                          title='', xlabel='', ylabel='', xticks_range=None,
-                         yticks_range=None, x_rotation=0, y_rotation=0):
+                         yticks_range=None, x_rotation=0, y_rotation=0, alpha=0.95):
     """
     Plots a grouped bar chart with categorical grouping (hue).
 
@@ -428,7 +458,9 @@ def plot_grouped_barplot(ds, x_col, y_col, hue_col=None, palette=sns.color_palet
     """
 
     plt.figure(figsize=(15, 7))
-    sns.barplot(data=ds, x=x_col, y=y_col, hue=hue_col, palette=palette)
+    palette = palette
+    strong_palette = palette[:13] + palette[-12:]
+    sns.barplot(data=ds, x=x_col, y=y_col, hue=hue_col, palette=strong_palette, alpha=alpha)
 
     plt.title(title)
     plt.xlabel(xlabel)
@@ -484,7 +516,7 @@ def plot_horizontal_bar(ds, colors=['black', 'grey'], xlabel='', ylabel='', titl
 # Function to plot grouped bar charts from a DataFrame with multiple columns
 # plot_grouped_bars(df=music_activity_df.set_index('city'), title='Music Activity per City', xlabel='City', ylabel='Activity Count',
 #                   x_rotation=45, y_rotation=0, grid_axis='y')
-def plot_grouped_bars(df, title='', xlabel='', ylabel='', x_rotation=0, y_rotation=0, grid_axis='y'):
+def plot_grouped_bars(df, title='', xlabel='', ylabel='', x_rotation=0, y_rotation=0, grid_axis='y', color='grey'):
     """
     Plots grouped (clustered) bar charts for comparing multiple categories across an index.
 
@@ -501,7 +533,7 @@ def plot_grouped_bars(df, title='', xlabel='', ylabel='', x_rotation=0, y_rotati
     Displays a grouped bar chart comparing values across index categories and columns.
     """
 
-    df.plot(kind='bar', figsize=(15, 7))
+    df.plot(kind='bar', figsize=(15, 7), color=color)
 
     plt.title(title)
     plt.xlabel(xlabel)
@@ -516,7 +548,7 @@ def plot_grouped_bars(df, title='', xlabel='', ylabel='', x_rotation=0, y_rotati
 # Function to plot a grouped bar chart with a specified index column
 # plot_grouped_bars_indx(df=music_df, index_name='city', title='Music Activity per City', xlabel='City', ylabel='Activity Count',
 #                        rotation=45, grid_axis='y')
-def plot_grouped_bars_indx(df, index_name='', title='', xlabel='', ylabel='', rotation=0, grid_axis='y'):
+def plot_grouped_bars_indx(df, index_name='', title='', xlabel='', ylabel='', rotation=0, grid_axis='y', color='grey'):
     """
     Plots a grouped bar chart where rows are grouped by a specified index column
     (e.g., city) and bars represent multiple numeric columns.
@@ -535,7 +567,7 @@ def plot_grouped_bars_indx(df, index_name='', title='', xlabel='', ylabel='', ro
     """
 
     df_plot = df.set_index(index_name)
-    df_plot.plot(kind='bar', figsize=(15, 7))
+    df_plot.plot(kind='bar', figsize=(15, 7), color=color)
 
     plt.title(title)
     plt.xlabel(xlabel)
@@ -547,7 +579,7 @@ def plot_grouped_bars_indx(df, index_name='', title='', xlabel='', ylabel='', ro
 
 # Function to generate a customizable seaborn pairplot for exploratory correlation analysis
 # plot_pairplot(df_music_activity_city_cov)
-def plot_pairplot(df, height=3, aspect=2.5):
+def plot_pairplot(df, height=3, aspect=2.5, point_color='grey'):
     """
     Plots a Seaborn pairplot for all numeric columns in a DataFrame.
 
@@ -559,12 +591,12 @@ def plot_pairplot(df, height=3, aspect=2.5):
     Returns:
     None: Displays the pairplot.
     """
-    sns.pairplot(df, height=height, aspect=aspect)
+    sns.pairplot(df, height=height, aspect=aspect, plot_kws={'color': point_color})
     plt.tight_layout()
     plt.show()
 
 # Function to plot a scatter matrix for exploring pairwise relationships
-def plot_scatter_matrix(df, figsize=(15, 7), diagonal='hist'):
+def plot_scatter_matrix(df, figsize=(15, 7), diagonal='hist', color='grey'):
     """
     Plots a scatter matrix for all numeric columns in a DataFrame using pandas' plotting tools.
 
@@ -576,6 +608,104 @@ def plot_scatter_matrix(df, figsize=(15, 7), diagonal='hist'):
     Returns:
     None: Displays the scatter matrix.
     """
-    pd.plotting.scatter_matrix(df, figsize=figsize, diagonal=diagonal)
+    pd.plotting.scatter_matrix(df, figsize=figsize, diagonal=diagonal, color=color)
+    plt.tight_layout()
+    plt.show()
+
+# Function for scatter plot
+# plot_scatter(df=df_product_purchase, x_col='add_to_cart_order', y_col='reorder_rate', title='Add-to-Cart Order vs Reorder Rate',
+#              xticks_range=range(0, 50, 5), yticks_range=range(0, 2), x_rotation=45, y_rotation=0, alpha=0.4, color='teal')
+def plot_scatter(df, x_col, y_col, title=None, xlabel=None, ylabel=None, figsize=(15, 7), alpha=0.3, color='grey', marker='o',
+                 xticks_range=None, yticks_range=None, x_rotation=0, y_rotation=0):
+    """
+    Plots a scatterplot for two numerical columns with optional customization.
+
+    Parameters:
+    df (DataFrame): Data source.
+    x_col (str): Column name for x-axis.
+    y_col (str): Column name for y-axis.
+    title (str, optional): Plot title.
+    xlabel (str, optional): Label for the x-axis.
+    ylabel (str, optional): Label for the y-axis.
+    figsize (tuple): Figure size (width, height).
+    alpha (float): Transparency level for points.
+    color (str): Color of the points.
+    marker (str): Marker style for scatter points.
+
+    Returns:
+    None: Displays the plot.
+    """
+    plt.figure(figsize=figsize)
+    sns.scatterplot(data=df, x=x_col, y=y_col, alpha=alpha, color=color, marker=marker)
+
+    plt.title(title if title else f'Scatter: {x_col} vs. {y_col}')
+    plt.xlabel(xlabel if xlabel else x_col)
+    plt.ylabel(ylabel if ylabel else y_col)
+
+    if isinstance(xticks_range, range):
+        plt.xticks(xticks_range, rotation=x_rotation)
+        plt.xlim(xticks_range.start, xticks_range.stop)
+
+    if isinstance(yticks_range, range):
+        plt.yticks(yticks_range, rotation=y_rotation)
+        plt.ylim(yticks_range.start, yticks_range.stop)
+    
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.tight_layout()
+    plt.show()
+
+# Function to plot ECDF - Empirical Cumulative Distribution Function.
+# plot_ecdf(df=df_products, x_col='reorder_rate', threshold=0.75, title='ECDF of Product Repurchase Rate', xlabel='Repurchase Rate',
+#           xticks_range=range(0, 2), yticks_range=range(0, 2), x_rotation=0, y_rotation=0)
+def plot_ecdf(df, x_col, threshold=None, title=None, xlabel=None, ylabel='Cumulative Percentage', figsize=(10, 6), color='blue', 
+              linestyle='--', lw=1.5, xticks_range=None, yticks_range=None, x_rotation=0, y_rotation=0, grid=True):
+    """
+    Plots an Empirical Cumulative Distribution Function (ECDF) for a given column.
+
+    Parameters:
+    df (DataFrame): Data source.
+    x_col (str): Column to plot ECDF for.
+    threshold (float, optional): Draw vertical reference line at this x value.
+    title (str): Title of the plot.
+    xlabel (str): Label for the x-axis.
+    ylabel (str): Label for the y-axis.
+    figsize (tuple): Figure size.
+    color (str): Color of the ECDF line.
+    linestyle (str): Style for the vertical threshold line.
+    lw (float): Line width for the threshold.
+    xticks_range (range, optional): Custom xtick positions.
+    yticks_range (range, optional): Custom ytick positions.
+    x_rotation (int): Rotation angle for x-axis labels.
+    y_rotation (int): Rotation angle for y-axis labels.
+    grid (bool): Whether to display the grid.
+
+    Returns:
+    None
+    """
+    plt.figure(figsize=figsize)
+    sns.ecdfplot(data=df, x=x_col, color=color)
+
+    if threshold is not None:
+        plt.axvline(x=threshold, color='red', linestyle=linestyle, linewidth=lw,
+                    label=f'Threshold: {threshold}')
+
+    plt.title(title if title else f'ECDF of {x_col}')
+    plt.xlabel(xlabel if xlabel else x_col)
+    plt.ylabel(ylabel)
+
+    if isinstance(xticks_range, range):
+        plt.xticks(xticks_range, rotation=x_rotation)
+        plt.xlim(xticks_range.start, xticks_range.stop)
+
+    if isinstance(yticks_range, range):
+        plt.yticks(yticks_range, rotation=y_rotation)
+        plt.ylim(yticks_range.start, yticks_range.stop)
+
+    if threshold is not None:
+        plt.legend()
+
+    if grid:
+        plt.grid(True, linestyle='--', alpha=0.5)
+
     plt.tight_layout()
     plt.show()

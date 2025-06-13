@@ -27,6 +27,7 @@ try:
                       evaluate_central_trend,
                       evaluate_correlation,
                       missing_values_heatmap,
+                      plot_heatmap,
                       plot_boxplots,
                       plot_histogram,
                       plot_hue_histogram,
@@ -37,7 +38,9 @@ try:
                       plot_grouped_bars,
                       plot_grouped_bars_indx,
                       plot_pairplot,
-                      plot_scatter_matrix)
+                      plot_scatter_matrix,
+                      plot_scatter,
+                      plot_ecdf)
     
     from .utils import(format_notebook)
                       
@@ -70,6 +73,7 @@ __all__ = ['load_dataset_from_zip',
            'evaluate_central_trend',
            'evaluate_correlation',
            'missing_values_heatmap',
+           'plot_heatmap',
            'plot_boxplots',
            'plot_histogram',
            'plot_hue_histogram',
@@ -81,5 +85,7 @@ __all__ = ['load_dataset_from_zip',
            'plot_grouped_bars_indx',
            'plot_pairplot',
            'plot_scatter_matrix',
+           'plot_scatter',
+           'plot_ecdf',
            
            'format_notebook']
