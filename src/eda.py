@@ -404,9 +404,9 @@ def plot_frequency_density(ds, bins=10, color='grey', title='', xlabel='', ylabe
 # plot_grouped_barplot(ds=dataframe, x_col='month', y_col='median_duration', hue_col='plan', palette=['black', 'grey'],
 #                      title='Average Call Duration by Plan and Month', xlabel='Month', ylabel='Average Call Duration (min)',
 #                      xticks_range=range(0, 13, 1), yticks_range=range(0, 500, 50), rotation=65)
-def plot_grouped_barplot(ds, x_col, y_col, hue_col=None, palette=['black', 'grey'],
+def plot_grouped_barplot(ds, x_col, y_col, hue_col=None, palette=sns.color_palette("PRGn", n_colors=25),
                          title='', xlabel='', ylabel='', xticks_range=None,
-                         yticks_range=None, rotation=0):
+                         yticks_range=None, x_rotation=0, y_rotation=0):
     """
     Plots a grouped bar chart with categorical grouping (hue).
 
@@ -435,9 +435,9 @@ def plot_grouped_barplot(ds, x_col, y_col, hue_col=None, palette=['black', 'grey
     plt.ylabel(ylabel)
 
     if xticks_range is not None:
-        plt.xticks(ticks=xticks_range, rotation=rotation)
+        plt.xticks(ticks=xticks_range, rotation=x_rotation)
     if yticks_range is not None:
-        plt.yticks(ticks=yticks_range, rotation=rotation)
+        plt.yticks(ticks=yticks_range, rotation=y_rotation)
 
     plt.grid(True)
     plt.tight_layout()

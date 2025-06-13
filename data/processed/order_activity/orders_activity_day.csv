@@ -1,8 +1,8 @@
 order_dow,total_orders
-friday,63488
 monday,82185
-saturday,62649
-sunday,84090
-thursday,59810
 tuesday,65833
 wednesday,60897
+thursday,59810
+friday,63488
+saturday,62649
+sunday,84090
