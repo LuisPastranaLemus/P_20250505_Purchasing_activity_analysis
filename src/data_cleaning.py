@@ -4,7 +4,9 @@ from IPython.display import display, HTML
 import numpy as np
 import pandas as pd
 import re
+from thefuzz import process
 from tqdm import tqdm
+import unicodedata
 
 
 # Function to identify non-standard missing values in object-type columns
@@ -218,6 +220,110 @@ def detect_implicit_duplicates(df, include=None, exclude=None, fuzzy_threshold=0
 
     return None
 
+# Function to normalize text 
+def normalize_string(text):
+    """
+    Normalize a text string for comparison and deduplication.
+
+    This function performs the following cleaning steps:
+    - Converts the input to a string and removes accents (e.g., 'é' → 'e')
+    - Converts all characters to lowercase
+    - Removes punctuation and non-alphanumeric characters
+    - Collapses multiple whitespace into a single space
+    - Strips leading and trailing whitespace
+
+    Parameters
+    ----------
+    text : str or object
+        The input value to normalize. Can be a string, number, or None/NaN.
+
+    Returns
+    -------
+    str
+        A normalized version of the input string. Returns an empty string if input is null.
+    """
+    if pd.isna(text):
+        return ""
+    text = unicodedata.normalize('NFKD', str(text)).encode('ascii', 'ignore').decode('utf-8')
+    text = text.lower()
+    text = re.sub(r'[^\w\s]', '', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
+
+# Function to detect implicit duplicates
+def find_implicit_duplicates_only(df, column, threshold=90, show_progress=True):
+    """
+    Detect and display implicit duplicate values in a specified column using fuzzy string matching.
+
+    This function normalizes the text values in the target column, then compares each unique entry 
+    using fuzzy matching (Levenshtein distance via thefuzz). If two or more values are found to 
+    be similar above the specified threshold, they are treated as implicit duplicates and printed 
+    to the output in a canonical-to-variants format.
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        The DataFrame containing the column to analyze.
+    
+    column : str
+        The name of the column to search for implicit duplicates. Values must be text-like.
+    
+    threshold : int, optional (default=90)
+        The similarity score threshold (0–100) to consider two values as duplicates.
+        Higher values mean stricter matching.
+    
+    show_progress : bool, optional (default=True)
+        Whether to display a progress bar during the scanning process.
+
+    Returns
+    -------
+    None
+        The function prints the detected implicit duplicates directly to the notebook using HTML formatting.
+        It does not modify or return the original DataFrame.
+    
+    Notes
+    -----
+    - The text is normalized (accents removed, lowercased, punctuation stripped, extra spaces removed).
+    - This function is intended for exploratory analysis and manual review of string inconsistencies.
+    - Useful for cleaning product names, categories, brands, user inputs, etc.
+
+    Example
+    -------
+    >>> find_implicit_duplicates_only(df, column='product_name', threshold=90)
+    > Scanning for duplicates ...
+    > Implicit duplicates detected:
+    'coca cola'  ⇨  ['coca-cola', 'cocacola', 'COCA COLA®']
+    'pepsi'      ⇨  ['pepsi cola', 'pepsi-cola']
+    """
+    df = df.copy()
+    if column not in df.columns:
+        raise ValueError(f"Column '{column}' not found in DataFrame.")
+
+    df['_normalized'] = df[column].apply(normalize_string)
+    unique_names = df['_normalized'].dropna().unique().tolist()
+
+    duplicates = {}
+    visited = set()
+    iterator = tqdm(unique_names, desc="> Scanning for duplicates ...", disable=not show_progress)
+
+    for name in iterator:
+        if name in visited:
+            continue
+        matches = process.extract(name, unique_names, limit=None)
+        similar = [match_name for match_name, score in matches if score >= threshold and match_name != name]
+        if similar:
+            duplicates[name] = similar
+            visited.update(similar + [name])
+
+    if not duplicates:
+        display(HTML("> <b>No</b> <i>implicit duplicates</i> found based on the current threshold."))
+    else:
+        display(HTML("> <i>Implicit duplicates</i> <b>detected</b>:"))
+        for canonical, variants in duplicates.items():
+            display(HTML(f"'<b>{canonical}</b>'  ⇨  <i>{variants}</i>"))
+
+    return None
+
 # Function to convert string-based date/time columns to timezone-aware datetime or time objects
 def normalize_datetime(df, include=None, exclude=None, frmt=None, time_zone='UTC'):
     """
@@ -406,6 +512,58 @@ def standardize_gender_values(df, include=None, exclude=None):
 
     return df
 
+# Normalize numeric day to string day
+def convert_numday_strday(df, include=None, exclude=None):
+    """
+    Converts numeric day columns (0–6) to string day names using a predefined mapping.
+    
+    Parameters
+    ----------
+    df : pd.DataFrame
+        The input DataFrame.
+    
+    include : list, optional
+        List of column names to include in the mapping. If None, all columns are considered.
+    
+    exclude : list, optional
+        List of column names to exclude from mapping.
+    
+    Returns
+    -------
+    pd.DataFrame
+        DataFrame with mapped day names in selected columns.
+    """
+    map_day = {
+        0: 'sunday',
+        1: 'monday',
+        2: 'tuesday',
+        3: 'wednesday',
+        4: 'thursday',
+        5: 'friday',
+        6: 'saturday'
+    }
+
+    df = df.copy()
+    
+    if exclude is None:
+        exclude = []
+
+    if include is None:
+        available_columns = [col for col in df.columns if col not in exclude]
+    else:
+        available_columns = [col for col in include if col not in exclude]
+
+    for column in available_columns:
+        if pd.api.types.is_numeric_dtype(df[column]):
+            # Only apply mapping if values fall within 0–6
+            if df[column].dropna().isin(map_day.keys()).all():
+                df[column] = df[column].map(map_day)
+            else:
+                display(HTML(f"> Column '<i>{column}</i>' contains values outside <b>0–6</b>. Skipping..."))
+        else:
+            display(HTML(f"ℹ> Column '<i>{column}</i>' is <b>not numeric</b>. Skipping..."))
+
+    return df
 
 
     

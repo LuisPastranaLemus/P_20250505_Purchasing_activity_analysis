@@ -9,7 +9,7 @@ Analyze Instacart users' shopping behavior to identify repurchase patterns, orde
 
 Key questions:
 
-- Which days and times have the most order activity?
+- Which days and time of the day have the most order activity?
 - How often do users typically place orders?
 - How many items do they typically purchase per order?
 - Which products have the highest repurchase rate?
