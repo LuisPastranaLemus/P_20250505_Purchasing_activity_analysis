@@ -113,5 +113,5 @@ This project is part of a personal learning portfolio focused on developing stro
 ##### Engineer pivoting into Data Science | Passionate about insights, structure, and solving real-world problems with data.   
 ##### [GitHub Profile](https://github.com/LuisPastranaLemus)   
 ##### 📍 Querétaro, México     
-##### 📧 Contact: luis.pastrana.lemus [at] engineer.com   
+##### 📧 Contact: luis.pastrana.lemus@engineer.com   
 ---
