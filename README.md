@@ -53,6 +53,12 @@ There are five tables in the dataset, and you'll need to use all of them to perf
 
 ---
 
+## 📚 Guided Foundations (Historical Context)
+
+The notebook `00-guided-analysis_foundations.ipynb` reflects an early stage of my data analysis learning journey, guided by TripleTen. It includes data cleaning, basic EDA, and early feature exploration, serving as a foundational block before implementing the improved structure and methodology found in the main analysis.
+
+---
+
 ## 📂 Project Structure
 
 ```bash
