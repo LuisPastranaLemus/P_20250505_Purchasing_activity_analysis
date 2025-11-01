@@ -480,43 +480,32 @@ def convert_object_to_numeric(df, type=None, include=None, exclude=None):
         available_columns = [col for col in include if col not in exclude]
 
     for column in available_columns:
-        df[column] = df[column].astype(str).str.replace(",", ".", regex=False).str.strip()
+        # Clean only if it is text
+        if df[column].dtype == 'object' or df[column].dtype == 'string':
+            df[column] = df[column].astype(str).str.replace(",", ".", regex=False).str.strip()
         
         # Integer conversion
         if type == 'integer':
+                
             try:
-                if np.array_equal(df[column], df[column].astype(int)):
-                    df[column] = pd.to_numeric(df[column], downcast='integer', errors='coerce')
-                else:
-                    find_fail_conversion_to_numeric(df, column)
-            except Exception:
-                find_fail_conversion_to_numeric(df, column)
-        elif type == 'Int64':
-            try:
-                if np.array_equal(df[column], df[column].astype("Int64")):
-                    df[column] = pd.to_numeric(df[column], errors='coerce').astype("Int64")
-                else:
-                    find_fail_conversion_to_numeric(df, column)
+                df[column] = pd.to_numeric(df[column], errors='coerce').round().astype('Int64')
             except Exception:
                 find_fail_conversion_to_numeric(df, column)
 
         # Float conversion
         elif type == 'float':
-            df[column] = pd.to_numeric(df[column], downcast='float', errors='coerce')
-        elif type == 'Float64':
-            df[column] = pd.to_numeric(df[column], errors='coerce').astype("Float64")
+
+            try:
+                df[column] = df[column].astype('Float64')
+            except Exception:
+                find_fail_conversion_to_numeric(df, column)
 
         # Auto conversion
         else:
             try:
-                if np.array_equal(df[column], df[column].astype(int)):
-                    df[column] = pd.to_numeric(df[column], errors='coerce')
-                else:
-                    find_fail_conversion_to_numeric(df, column)
-                    df[column] = pd.to_numeric(df[column], errors='coerce')
+                df[column] = pd.to_numeric(df[column], errors='coerce')
             except Exception:
                 find_fail_conversion_to_numeric(df, column)
-                df[column] = pd.to_numeric(df[column], errors='coerce')
 
     return df
 

@@ -148,7 +148,7 @@ product_id,product_name,aisle_id,department_id
 147,organic_ranch_veggie_dip,67,20
 148,nectarines,24,4
 149,wild_blueberry_all_natural_fruit_spread,88,13
-150,brut_rosé,134,5
+150,brut_rose,134,5
 151,aromatherapaes_stress_reducing_lavender_chamomile_spa_bath,132,11
 152,3_in_1_soap_for_every_man_cucumber_lemon,25,11
 153,fabric_refresher_meadows_rain_air_freshener_1_count_27_oz_air_care,75,17
@@ -204,7 +204,7 @@ product_id,product_name,aisle_id,department_id
 203,rescue_remedy_spray,11,11
 204,free_clear_natural_laundry_detergent_for_sensitive_skin,75,17
 205,chocolate_mint_cookie_crunch_nutrition_bar,3,19
-206,roasted_vegetable_soufflé,38,1
+206,roasted_vegetable_souffle,38,1
 207,minis_candy_bars,45,19
 208,vanilla_almond_cashew_almondmilk_cashewmilk_blend,91,16
 209,italian_pasta_salad,1,20
@@ -444,7 +444,7 @@ product_id,product_name,aisle_id,department_id
 443,ultra_power_plus_laundry_detergent_54_loads,75,17
 444,special_recipe_italian_bread,112,3
 445,almond_honey_protein_bar,3,19
-446,blueberry_pomegranate_acaí_cultured_goat_milk_kefir,120,16
+446,blueberry_pomegranate_acai_cultured_goat_milk_kefir,120,16
 447,tea_superflower_hibiscus_blueberry_caffeine_free_bags,94,7
 448,white_chicken_chili,59,15
 449,chips_ahoy_chewy_cookies,61,19
@@ -579,7 +579,7 @@ product_id,product_name,aisle_id,department_id
 578,10_bamboo_skewers,10,17
 579,stain_odor_eliminator_detergent,75,17
 580,washington_state_merlot,28,5
-581,garnet_sweet_potato_yam_,83,4
+581,garnet_sweet_potato_yam,83,4
 582,lite_whipped_topping,119,1
 583,vanilla_incense_of_auroville,101,17
 584,organic_blueberry_pomegranate_whole_milk_yogurt,120,16
@@ -666,7 +666,7 @@ product_id,product_name,aisle_id,department_id
 665,imitation_crabmeat,15,12
 666,whole_wheat_loaves,112,3
 667,automatic_dish_packs_lemon_verbena_scent,75,17
-668,chicken_liver_paté_canned_cat_food,41,8
+668,chicken_liver_pate_canned_cat_food,41,8
 669,the_santa_cruz_burrito,38,1
 670,coconut_drink_vanilla,91,16
 671,vegan_shells_creamy_sauce_mac_cheese_macaroni_cheese_organic,4,9
@@ -714,7 +714,7 @@ product_id,product_name,aisle_id,department_id
 713,pink_moscato_california,6,2
 714,breakfast_blend_light_roast_k_cup_packs,26,7
 715,vitamin_c_formula_1000_mg_vegetarian_tablets,47,11
-716,mouthwash_clean_mint_listerine_zero_,20,11
+716,mouthwash_clean_mint_listerine_zerotm,20,11
 717,sweeper_open_window_fresh_scent_wet_mopping_cloths_refill,114,17
 718,traditional_chicken_tuscany_soup,69,15
 719,scars_cream_spf_30,118,11
@@ -780,7 +780,7 @@ product_id,product_name,aisle_id,department_id
 779,cat_treats_hair_ball_control_chicken,41,8
 780,breadstick,112,3
 781,organic_shredded_mild_cheddar,21,16
-782,85_lean_15_fat_ground_turkey_013021_,49,12
+782,85_lean_15_fat_ground_turkey_013021,49,12
 783,mega_mag,47,11
 784,organic_vegetable_tray,83,4
 785,get_lost_weight_loss_tea,94,7
@@ -928,7 +928,7 @@ product_id,product_name,aisle_id,department_id
 927,cabernet_sauvignon_central_coast_2011,28,5
 928,chunky_classic_chicken_noodle_soup,69,15
 929,new_england_clam_chowder_condensed_soup,69,15
-930,ultraclean_cool_mint_ultraclean_,20,11
+930,ultracleantm_cool_mint_ultracleantm,20,11
 931,lash_discovery_waterproof_mascara_very_black,132,11
 932,vegetable_pie_in_a_pocket_sandwich,38,1
 933,roarin_waters_wild_cherry_water_beverage,98,7
@@ -957,7 +957,7 @@ product_id,product_name,aisle_id,department_id
 956,shampoo_baby_shampoo,102,18
 957,key_lime_moisture_shave,55,11
 958,almond_extract,47,11
-959,chicken_vegetable_stir_fry_café_steamers,38,1
+959,chicken_vegetable_stir_fry_cafe_steamers,38,1
 960,villager_ipa,27,5
 961,grape_sunflower_butter_sunwiches,13,20
 962,organic_roasted_garlic_vinaigrette_dressing_organic,89,13
@@ -1145,7 +1145,7 @@ product_id,product_name,aisle_id,department_id
 1144,chicken_brown_rice_premium_dog_food,40,8
 1145,imported_kalamata_olives_in_vinegar_brine,110,13
 1146,quality_kraut,110,13
-1147,pop_up_notes_3_x_3_,87,17
+1147,pop_up_notes_3_x_3,87,17
 1148,oxy_power_degreaser_ultra_concentrated_dish_liquid,74,17
 1149,fresh_blue_agave_gold_tequila,124,5
 1150,afc_sushi_spicy_salmon_roll_prepared_in_store_ready_to_eat,13,20
@@ -1180,7 +1180,7 @@ product_id,product_name,aisle_id,department_id
 1179,polar_ice_sugar_free_gum,46,19
 1180,mesquite_uncured_salame,96,20
 1181,mini_watermelon,24,4
-1182,chile_limón_flavored_potato_chips,107,19
+1182,chile_limon_flavored_potato_chips,107,19
 1183,organic_black_seedless_grapes,24,4
 1184,children_s_allergy_relief,11,11
 1185,energy_tropical_citrus_vitamin_water_drink,64,7
@@ -1275,7 +1275,7 @@ product_id,product_name,aisle_id,department_id
 1274,slow_churned_caramel_delight_ice_cream_cup,37,1
 1275,sparkling_sugar_bright_white,97,13
 1276,puppy_complete_nutrition_dry_food_for_puppies,40,8
-1277,crème_de_menthe_baking_chips,97,13
+1277,creme_de_menthe_baking_chips,97,13
 1278,reduced_sodium_salt_alternative,104,13
 1279,ultimate_flora_80_billion_probiotic_vegetable_capsules,70,11
 1280,frozen_concentrate_non_alcoholic_strawberry_daiquiri,113,1
@@ -1394,7 +1394,7 @@ product_id,product_name,aisle_id,department_id
 1393,diet_lemon_tea,94,7
 1394,uncured_pepperoni_slices,96,20
 1395,classic_seasoning_with_lemon_skillet_crisp_tilapia,34,1
-1396,sweet_potato_yam_,83,4
+1396,sweet_potato_yam,83,4
 1397,wellness_formula_herbal_defense_complex,47,11
 1398,ice_bag,37,1
 1399,reduced_fat_cream_of_mushroom_condensed_soup,69,15
@@ -1426,7 +1426,7 @@ product_id,product_name,aisle_id,department_id
 1425,real_ice_cream_peanut_butter_cup,37,1
 1426,lemon_zest,3,19
 1427,berries_gomega_smoothie_blend,31,7
-1428,hawaiian_sweet_jalepeño_rolls,43,3
+1428,hawaiian_sweet_jalepeno_rolls,43,3
 1429,100_natural_creamy_peanut_butter,88,13
 1430,dry_roasted_unsalted_peanuts,117,19
 1431,original_citrus_tangy_punch,31,7
@@ -1695,7 +1695,7 @@ product_id,product_name,aisle_id,department_id
 1694,chunky_chocolate_chip_cookies,61,19
 1695,major_dickason_s_blend_ground_coffee_dark_roast,26,7
 1696,honey_oat,93,3
-1697,clean_breeze_fabric_softener_dryer_sheets_105_count_fabric_enhancers,75,17
+1697,clean_breezetm_fabric_softener_dryer_sheets_105_count_fabric_enhancers,75,17
 1698,chick_pea_salad,67,20
 1699,jumilla_red_wine,28,5
 1700,white_cheddar_popcorn,23,19
@@ -1776,7 +1776,7 @@ product_id,product_name,aisle_id,department_id
 1775,caramel_macchiato_creamer,53,16
 1776,thin_crispy_margherita_frozen_pizza,79,1
 1777,home_menu_beef_with_broccoli,38,1
-1778,pull_ups_night_time_training_pants_2t_3t,56,18
+1778,pull_ups_nighttime_training_pants_2t3t,56,18
 1779,jam_fig_ginger,88,13
 1780,maximum_absorbency_regular_length_incontinence_pads,126,11
 1781,highlighting_conditioner_henna_gold,22,11
@@ -1932,7 +1932,7 @@ product_id,product_name,aisle_id,department_id
 1931,happy_birthday_candles,97,13
 1932,soy_chorizo_vegetarian,106,12
 1933,designer_bowl_brush_caddy,114,17
-1934,cheese_shredded_mozzarella_reduced_fat_2_,21,16
+1934,cheese_shredded_mozzarella_reduced_fat_2,21,16
 1935,whole_wheat_cookies_dark_chocolate,61,19
 1936,diet_tangerine_lime_premium_soda_zero_calories_sugar_free_no_caffeine,77,7
 1937,red_velvet_cake_slice,8,3
@@ -2284,7 +2284,7 @@ product_id,product_name,aisle_id,department_id
 2283,100_no_cholesterol_safflower_oil,19,13
 2284,xylitol_spearmint_gum_bottle,20,11
 2285,vegan_hot_chocolate,90,7
-2286,cream_cheese_with_jalapeño,67,20
+2286,cream_cheese_with_jalapeno,67,20
 2287,hydrating_mist,109,11
 2288,real_coco_aloe_vera_drink,98,7
 2289,quick_5_minute_grits,130,14
@@ -2322,16 +2322,16 @@ product_id,product_name,aisle_id,department_id
 2321,orange_halo,24,4
 2322,all_american_classic_made_with_non_gmo_soy_veggie_burgers,42,1
 2323,rich_chocolate_flavored_milk_mix,90,7
-2324,pull_ups_boys_learning_designs_training_pants_3t_4t,56,18
+2324,pullups_boys_learning_designs_training_pants_3t_4t,56,18
 2325,hippie_hemp_truffles,45,19
 2326,organic_blueberry_waffles,52,1
 2327,gourmet_naturals_classic_butter_sea_salt_microwave_popcorn,23,19
 2328,traditional_style_feta,21,16
 2329,whole_grain_chicken_breast_strips,38,1
-2330,prostate_,47,11
+2330,prostate,47,11
 2331,complete_omega_lemon_softgels,47,11
 2332,low_carb_whole_wheat_large_tortillas,128,3
-2333,organic_cranberry_juice_100_,98,7
+2333,organic_cranberry_juice_100,98,7
 2334,organic_garam_masala,6,2
 2335,unknown,100,21
 2336,pasta_sides_parmesan_fettuccini_spinach_pasta,4,9
@@ -2427,7 +2427,7 @@ product_id,product_name,aisle_id,department_id
 2426,roasted_green_chile_jack_cheese_tamales,13,20
 2427,blueberry_lemonade_liquid_water_enhancer,90,7
 2428,half_time_turkey_breast_american_cheese,96,20
-2429,seriously_sharp_cheddar_cheese_cracker_cut_slices_,21,16
+2429,seriously_sharp_cheddar_cheese_cracker_cut_slices,21,16
 2430,natural_floor_soap_with_natural_linseed_oil,114,17
 2431,organic_spicy_lemonade_juice_drink,31,7
 2432,salt_free_blend_pumpkin_pie_spice,104,13
@@ -2440,7 +2440,7 @@ product_id,product_name,aisle_id,department_id
 2439,gluten_free_muffin_mix,105,13
 2440,hurt_free_antiseptic_wash,118,11
 2441,harvest_best_in_100_fruit_juice_mixed_fruit,99,15
-2442,jalapeño_pepper_slices,110,13
+2442,jalapeno_pepper_slices,110,13
 2443,original_creole_seasoning,104,13
 2444,mild_tandoori_marinade,76,6
 2445,powerball_max_in_1_shine_protect,74,17
@@ -2513,7 +2513,7 @@ product_id,product_name,aisle_id,department_id
 2512,99_fat_free_chicken_broth,69,15
 2513,steam_in_bag_broccoli_cauliflower,123,4
 2514,extreme_clean_whitening_action_mint_blast_fluoride_toothpaste,20,11
-2515,evaporated_milk_,17,13
+2515,evaporated_milk,17,13
 2516,24_hour_non_drowsy_allergy_relief,11,11
 2517,vanilla_animal_cookies,61,19
 2518,smart_ones_broccoli_cheddar_cheese_baked_potato,38,1
@@ -2705,7 +2705,7 @@ product_id,product_name,aisle_id,department_id
 2704,tofu_rancheros,52,1
 2705,organic_cat_nip,41,8
 2706,hot_pepper_jelly,88,13
-2707,complete_actionpacs_fresh_scent_dishwasher_detergent,74,17
+2707,completetm_actionpacstm_fresh_scent_dishwasher_detergent,74,17
 2708,fruit_by_the_foot_variety_pack,50,19
 2709,dijon_mustard_blend_rich_country,72,13
 2710,crushed_rosemary,104,13
@@ -2881,7 +2881,7 @@ product_id,product_name,aisle_id,department_id
 2880,mini_chocolate_donuts,93,3
 2881,gluten_free_ancient_grain_simply_sea_salt_crisps,107,19
 2882,gentle_care_tissue_rolls,54,17
-2883,spicy_jalapeño_chicken_sausage,106,12
+2883,spicy_jalapeno_chicken_sausage,106,12
 2884,ice_cream_tahitian_vanilla,37,1
 2885,organic_sweet_basil_and_roasted_garlic_smoked_sausage,106,12
 2886,strawberry_raspberry_blended_greek_yogurt,120,16
@@ -3056,7 +3056,7 @@ product_id,product_name,aisle_id,department_id
 3055,original_chai_tea_latte,94,7
 3056,ravioli_five_cheese_value_pack,12,9
 3057,fresh_mild_salsa,67,20
-3058,sunscreen_lotion_face_oil_free_spf_70_,73,11
+3058,sunscreen_lotion_face_oil_free_spf_70,73,11
 3059,italian_bread_unseeded,112,3
 3060,pepper_jack_cheese_slices,21,16
 3061,swiss_rolls,61,19
@@ -3262,7 +3262,7 @@ product_id,product_name,aisle_id,department_id
 3261,caffeine_free_roastaroma_herbal_tea,94,7
 3262,french_style_fresh_cut_green_beans,81,15
 3263,stress_relief_lavender_body_wash,127,11
-3264,muesli_bircher_unsweetened_,57,14
+3264,muesli_bircher_unsweetened,57,14
 3265,mini_seedless_watermelon_pack,32,4
 3266,organic_rainbow_chard_bunch,83,4
 3267,diet_root_beer_no_caffeine,77,7
@@ -3274,7 +3274,7 @@ product_id,product_name,aisle_id,department_id
 3273,home_menu_orange_chicken,38,1
 3274,black_tea_pyramids,94,7
 3275,mozzarella_log,21,16
-3276,infusions_ultra_downy_infusions_lavender_serenity_fabric_softener_sheets_90_count_fabric_enhancers,75,17
+3276,infusions_ultra_downy_infusionstm_lavender_serenitytm_fabric_softener_sheets_90_count_fabric_enhancers,75,17
 3277,overnight_diapers_sleepy_sheep_size_4,56,18
 3278,primadophilus_for_children,6,2
 3279,spinach_ricotta_ravioli,38,1
@@ -3476,7 +3476,7 @@ product_id,product_name,aisle_id,department_id
 3475,cascara_sagrada_aged_bark_capsules,70,11
 3476,authentic_french_sliced_brioche,112,3
 3477,fruit_veggie_1_2_3,121,14
-3478,designer_paper_plates_10_25_,111,17
+3478,designer_paper_plates_10_25,111,17
 3479,classic_whipped_cream,53,16
 3480,organic_sweet_corn,116,1
 3481,pineapple,24,4
@@ -3608,7 +3608,7 @@ product_id,product_name,aisle_id,department_id
 3607,herb_seasoned_stuffing,4,9
 3608,brie_raspberry_bake_serve_fillo_rolls,129,1
 3609,turkey_and_rice_baby_food,92,18
-3610,graziers_raw_jalapeño_jack_cheese,2,16
+3610,graziers_raw_jalapeno_jack_cheese,2,16
 3611,dark_chocolate_mint_morsels,17,13
 3612,peperoncini_golden_greek,110,13
 3613,medium_tex_mex_salsa,51,13
@@ -3622,7 +3622,7 @@ product_id,product_name,aisle_id,department_id
 3621,apple_butter_spread,88,13
 3622,cotes_de_provence,6,2
 3623,frank_s_red_hot_buffalo_ranch_dressing,89,13
-3624,otc_heartburn_capsules,70,11
+3624,otctm_heartburn_capsules,70,11
 3625,original_hummus_chips,107,19
 3626,hickory_smoked_classic_cut_bacon,106,12
 3627,organic_baby_corn_pieces,81,15
@@ -3808,7 +3808,7 @@ product_id,product_name,aisle_id,department_id
 3807,chocolate_peanut_butter_non_dairy_frozen_dessert,37,1
 3808,olive_oil_cooking_spray,19,13
 3809,unknown,100,21
-3810,eco_foil_loaf_pans_8_in_x_3_7_8_in_x_2_15_32_in_,10,17
+3810,eco_foil_loaf_pans_8_in_x_3_7_8_in_x_2_15_32_in,10,17
 3811,sliced_strawberries,116,1
 3812,chocolate_fudge_topping,103,19
 3813,green_apple_scent_dishwashing_liquid,74,17
@@ -4111,7 +4111,7 @@ product_id,product_name,aisle_id,department_id
 4110,tomato_meatball_soup,69,15
 4111,toasted_onion_dip_mix,51,13
 4112,chopped_salad_bowl_italian_salad_with_salami_turkey,1,20
-4113,fat_free_tuna_salad_with_crackers_snack_on_the_run_,95,15
+4113,fat_free_tuna_salad_with_crackers_snack_on_the_run,95,15
 4114,mcvities_digestives_the_original,61,19
 4115,gluten_free_southwest_hash_browns,129,1
 4116,newman_o_s_wheat_free_creme_filled_chocolate_cookies,61,19
@@ -4187,7 +4187,7 @@ product_id,product_name,aisle_id,department_id
 4186,10_oz_paper_bowls,111,17
 4187,everyday_bowls_soak_proof_foam_bowls,111,17
 4188,premium_marinara_sauce_original_recipe,9,9
-4189,yogurt_goat_milk_and_fruit_banana_natural_vanilla_bean_with_pear_2_,120,16
+4189,yogurt_goat_milk_and_fruit_banana_natural_vanilla_bean_with_pear_2,120,16
 4190,jammers_grape_juice_drinks,98,7
 4191,almond_cake,61,19
 4192,hardwood_smoked_peppered_thick_sliced_bacon,106,12
@@ -4247,7 +4247,7 @@ product_id,product_name,aisle_id,department_id
 4246,unknown,100,21
 4247,peppermint_stick_70_dark_chocolate,45,19
 4248,brie_cheese_wedge,2,16
-4249,organic_sliced_jalapeños,81,15
+4249,organic_sliced_jalapenos,81,15
 4250,maple_breakfast_sausage_links,106,12
 4251,beef_lasagna_family_size,13,20
 4252,the_greek_burrito,38,1
@@ -4440,7 +4440,7 @@ product_id,product_name,aisle_id,department_id
 4439,ultimate_flex_tall_kitchen_drawstring_lavender_13_gallon_garbage_bags,60,17
 4440,triple_berry_chewing_gum,46,19
 4441,unknown,100,21
-4442,spinach_plus_powergreens_,123,4
+4442,spinach_plus_powergreens,123,4
 4443,house_blend_medium_dark_roast_ground_coffee,26,7
 4444,clotted_cream_english_luxury,53,16
 4445,chamomile_herbal_tea,94,7
@@ -4590,7 +4590,7 @@ product_id,product_name,aisle_id,department_id
 4589,fresh_fettuccini,131,9
 4590,fentimans_curosity_cola,77,7
 4591,quick_1_minute_oatmeal,130,14
-4592,monterey_jack_cheese_with_jalapeños_slices,21,16
+4592,monterey_jack_cheese_with_jalapenos_slices,21,16
 4593,gluten_free_pancake_waffle_mix,130,14
 4594,elbows_gluten_free_pasta,131,9
 4595,italian_dry_salame,96,20
@@ -4659,7 +4659,7 @@ product_id,product_name,aisle_id,department_id
 4658,imported_mineral_water,115,7
 4659,organic_sloppy_joe_seasoning,104,13
 4660,sausage_pizza,79,1
-4661,aloe_vera_gel_whole_leaf_,47,11
+4661,aloe_vera_gel_whole_leaf,47,11
 4662,the_original_thick_slice_with_real_cheese_texas_toast,129,1
 4663,oatmeal_dark_chocolate_cookies,61,19
 4664,peppermint_bark_gelato,37,1
@@ -4916,7 +4916,7 @@ product_id,product_name,aisle_id,department_id
 4915,smoothie,31,7
 4916,disney_frozen_berry_cherry_raspberry_ice_pops,37,1
 4917,buttermilk_ranch_pretzel_pieces,107,19
-4918,pure_free_baby_sunblock_sunscreen_lotion_spf_60_,73,11
+4918,pure_freetm_baby_sunblock_sunscreen_lotion_spf_60,73,11
 4919,unscented_dishwasher_detergents,74,17
 4920,seedless_red_grapes,123,4
 4921,organic_roasted_garlic_mushroom_lentil_soup,69,15
@@ -5100,7 +5100,7 @@ product_id,product_name,aisle_id,department_id
 5099,black_bean_with_onion_garlic_crackers,83,4
 5100,coffee_coffee_buzzbuzzbuzz_ice_cream,37,1
 5101,lean_sweet_italian_turkey_sausage,106,12
-5102,signature_shredded_steak_three_cheese_chimichangas,38,1
+5102,signature_shredded_steak_threecheese_chimichangas,38,1
 5103,blueberry_purple_sweet_potato_super_puffs,92,18
 5104,pacific_coast_blend_ground_coffee,26,7
 5105,jasmine_green_tea_bags,94,7
@@ -5251,7 +5251,7 @@ product_id,product_name,aisle_id,department_id
 5250,blueberry_muffin_bar,3,19
 5251,shaved_brussel_sprouts,123,4
 5252,champagne_sparkling_california_brut_cuvee,62,5
-5253,storage_bags_with_click_n_lock_double_zipper_7_in_x_7_75_in_,85,17
+5253,storage_bags_with_click_n_lock_double_zipper_7_in_x_7_75_in,85,17
 5254,milk_chocolate_sea_salt_cashew,45,19
 5255,chardonnay_carneros,62,5
 5256,fruit_spread_concord_grape,88,13
@@ -5393,7 +5393,7 @@ product_id,product_name,aisle_id,department_id
 5392,ground_coffee_and_chicory,26,7
 5393,organic_whole_chocolate_milk,84,16
 5394,organic_pure_cane_sugar,17,13
-5395,water_resistant_mascara_black_,132,11
+5395,water_resistant_mascara_black,132,11
 5396,breaded_vegan_shrimp,42,1
 5397,plus_superfresh_everfresh_scent_dryer_sheets_fabric_softener,75,17
 5398,organic_red_pear,24,4
@@ -5582,10 +5582,10 @@ product_id,product_name,aisle_id,department_id
 5581,anejo_tequila,124,5
 5582,greener_clean_heavy_duty_scrub_sponge,114,17
 5583,kentucky_whisky,124,5
-5584,vitamin_d3_gummies_1000_iu_great_wild_berry_taste_,47,11
+5584,vitamin_d3_gummies_1000_iu_great_wild_berry_taste,47,11
 5585,premium_quinoa,4,9
 5586,original_glass_cleaner,114,17
-5587,jalapeño_pumpkin_seeds,117,19
+5587,jalapeno_pumpkin_seeds,117,19
 5588,organic_saffron,104,13
 5589,tangerine_fruit_juice,31,7
 5590,oatmeal_cereal,92,18
@@ -5617,7 +5617,7 @@ product_id,product_name,aisle_id,department_id
 5616,mexican_papaya,24,4
 5617,original_style_spaghetti_sauce_spices_seasonings,9,9
 5618,cauliflower,83,4
-5619,organic_turkey_paté_canned_cat_food,41,8
+5619,organic_turkey_pate_canned_cat_food,41,8
 5620,100_recycled_1_ply_white_napkins,54,17
 5621,sea_salt_fine_crystals,104,13
 5622,cocktail_tomatoes_on_the_vine,123,4
@@ -5642,7 +5642,7 @@ product_id,product_name,aisle_id,department_id
 5641,cinnamon_cardamon_and_ginger_cultured_butter,36,16
 5642,organic_stage_3_spaghetti_with_cheese_6_ounce_jar,92,18
 5643,unknown,100,21
-5644,fine_fragrance_love_forever_body_wash,127,11
+5644,fine_fragrance_love_forevertm_body_wash,127,11
 5645,meatless_and_soy_free_sausage_patties,52,1
 5646,organic_turkey_bacon,106,12
 5647,latex_disposable_gloves,114,17
@@ -5660,11 +5660,11 @@ product_id,product_name,aisle_id,department_id
 5659,herb_popcorn,23,19
 5660,storage_containers,85,17
 5661,instant_mashed_potato,4,9
-5662,line_express_eyeliner_soft_black_902,132,11
+5662,line_expresstm_eyeliner_soft_black_902,132,11
 5663,chocolate_energy_supplement,47,11
 5664,lucky_candy_bar,45,19
 5665,original_soft_chewy_candy,45,19
-5666,frizz_ease_secret_weapon_touch_up_crème,22,11
+5666,frizz_ease_secret_weapon_touch_up_creme,22,11
 5667,100_chelated_magnesium,47,11
 5668,lasagna_no_80,131,9
 5669,sunflower_kernels_roasted_salted,117,19
@@ -5788,7 +5788,7 @@ product_id,product_name,aisle_id,department_id
 5787,age_defying_olay_age_defying_body_wash_with_vitamin_e,127,11
 5788,jumbo_restaurant_style_beef_franks,106,12
 5789,apple_cinnamon_solid_air_freshener,101,17
-5790,sugar_free_chocolate_flavored_sundae_syrup_no_mess_cap_,103,19
+5790,sugar_free_chocolate_flavored_sundae_syrup_no_mess_cap,103,19
 5791,cabbage_napa_table_cut,67,20
 5792,gluten_free_chocolate_chip_cookie_dough,105,13
 5793,rehab_tea_lemonade_energy,64,7
@@ -5934,7 +5934,7 @@ product_id,product_name,aisle_id,department_id
 5933,wild_caught_frozen_sockeye_salmon_fillet,39,12
 5934,153_double_chocolate_brownie_bites_5_3_oz,3,19
 5935,blood_orange_cocktail_mixer,98,7
-5936,milk_chocolate_truffle_brûlée,45,19
+5936,milk_chocolate_truffle_brulee,45,19
 5937,unknown,100,21
 5938,savory_salmon,41,8
 5939,light_sodium_brown_rice_and_vegetable_bowl,38,1
@@ -6168,7 +6168,7 @@ product_id,product_name,aisle_id,department_id
 6167,green_apple_sparkling_soda,77,7
 6168,punjabi_style_butter_chicken_cooking_sauce,76,6
 6169,artichoke_truffle_sauce,81,15
-6170,simple_styles_spin_pins_2ct_assorted_colors,22,11
+6170,simple_stylestm_spin_pins_2ct_assorted_colors,22,11
 6171,crunchy_butterfly_shrimp,38,1
 6172,honey_pure_wildflower,29,13
 6173,pitted_castelvetrano_olives,110,13
@@ -6257,7 +6257,7 @@ product_id,product_name,aisle_id,department_id
 6256,muffin_tops_chocolate_chip_4_ct,52,1
 6257,raw_organic_cacao_powder,47,11
 6258,fit_triple_berry_crunch_whole_grain_granola,57,14
-6259,cast_iron_skillet_8_in_,10,17
+6259,cast_iron_skillet_8_in,10,17
 6260,handmade_pennsylvania_dutch_pretzels,23,19
 6261,spanish_rice_mix,4,9
 6262,pomegranate_dried_cranberries,117,19
@@ -6406,7 +6406,7 @@ product_id,product_name,aisle_id,department_id
 6405,30_less_sodium_chili_seasoning_mix,104,13
 6406,halved_brussels_sprouts,123,4
 6407,jambalaya_soup,69,15
-6408,redenbachers_popping_corn_gourmet_light_butter_bonus_pack_,23,19
+6408,redenbachers_popping_corn_gourmet_light_butter_bonus_pack,23,19
 6409,100_juice_cranberry,98,7
 6410,oral_electrolyte_maintenance_solution_grape,92,18
 6411,delights_honey_wheat_flatbread_turkey_sausage_egg_cheese,52,1
@@ -6603,7 +6603,7 @@ product_id,product_name,aisle_id,department_id
 6602,hair_repair_shampoo,22,11
 6603,organic_marshmallow_root,47,11
 6604,streak_free_clean_protect_stainless_steel,114,17
-6605,ultra_downy_mountain_spring_liquid_fabric_conditioner_51_fl_oz_60_loads_fabric_enhancers,75,17
+6605,ultra_downy_mountain_springtm_liquid_fabric_conditioner_51_fl_oz_60_loads_fabric_enhancers,75,17
 6606,gluten_free_garden_vegetable_lasagna,38,1
 6607,organic_blueberry_fruit_spread,88,13
 6608,instant_coconut_cream_pudding,105,13
@@ -6750,7 +6750,7 @@ product_id,product_name,aisle_id,department_id
 6749,clasico_dark_roasted_sticks,26,7
 6750,cheese_ravioli_with_sauce_bowls,38,1
 6751,drink_tabs_strawberry_lemonade,64,7
-6752,taper_candles_8_,101,17
+6752,taper_candles_8,101,17
 6753,unknown,100,21
 6754,oatmeal_muffin_mix,105,13
 6755,organic_whole_husk_psyllium_dietary_supplement,70,11
@@ -6779,7 +6779,7 @@ product_id,product_name,aisle_id,department_id
 6778,soup_golden_quinoa_and_kale,1,20
 6779,traditional_favorites_italian_sausage_with_peppers_onions_pasta_sauce,9,9
 6780,blood_builder,47,11
-6781,gala_3_lb_,24,4
+6781,gala_3_lb,24,4
 6782,2_in_1_ocean_charge_shampoo_conditioner,22,11
 6783,mint_mouth_wash,20,11
 6784,steel_wool_soap_pads_lemon_scent,114,17
@@ -6883,7 +6883,7 @@ product_id,product_name,aisle_id,department_id
 6882,strawberry_and_milk_frozen_fruit_bar,37,1
 6883,mesh_bath_sponge,127,11
 6884,crunchy_honey_roasted_granola,57,14
-6885,d_vi_sol_vitamin_d_supplement_drops_for_infants,47,11
+6885,d_vi_soltm_vitamin_d_supplement_drops_for_infants,47,11
 6886,vitamin_code_raw_d3_5000_iu,47,11
 6887,southwestern_egg_substitute,86,16
 6888,buffalo_chicken_mac_cheese,13,20
@@ -6984,7 +6984,7 @@ product_id,product_name,aisle_id,department_id
 6983,espresso_72_cacao_dark_chocolate,45,19
 6984,proactive_health_hairball_care_adult_cat_food,41,8
 6985,alfredo_sauce,9,9
-6986,diapers_overnight_free_clear_size_6_35_lbs_,56,18
+6986,diapers_overnight_free_clear_size_6_35_lbs,56,18
 6987,passion_herbal_infusion_caffeine_free_tea_bags,94,7
 6988,aloe_deodorant_soap_aloe,127,11
 6989,nutritive_solutions_cool_moisture,22,11
@@ -7107,7 +7107,7 @@ product_id,product_name,aisle_id,department_id
 7106,critical_omega_ultra_concentrated_essential_omega_3,47,11
 7107,fudge_dipped_chocolate_chip_granola_bars,48,14
 7108,napa_valley_cabernet_sauvignon,28,5
-7109,multivitamin_supplement_tablets_for_women_50_,47,11
+7109,multivitamin_supplement_tablets_for_women_50,47,11
 7110,educational_snacks_states_capitals,61,19
 7111,ocean_mist_scent_3_in_1_laundry_detergent_pods,30,6
 7112,organic_super_dark_chocolate_cups_with_peanut_butter_centers_6_count,45,19
@@ -7335,14 +7335,14 @@ product_id,product_name,aisle_id,department_id
 7334,spf_30_tinted_mineral_moisturizer_sand,109,11
 7335,plain_panko_bread_crumbs,5,13
 7336,wine_glasses_plastic_clear_12_oz,111,17
-7337,supremo_pork_chorizo_12_oz_,106,12
+7337,supremo_pork_chorizo_12_oz,106,12
 7338,island_mango_premium_fruit_snacks,50,19
 7339,the_very_finest_norwegian_fish_oil_liquid,47,11
 7340,lemon_oil_conditions_protects_wood_furniture,114,17
 7341,180_dusters_refill,114,17
 7342,rice_veggie_blend,107,19
 7343,assorted_sheer_strip_bandages,118,11
-7344,zucchini_soufflé,38,1
+7344,zucchini_souffle,38,1
 7345,parmigiano_reggiano_cheese,2,16
 7346,sparkling_lemon_seltzer,115,7
 7347,kiwi_beet_pear_strawberry_pouch,92,18
@@ -7615,7 +7615,7 @@ product_id,product_name,aisle_id,department_id
 7614,herbs_lime_leaves,16,4
 7615,pure_goat_milk_cheese_log,21,16
 7616,roasted_hazelnut_oil,19,13
-7617,permanent_double_sided_tape_1_2_x_12_5_yd_,87,17
+7617,permanent_double_sided_tape_1_2_x_12_5_yd,87,17
 7618,white_chocolate_sauce,103,19
 7619,antibacterial_kitchen_cleaner_citrus_scent,114,17
 7620,reese_whole_water_chestnuts,66,6
@@ -7711,7 +7711,7 @@ product_id,product_name,aisle_id,department_id
 7710,bits_cheese_big_bag,78,19
 7711,garcinia_weight_support,47,11
 7712,string_of_pearl_white_sprinkles,97,13
-7713,cat_food_paté_in_natural_juices_turkey_entrée,41,8
+7713,cat_food_pate_in_natural_juices_turkey_entree,41,8
 7714,sweet_potato_oatmeal_raisin_smart_cookies,61,19
 7715,rosemary_ham,96,20
 7716,dish_brush,10,17
@@ -7722,7 +7722,7 @@ product_id,product_name,aisle_id,department_id
 7721,glazed_cherry_pie,61,19
 7722,c_boost_fruit_juice_smoothie,31,7
 7723,minions_macaroni_cheese_dinner,4,9
-7724,cold_max_daytime_non_drowsy_citrus_burst_liquid,11,11
+7724,cold_max_daytime_non_drowsy_citrus_bursttm_liquid,11,11
 7725,fiber_whole_grain_crispbread,78,19
 7726,blue_1000_mg_vitamin_c_triple_berry_fizzy_drink_mix,11,11
 7727,fisherman_s_wharf_seafood_seasoning,104,13
@@ -7781,7 +7781,7 @@ product_id,product_name,aisle_id,department_id
 7780,guava_mamma_vitality_beverage,31,7
 7781,organic_sticks_low_moisture_part_skim_mozzarella_string_cheese,21,16
 7782,shea_butter_lotion,127,11
-7783,canine_cuisine_wet_dog_variety_pack_6_ct_filet_mignon_flavor_6_ct_porterhouse_steak_flavor_,40,8
+7783,canine_cuisine_wet_dog_variety_pack_6_ct_filet_mignon_flavor_6_ct_porterhouse_steak_flavor,40,8
 7784,extra_light_amber_honey_bear_squeeze_bottle,29,13
 7785,dinosaurs_chicken_breast_cutlets,34,1
 7786,marketplace_asparagus_cheese_ravioli,38,1
@@ -7929,7 +7929,7 @@ product_id,product_name,aisle_id,department_id
 7928,natural_skincare_for_men_deodorant,80,11
 7929,cho_coco_organic_nutrition_bar,3,19
 7930,apples_cinnamon_instant_oatmeal,130,14
-7931,gluten_free_raw_green_superfood_goji_açai_berry_drink_powder,65,11
+7931,gluten_free_raw_green_superfood_goji_acai_berry_drink_powder,65,11
 7932,decorating_white_cake_icing,97,13
 7933,apollo_fresh_deodorant_stick,80,11
 7934,all_natural_super_washing_soda,75,17
@@ -8059,7 +8059,7 @@ product_id,product_name,aisle_id,department_id
 8058,peach_prune_apple,92,18
 8059,peanut_butter_old_fashioned_unsalted_smooth,88,13
 8060,jack_daniel_s_marinade_in_a_bag_honey_teriyaki_liquid_marinade,5,13
-8061,pineapple_yogurt_2_,120,16
+8061,pineapple_yogurt_2,120,16
 8062,korean_teriyaki_stir_fry_sauce,66,6
 8063,light_absorbency_ultra_thin_regular_length_incontinence_pads,126,11
 8064,mini_toasts,78,19
@@ -8112,7 +8112,7 @@ product_id,product_name,aisle_id,department_id
 8111,ice_cream_honey_graham,37,1
 8112,almond_mozzarella_style_cheese_alternative,21,16
 8113,american_dijon_mustard,72,13
-8114,frosted_sugar_cookies_st_patrick_,61,19
+8114,frosted_sugar_cookies_st_patrick,61,19
 8115,bamboo_shoots_sliced_natural,81,15
 8116,lemon_lime_sports_drink_mix,90,7
 8117,bacon_wrapped_scallops,39,12
@@ -8437,7 +8437,7 @@ product_id,product_name,aisle_id,department_id
 8436,organic_waffles_flax_plus,52,1
 8437,gluten_free_multigrain_english_muffins,43,3
 8438,fruit_rings_cereal,121,14
-8439,sofia_pinot_noir_rosé_wine,134,5
+8439,sofia_pinot_noir_rose_wine,134,5
 8440,strawberry_banana_grape_sour_apple_candy,45,19
 8441,farmland_hickory_smoked_bacon_24oz,106,12
 8442,caffeine_free_peach_detox_tea,94,7
@@ -8538,13 +8538,13 @@ product_id,product_name,aisle_id,department_id
 8537,unknown,100,21
 8538,honey_mustard_dressing_topping_spread,89,13
 8539,organic_chicken_with_lemongrass_bone_broth,69,15
-8540,gluten_free_dried_shirataki_rice_style_,63,9
+8540,gluten_free_dried_shirataki_rice_style,63,9
 8541,organic_vanilla_almond_pudding,71,16
 8542,oil_free_liquid_acne_wash,73,11
 8543,washable_disappearing_purple_school_glue_stick,87,17
 8544,ground_pepper_cayenne,104,13
 8545,farro,63,9
-8546,wellness_herbal_resistance_liquid_alcohol_free_,47,11
+8546,wellness_herbal_resistance_liquid_alcohol_free,47,11
 8547,roasted_pepper_bruschetta,110,13
 8548,organic_sparkling_cucumber_lemon_coconut_water,98,7
 8549,honey_wheat_with_raspberry_bread,112,3
@@ -8578,12 +8578,12 @@ product_id,product_name,aisle_id,department_id
 8577,essence_peach_nectarine,115,7
 8578,hello_hydration_moisturizing_shampoo_with_coconut_essenses,22,11
 8579,raspberry_flavor_extract,17,13
-8580,vitaminwater_zero_xxx_acai_blueberry_pomegranate,64,7
+8580,vitaminwater_zerotm_xxx_acai_blueberry_pomegranate,64,7
 8581,sesame_bagels_5_count,58,1
 8582,banana_vanilla_freeze_dried_yogurt_fruit_snacks,92,18
 8583,plus_febreze_sport_active_fresh_scent_liquid_laundry_detergent_46_oz_24_loads_laundry,75,17
 8584,original_medium_taco_sauce,72,13
-8585,potato_chips_sour_cream_onion_flavored_party_size_,107,19
+8585,potato_chips_sour_cream_onion_flavored_party_size,107,19
 8586,skin_therapy_dry_skin_moisturizing,55,11
 8587,family_pack_bean_cheese_burritos,38,1
 8588,organic_pappardelle,12,9
@@ -8670,7 +8670,7 @@ product_id,product_name,aisle_id,department_id
 8669,pina_colada_yogurt_smoothie,120,16
 8670,diced_tomatoes,81,15
 8671,semi_sweet_chocolate_premium_baking_chips,17,13
-8672,gel_aloe_vera_98_,118,11
+8672,gel_aloe_vera_98,118,11
 8673,wood_fire_roasted_sesame_tahini,88,13
 8674,everyday_shampoo,25,11
 8675,unknown,100,21
@@ -9004,7 +9004,7 @@ product_id,product_name,aisle_id,department_id
 9003,concord_grape_reduced_sugar_jelly,88,13
 9004,nighttime_cough_bronchial_syrup,11,11
 9005,sweet_honey_catalina_dressing_smooth_tangy,89,13
-9006,naturе_s_calorie_free_sweetener,17,13
+9006,natur_s_calorie_free_sweetener,17,13
 9007,frosted_flakes,121,14
 9008,double_roll_bath_tissue_soft,54,17
 9009,fuji_apples,24,4
@@ -9044,7 +9044,7 @@ product_id,product_name,aisle_id,department_id
 9043,vanilla_chocolate_mexicano_classic_chocolate_discs,45,19
 9044,original_dry_rub,5,13
 9045,body_wash,127,11
-9046,mousse_truffée_pork_chicken_liver_mousse_w_truffles,88,13
+9046,mousse_truffee_pork_chicken_liver_mousse_w_truffles,88,13
 9047,premium_epsom_salt,133,11
 9048,rosemary_parmesan_down_east_crackers,78,19
 9049,smoked_gouda_cheese,21,16
@@ -9144,7 +9144,7 @@ product_id,product_name,aisle_id,department_id
 9143,guanabana_soursop_nectar,98,7
 9144,cf_van_pmpkn_grnola_11,3,19
 9145,fusilli_bucati_no_98_macaroni,131,9
-9146,organic_chèvre_fleurie_soft_ripened_goat_cheese,2,16
+9146,organic_chevre_fleurie_soft_ripened_goat_cheese,2,16
 9147,kickstart_strawberry_kiwi_beverage,77,7
 9148,unknown,100,21
 9149,u_ultra_thin_long_pads,126,11
@@ -9216,7 +9216,7 @@ product_id,product_name,aisle_id,department_id
 9215,fully_cooked_bacon,106,12
 9216,chicken_breast_patties_100_all_natural_fully_cooked_breaded,34,1
 9217,cold_brew_coffee_with_coconut_milk,26,7
-9218,snap_on_kids_toothbrush_sanitizer_assorted_colors_,20,11
+9218,snap_on_kids_toothbrush_sanitizer_assorted_colors,20,11
 9219,original_fig_spread,88,13
 9220,maple_flavored_links_pork_sausage,106,12
 9221,unknown,100,21
@@ -9813,7 +9813,7 @@ product_id,product_name,aisle_id,department_id
 9812,organic_gummy_bears,45,19
 9813,the_original_celebration_ice_cream_cake,37,1
 9814,fruit_bars_dark_chocolate_covered_creamy_strawberry,37,1
-9815,sponge_scrubber_extra_thick_all_surface_value_pack_,114,17
+9815,sponge_scrubber_extra_thick_all_surface_value_pack,114,17
 9816,asiago_cheese_artisan_nut_thins,78,19
 9817,100_berry_flavored_juice_pouches,98,7
 9818,cld_flu_van_chrry,11,11
@@ -9841,7 +9841,7 @@ product_id,product_name,aisle_id,department_id
 9840,grilled_chicken_pesto_with_vegetables_cafe_steamers,38,1
 9841,mac_cheese_pasta_in_cheese_sauce,59,15
 9842,bittersweet_70_cacao_baking_chunks,17,13
-9843,fresher_collection_timber_scent_invisible_solid_men_s_anti_perspirant_deoderant,80,11
+9843,fresher_collectiontm_timbertm_scent_invisible_solid_men_s_anti_perspirant_deoderant,80,11
 9844,raspberry_iced_tea,94,7
 9845,cheddar,2,16
 9846,simply_dressed_coleslaw_dressing,89,13
@@ -10076,7 +10076,7 @@ product_id,product_name,aisle_id,department_id
 10075,california_navel_oranges,123,4
 10076,chunk_light_yellowfin,95,15
 10077,with_olive_oil_mayonnaise_dressing,72,13
-10078,soft_baked_oats_and_chocolate_breakfast_biscuits_cookies_,48,14
+10078,soft_baked_oats_and_chocolate_breakfast_biscuits_cookies,48,14
 10079,lamisilat_athlete_s_foot_antifungal_cream,118,11
 10080,double_roasted_tomato_medium_salsa,51,13
 10081,oat_raisin_walnut_spice_whenever_bars,3,19
@@ -10392,7 +10392,7 @@ product_id,product_name,aisle_id,department_id
 10391,free_clear_gentle_bleach,75,17
 10392,burdock_root_475_mg_capsules,47,11
 10393,chili_oregano_green_pitted_olives,110,13
-10394,blanched_unsalted_hazelnuts_filberts_,117,19
+10394,blanched_unsalted_hazelnuts_filberts,117,19
 10395,kale_chips_stumptown_original,50,19
 10396,mini_marshmallow_hot_cocoa_mix,90,7
 10397,juicy_pomegranate_seeds,50,19
@@ -10469,7 +10469,7 @@ product_id,product_name,aisle_id,department_id
 10468,natural_bliss_all_natural_coffee_creamer_sweet_cream_flavor,53,16
 10469,brown_rice_pasta_shells,131,9
 10470,b_side_red,28,5
-10471,therapy_aches_and_pains_mineral_bath_soak,133,11
+10471,therapytm_aches_and_pains_mineral_bath_soak,133,11
 10472,caramel_apple_crumble_pie_pops,37,1
 10473,half_and_half_cream,53,16
 10474,nustevia_white_stevia_powder,17,13
@@ -10494,13 +10494,13 @@ product_id,product_name,aisle_id,department_id
 10493,unknown,100,21
 10494,original_gluten_free_breadcrumbs,5,13
 10495,visine_tears_dry_eye_relief_dry_eye,44,11
-10496,transparent_tape_1_2_,87,17
+10496,transparent_tape_1_2,87,17
 10497,organic_star_pasta_chicken_soup,69,15
 10498,pancake_baking_mix,130,14
 10499,jalapeno_nacho_slices_mild,30,6
 10500,cool_mint_antiseptic_adult_mouthwash,20,11
 10501,heavy_duty_8_5_inch_paper_plates,87,17
-10502,kid_s_sesame_street_soft_bristles_toothbrush,20,11
+10502,kids_sesame_street_soft_bristles_toothbrush,20,11
 10503,u_ultra_overnight_with_wings_pads,126,11
 10504,yukon_gold_potatoes_5lb_bag,83,4
 10505,sugar_free_french_vanilla,26,7
@@ -10536,7 +10536,7 @@ product_id,product_name,aisle_id,department_id
 10535,95_fat_free_dried_beef_ground_formed_sliced,95,15
 10536,brownie_brittle_salted_caramel,31,7
 10537,organic_protein_unsweetened_vanilla_almond_milk,91,16
-10538,cocoa_cupuaçu_butters_body_lotion,127,11
+10538,cocoa_cupuacu_butters_body_lotion,127,11
 10539,ice_cream_chocolate_orange_confetti,37,1
 10540,whole_medjool_dates,18,10
 10541,mustard_dijon_style,72,13
@@ -10800,7 +10800,7 @@ product_id,product_name,aisle_id,department_id
 10799,sweet_honey_mustard,72,13
 10800,horse_radish_prepared_cream_style_hot,21,16
 10801,2nd_foods_organic_veggies_green_beans_sweet_corn_baby_food_organic_purees_fruit_veg,92,18
-10802,diamond_junmai_ginjo_saké,134,5
+10802,diamond_junmai_ginjo_sake,134,5
 10803,ultra_thin_overnight_pads_with_flexi_wings,126,11
 10804,organic_cinnamon_raisin_bread,112,3
 10805,gold_nutrition_energy_bar_chocolate_peanut_butter,3,19
@@ -11029,7 +11029,7 @@ product_id,product_name,aisle_id,department_id
 11028,lavender_epsom_salt,89,13
 11029,sea_salt_and_vinegar_potato_chips,107,19
 11030,cayenne_cleanse_probiotic_tea,31,7
-11031,ichef_casserole_pans_with_lids_10_7_16_in_x_8_in_x_1_3_4_in_,10,17
+11031,ichef_casserole_pans_with_lids_10_7_16_in_x_8_in_x_1_3_4_in,10,17
 11032,mexican_style_white_corn_chips_no_salt,107,19
 11033,uncured_sliced_pastrami,96,20
 11034,5_peppermint_cobalt_cooling_sugar_free_gum,46,19
@@ -11266,10 +11266,10 @@ product_id,product_name,aisle_id,department_id
 11265,100_natural_diced_tomatoes,81,15
 11266,dried_mangos,117,19
 11267,suddenly_pasta_salad_creamy_italian,4,9
-11268,kick_ass_get_over_it_,47,11
+11268,kick_ass_get_over_it,47,11
 11269,cinnamon_true_sticks_organic,104,13
 11270,dried_apples,117,19
-11271,crème_moisture_moisturizing_body_wash,127,11
+11271,creme_moisture_moisturizing_body_wash,127,11
 11272,split_chicken_breasts,49,12
 11273,fruitables_fruits_vegetables_strawberry_lemonade_juice_beverage,98,7
 11274,kohlrabi,83,4
@@ -11374,7 +11374,7 @@ product_id,product_name,aisle_id,department_id
 11373,conditioning_cream_gel_curly_curl_sculpt,22,11
 11374,unknown,100,21
 11375,bbq_ranch_chopped_salad_kit,123,4
-11376,kettle_cooked_jalapeño_cheddar_potato_chips,107,19
+11376,kettle_cooked_jalapeno_cheddar_potato_chips,107,19
 11377,jalapeno_peppers_hot_marinated_sliced,81,15
 11378,multi_surface_stain_odor_eliminator_for_pets_fragrance_free,40,8
 11379,mango_spears,123,4
@@ -11610,7 +11610,7 @@ product_id,product_name,aisle_id,department_id
 11609,corn_butter_sauce_steamers,116,1
 11610,organic_chocolate_syrup,29,13
 11611,strawberry_fruit_snacks,50,19
-11612,easter_crème_eggs_4_count_4_8_oz_pkg,45,19
+11612,easter_creme_eggs_4_count_4_8_oz_pkg,45,19
 11613,frosted_sugar_cookies,8,3
 11614,pumpernickel_dark_pump_bread,112,3
 11615,original_prepared_cheese_product,21,16
@@ -11752,7 +11752,7 @@ product_id,product_name,aisle_id,department_id
 11751,three_outlet_household_cord,87,17
 11752,super_moist_vanilla_cake_mix,105,13
 11753,anti_cavity_strengthening_deep_sea_spearmint_gel_toothpaste,20,11
-11754,sauté_express_garlic_herb_cooking_squares,36,16
+11754,saute_express_garlic_herb_cooking_squares,36,16
 11755,chili_powder,104,13
 11756,training_pants_disney_pixar_night_time_3t_4t,56,18
 11757,crossovers_coconut_chocolate,120,16
@@ -11913,7 +11913,7 @@ product_id,product_name,aisle_id,department_id
 11912,roka_blue_cheese_salad_dressing,89,13
 11913,shelled_pistachios,117,19
 11914,original_pennsylvania_dutch_pretzels,107,19
-11915,ultra_tide_laundry_detergent_powder_original_68_loads_,75,17
+11915,ultra_tide_laundry_detergent_powder_original_68_loads,75,17
 11916,green_superfood_all_natural_drink_powder,70,11
 11917,california_habanero_hot_sauce,5,13
 11918,reveal_72_watt_halogen_bulb,87,17
@@ -12090,7 +12090,7 @@ product_id,product_name,aisle_id,department_id
 12089,citrus_mint_soap,25,11
 12090,organic_flaxseed_granola,57,14
 12091,original_sensuous_slathering_bar_b_que_sauce,5,13
-12092,fire_roasted_jalapeño_pita_chips,107,19
+12092,fire_roasted_jalapeno_pita_chips,107,19
 12093,rubber_bands,6,2
 12094,chick_peas_garbanzos_premium,59,15
 12095,sea_salt_sweet_potato_crackers,78,19
@@ -12120,7 +12120,7 @@ product_id,product_name,aisle_id,department_id
 12119,lavender_chamomile_fragrance_4_in_1_air_freshener,101,17
 12120,half_half_sweet_tea_pink_lemonade,31,7
 12121,chewy_peanut_peanut_butter_granola_bars,3,19
-12122,chocolate_flavored_low_fat_milk_1_,84,16
+12122,chocolate_flavored_low_fat_milk_1,84,16
 12123,chicken_fat_rendered,34,1
 12124,organic_strawberry_greek_yogurt,120,16
 12125,organic_peace_pasta_parmesan_macaroni_cheese,4,9
@@ -12184,9 +12184,9 @@ product_id,product_name,aisle_id,department_id
 12183,butter_unsalted_4_ct,36,16
 12184,sugar_free_oats_and_chocolate_cookies,61,19
 12185,whole_cleaned_calamari,15,12
-12186,organic_mint_mélange_herbal_tea,94,7
+12186,organic_mint_melange_herbal_tea,94,7
 12187,ground_coffee_classico_medium_roast,26,7
-12188,daily_facial_moisturizer_spf_50_,73,11
+12188,daily_facial_moisturizer_spf_50,73,11
 12189,organic_barley_flour,17,13
 12190,cupcake_liner_blue,97,13
 12191,kettle_cooked_original_potato_chips,107,19
@@ -12207,7 +12207,7 @@ product_id,product_name,aisle_id,department_id
 12206,basil_pesto,9,9
 12207,organic_cheddar_broccoli_quinoa_squares,78,19
 12208,organic_protein_chocolate_almond_coconut_milk_superfood_smoothie,31,7
-12209,infusions_ultra_downy_infusions_lavender_serenity_liquid_fabric_conditioner_41_fl_oz_fabric_enhancers,75,17
+12209,infusions_ultra_downy_infusionstm_lavender_serenitytm_liquid_fabric_conditioner_41_fl_oz_fabric_enhancers,75,17
 12210,organic_bunashimeji_mushrooms,123,4
 12211,gluten_free_organic_taco_sliders_corn_tortillas,30,6
 12212,unscented_1000_sheets_per_roll_bathroom_tissue,54,17
@@ -12272,7 +12272,7 @@ product_id,product_name,aisle_id,department_id
 12271,smoked_pulled_pork,96,20
 12272,rosemary_sesame_crackers,78,19
 12273,compleats_beef_pot_roast,59,15
-12274,notes_cube_3_x_3_,54,17
+12274,notes_cube_3_x_3,54,17
 12275,baby_vitamin_c_tablets,6,2
 12276,chocolate_chip_cookie_dough_ice_cream,37,1
 12277,3d_white_luxe_diamond_strong_brilliant_mint,20,11
@@ -12350,7 +12350,7 @@ product_id,product_name,aisle_id,department_id
 12349,valencia_orange_concentrated_cleaner_degreaser,114,17
 12350,california_paisano,28,5
 12351,smooth_sweet_citrus_punch,31,7
-12352,eco_foil_mini_loaf_pans_and_lids_5_23_32_in_x_3_5_16_in_x_1_7_8_in_,10,17
+12352,eco_foil_mini_loaf_pans_and_lids_5_23_32_in_x_3_5_16_in_x_1_7_8_in,10,17
 12353,agave_lemonade,31,7
 12354,liquid_soap_ultimate_clean_hair_body_wash,127,11
 12355,catch_a_wave_mac_cheese_frozen_dinner,38,1
@@ -12566,7 +12566,7 @@ product_id,product_name,aisle_id,department_id
 12565,family_pack_beef_bean_chimichangas,38,1
 12566,organic_black_mustard_seed,104,13
 12567,limon,31,7
-12568,septic_system_treatment_powder_,114,17
+12568,septic_system_treatment_powder,114,17
 12569,frozen_unsweetened_whole_strawberries,116,1
 12570,organic_lotion_lavender_coconut,127,11
 12571,smokey_chipotle_raw_sauerkraut,110,13
@@ -12578,7 +12578,7 @@ product_id,product_name,aisle_id,department_id
 12577,indian_cuisine_bengal_lentils,76,6
 12578,cinn_a_rolls,52,1
 12579,cashews,117,19
-12580,3d_white_luxe_mouthwash_fresh_mint,20,11
+12580,3d_whitetm_luxe_mouthwash_fresh_mint,20,11
 12581,gluten_free_supreme_pizza,79,1
 12582,colorstay_eyeliner_black_brown,132,11
 12583,organic_gold_beets,83,4
@@ -12693,7 +12693,7 @@ product_id,product_name,aisle_id,department_id
 12692,allergy_24_hour_relief_15_ct,11,11
 12693,cherry_and_almond_70_dark_chocolate_bar,45,19
 12694,organic_peas,116,1
-12695,smart_strips_chik_n_style_seasoned_veggie_strips,14,20
+12695,smart_strips_chikn_style_seasoned_veggie_strips,14,20
 12696,japanese_thick_udon_noodles,66,6
 12697,sliced_pepper_jack_cheese,21,16
 12698,stress_b_complex_with_vitamin_c_zinc,47,11
@@ -12859,7 +12859,7 @@ product_id,product_name,aisle_id,department_id
 12858,pecan_pie_fruit_nut_food_bar,3,19
 12859,peppered_salame,96,20
 12860,italian_lemon_juice,98,7
-12861,farmer_s_market_vine_ripened_tomato_basil_hummus,67,20
+12861,farmers_market_vine_ripened_tomato_basil_hummus,67,20
 12862,three_cheese_tortellini_with_bacon,12,9
 12863,bread_double_fiber,112,3
 12864,organic_turkey_gravy,5,13
@@ -13035,7 +13035,7 @@ product_id,product_name,aisle_id,department_id
 13034,tea_tulsi_sleep_caffeine_free_infusion_bags,94,7
 13035,fun_size_candy_snack_6_count,45,19
 13036,crunch_milk_chocolate_with_crisped_rice_chocolate_bar,45,19
-13037,international_café_vienna,26,7
+13037,international_cafe_vienna,26,7
 13038,pro_health_stages_crest_pro_health_stages_kids_toothpaste,20,11
 13039,creme_fraiche_organic,108,16
 13040,bold_sriracha_flavored_almonds,117,19
@@ -13193,7 +13193,7 @@ product_id,product_name,aisle_id,department_id
 13192,pb_chocolate_chip_nirvana_protein_bar,3,19
 13193,special_sauce,72,13
 13194,chewy_granola_bars_variety_pack,3,19
-13195,café_caramel_shake,133,11
+13195,cafe_caramel_shake,133,11
 13196,sheep_s_milk_halloumi_cheese,21,16
 13197,alexander_valley_cabernet_sauvignon_wine,28,5
 13198,85_lean_ground_beef,122,12
@@ -13599,7 +13599,7 @@ product_id,product_name,aisle_id,department_id
 13598,unknown,100,21
 13599,ravishing_rocky_road,45,19
 13600,cream_of_tartar_powder,104,13
-13601,infusions_ultra_downy_infusions_botanical_mist_fabric_softener_sheets_105_count_fabric_enhancers,75,17
+13601,infusions_ultra_downy_infusionstm_botanical_misttm_fabric_softener_sheets_105_count_fabric_enhancers,75,17
 13602,wheat_krisp_protein_bar,3,19
 13603,tarragon_chicken_salad,1,20
 13604,baked_chipotle_tofu,66,6
@@ -13612,7 +13612,7 @@ product_id,product_name,aisle_id,department_id
 13611,greek_nonfat_yogurt_strawberry,120,16
 13612,dark_truffle_piglet_chocolate_bar,45,19
 13613,berry_mint_gems,46,19
-13614,spring_renewal_liquid_fabric_conditioner,75,17
+13614,spring_renewaltm_liquid_fabric_conditioner,75,17
 13615,cookies_family_recipe_ginger_snap,61,19
 13616,steam_fingerling_potato,123,4
 13617,banana_split_ice_cream,37,1
@@ -13906,12 +13906,12 @@ product_id,product_name,aisle_id,department_id
 13905,shabbos_candles,33,6
 13906,pomegranate_spruce_candle,101,17
 13907,organic_seedless_raisins,117,19
-13908,eco_foil_poultry_pans_lids_9_3_8_in_x_9_3_8_in_x_2_3_8_in_,10,17
+13908,eco_foil_poultry_pans_lids_9_3_8_in_x_9_3_8_in_x_2_3_8_in,10,17
 13909,jasmine_rice,63,9
 13910,persian_rose_soap_bar,25,11
 13911,lager,27,5
 13912,vitasea_juice,31,7
-13913,sparkling_citrus_beverage_with_orange_pulp_,77,7
+13913,sparkling_citrus_beverage_with_orange_pulp,77,7
 13914,cheez_it_baked_snack_crackers,78,19
 13915,wet_skin_broad_spectrum_spf_30_sunscreen_spray,127,11
 13916,premium_crab_meat,95,15
@@ -13978,7 +13978,7 @@ product_id,product_name,aisle_id,department_id
 13977,caramel_chocolate_milk_duds,45,19
 13978,sambucus_standardized_elderberry_gummies,47,11
 13979,beautiful_earth_long_lasting_women_s_deodorant,80,11
-13980,jalapeño_string_cheese_low_moisture_part_skim_mozzarella_cheese_with_jalapeño_peppers,21,16
+13980,jalapeno_string_cheese_low_moisture_part_skim_mozzarella_cheese_with_jalapeno_peppers,21,16
 13981,evenly_gorgeous_burnt_brown_sugar_karite_butter_body_wash,127,11
 13982,palmetto_cheese_original,21,16
 13983,cocoa_mocha_almonds,117,19
@@ -14367,7 +14367,7 @@ product_id,product_name,aisle_id,department_id
 14366,enlighten_mint_organic,94,7
 14367,cloves,6,2
 14368,turmeric_ginger_tea,94,7
-14369,arctic_cod_liver_oil_great_orange_taste_,47,11
+14369,arctic_cod_liver_oil_great_orange_taste,47,11
 14370,organic_dark_chocolate_chewy_banana_bites,117,19
 14371,organic_nonfat_milk,84,16
 14372,original_5_cheese_pizza,79,1
@@ -14962,7 +14962,7 @@ product_id,product_name,aisle_id,department_id
 14961,ginger_thins,61,19
 14962,hearts_of_palm,81,15
 14963,lashblast_volume_mascara_very_black_800,132,11
-14964,limón_potato_chips,107,19
+14964,limon_potato_chips,107,19
 14965,hello_morning_apple_cinnamon_quinoa_oatmeal,92,18
 14966,organic_mandarins,24,4
 14967,favorites_french_bread_supreme_pizza,79,1
@@ -15093,7 +15093,7 @@ product_id,product_name,aisle_id,department_id
 15092,sugar_free_black_cherry_cough_drops,11,11
 15093,xpolsive_pizza_baked_snack_crackers,78,19
 15094,edamame_dry_roasted_spicy_wasabi,117,19
-15095,kettle_cooked_potato_chips_original_15_oz_,107,19
+15095,kettle_cooked_potato_chips_original_15_oz,107,19
 15096,cheddar_tortilla_chips,107,19
 15097,light_mayonnaise,72,13
 15098,dailywellness_plantforce_liquid_iron,47,11
@@ -15343,7 +15343,7 @@ product_id,product_name,aisle_id,department_id
 15342,dirty_mint_chip_ice_cream,37,1
 15343,coffee_blended_low_fat_greek_yogurt,120,16
 15344,supreme_party_pizza,79,1
-15345,chèvre_herb_chabis_cheese,21,16
+15345,chevre_herb_chabis_cheese,21,16
 15346,ultra_strength_peppermint_antacid_calcium_supplement_tablets,70,11
 15347,mercurius_solubilis_30c_homeopathic_pellets,47,11
 15348,salisbury_steak_with_macaroni_and_cheese_salisbury_steak_with_macaroni_and_cheese,38,1
@@ -15452,7 +15452,7 @@ product_id,product_name,aisle_id,department_id
 15451,pork_shoulder_butt_roast,122,12
 15452,maxi_pads_overnight_with_flexi_wings,126,11
 15453,gluten_free_vanilla_creme_cookies,61,19
-15454,tuna_fillets_with_jalapeño_in_olive_oil,95,15
+15454,tuna_fillets_with_jalapeno_in_olive_oil,95,15
 15455,organic_extra_virgin_oil_olive,19,13
 15456,fruyo_greek_nonfat_strained_yogurt_blended_with_pineapple,120,16
 15457,pure_vanilla_extract_madagascar_bourbon,17,13
@@ -15888,7 +15888,7 @@ product_id,product_name,aisle_id,department_id
 15887,rosemary_hand_soap,25,11
 15888,vanilla_wafers_cookies,61,19
 15889,lavender_moisturizing_cream_shave,55,11
-15890,stellar_gaze_length_strength_mineral_mascara_stardust_brown_,132,11
+15890,stellar_gaze_length_strength_mineral_mascara_stardust_brown,132,11
 15891,barbecue_sauce,5,13
 15892,veggie_dogs,14,20
 15893,natural_calm_plus_calcium_raspberry_lemon_flavor,47,11
@@ -15930,7 +15930,7 @@ product_id,product_name,aisle_id,department_id
 15929,tart_apple_slices,123,4
 15930,light_grey_celtic_sea_salt,104,13
 15931,unknown,100,21
-15932,children_s_allergy_orally_disintegrating_tablets_orange_crème,11,11
+15932,children_s_allergy_orally_disintegrating_tablets_orange_creme,11,11
 15933,gluten_free_waffle_pancake_mix,105,13
 15934,moroccan_lentil_pie,13,20
 15935,rainbow_carrot_bunch,83,4
@@ -15988,7 +15988,7 @@ product_id,product_name,aisle_id,department_id
 15987,artichoke_hearts_marinated_quartered,81,15
 15988,black_bean_fiesta_crackers,78,19
 15989,sandwich_crackers_variety_pack,78,19
-15990,zucchini_spinach_banana_blend_veggies_on_the_go_stage_2_6_months_and_up_,92,18
+15990,zucchini_spinach_banana_blend_veggies_on_the_go_stage_2_6_months_and_up,92,18
 15991,lactose_free_grade_a_low_fat_vanilla_yogurt,120,16
 15992,blackberry_serrano_yogurt,120,16
 15993,rice_roll_crunchy_brown_rice_white_rice,50,19
@@ -16020,7 +16020,7 @@ product_id,product_name,aisle_id,department_id
 16019,all_in_one_french_vanilla_nutritional_shake_sachet,65,11
 16020,original_crescent_rolls,105,13
 16021,cinnamon_streusel_coffee_cakes,61,19
-16022,eco_foil_loaf_pans_lids_8_in_x_3_7_8_in_x_2_15_32_in_,10,17
+16022,eco_foil_loaf_pans_lids_8_in_x_3_7_8_in_x_2_15_32_in,10,17
 16023,hydro_silk_women_s_disposable_razor,55,11
 16024,holiday_cranberry_vanilla_herbal_tea,94,7
 16025,herbal_daily_cleanse_conditioner,22,11
@@ -16106,7 +16106,7 @@ product_id,product_name,aisle_id,department_id
 16105,smart_ones_bacon_macaroni_and_cheese,38,1
 16106,budweiser,27,5
 16107,mousse_du_perigod,96,20
-16108,deli_sliced_hot_jalapeño_peppers,110,13
+16108,deli_sliced_hot_jalapeno_peppers,110,13
 16109,crescent_dough_sheet,105,13
 16110,half_boneless_ham,7,12
 16111,organic_lemon_peel,5,13
@@ -16169,7 +16169,7 @@ product_id,product_name,aisle_id,department_id
 16168,large_organic_omega3_brown_eggs,86,16
 16169,rstd_whl_chsnts,117,19
 16170,italian_style_meatballs_mozzarella_sandwiches,38,1
-16171,italian_style_favorites_meat_trio_italian_sausage_genoa_salami_and_pepperoni_with_mozzarella_cheese_over_a_marinara_sauce_,79,1
+16171,italian_style_favorites_meat_trio_italian_sausage_genoa_salami_and_pepperoni_with_mozzarella_cheese_over_a_marinara_sauce,79,1
 16172,color_reflect_gold_shampoo,22,11
 16173,creamy_wildflower_honey,29,13
 16174,original_vegenaise_dressing_sandwich_spread,72,13
@@ -16234,7 +16234,7 @@ product_id,product_name,aisle_id,department_id
 16233,gluten_free_cranberry_cinnamon_instant_oatmeal_with_flax,130,14
 16234,vitamin_d_organic_milk,84,16
 16235,vanilla_keurig_brewed_k_cups,26,7
-16236,grilled_chicken_pesto_vegetables_café_steamers,38,1
+16236,grilled_chicken_pesto_vegetables_cafe_steamers,38,1
 16237,finely_shredded_mozzarella_cheese,21,16
 16238,gingerbread_cake_and_cookie_mix,105,13
 16239,organic_countrywild_rice_bowl,4,9
@@ -16387,7 +16387,7 @@ product_id,product_name,aisle_id,department_id
 16386,water_stop_premium_gloves_small,10,17
 16387,cold_pressed_organic_grapefruit,98,7
 16388,fruit_and_vegetable_wash_natural_refill,114,17
-16389,café_domingo_medium_roast_k_cups,26,7
+16389,cafe_domingo_medium_roast_k_cups,26,7
 16390,organic_raw_fit_marley_coffee,65,11
 16391,soft_replacement_heads_for_source_toothbrush,20,11
 16392,unknown,100,21
@@ -16433,7 +16433,7 @@ product_id,product_name,aisle_id,department_id
 16432,organic_honey_gold_potatoes,83,4
 16433,ham_cheese_loaf,96,20
 16434,dark_chocolate_brownie_mix,105,13
-16435,trade_whole_wheat_taco_boats_8_ct_6_7_oz_,128,3
+16435,trade_whole_wheat_taco_boats_8_ct_6_7_oz,128,3
 16436,grilled_tuna_feast_in_gravy_cat_food,41,8
 16437,beach_sage_laundry_detergent,75,17
 16438,unsulphured_robust_molasses,29,13
@@ -16698,7 +16698,7 @@ product_id,product_name,aisle_id,department_id
 16697,stage_3_hearty_meals_mama_grain_baby_food,92,18
 16698,uncured_pepperoni_uncured_bacon,79,1
 16699,evening_primrose_1300_mg,47,11
-16700,baby_bee_bubble_bath_,102,18
+16700,baby_bee_bubble_bath,102,18
 16701,soup_mix_whole_grains_and_beans,63,9
 16702,day_night_cold_formula_liquid_gels_multi_symptom_relief,11,11
 16703,4_milkfat_large_curd_cottage_cheese,108,16
@@ -16896,7 +16896,7 @@ product_id,product_name,aisle_id,department_id
 16895,stage_2_just_apple_kiwi,92,18
 16896,potato_chips_sweet_potato,107,19
 16897,trail_mix_chewy_granola,3,19
-16898,organic_pickled_jalapeños,110,13
+16898,organic_pickled_jalapenos,110,13
 16899,mango_flavor_dairy_free_fermented_soy_probiotic,70,11
 16900,original_whole_grain_chips,107,19
 16901,red_velvet_cupcake,8,3
@@ -17057,7 +17057,7 @@ product_id,product_name,aisle_id,department_id
 17056,microwavable_single_serving_mac_cheese,4,9
 17057,roast_chicken_flavor_big_cup_noodles,4,9
 17058,sausage_scrambles,52,1
-17059,organic_herbal_coffee_alternative_dark_french_roast_,26,7
+17059,organic_herbal_coffee_alternative_dark_french_roast,26,7
 17060,original_recipe_marinara_pasta_sauce,9,9
 17061,bernie_s_farm_fun_shape_macaroni_cheese,4,9
 17062,almond_crusted_flounder,39,12
@@ -17603,7 +17603,7 @@ product_id,product_name,aisle_id,department_id
 17602,chunky_traditional_pasta_sauce,9,9
 17603,pinto_beans_refried,59,15
 17604,sweet_dreams_organic_brown_rice_syrup,29,13
-17605,spectacular_speculoos_cookie_core_ice_cream,37,1
+17605,spectacular_speculoostm_cookie_coretm_ice_cream,37,1
 17606,premium_chocolate_powdered_peanut_butter,88,13
 17607,greek_yogurt_farmer_ranch_dip,51,13
 17608,junami_apple,24,4
@@ -17933,7 +17933,7 @@ product_id,product_name,aisle_id,department_id
 17932,endulge_peanut_butter_cups,3,19
 17933,barilla_veggie_elbows_pasta_12oz,131,9
 17934,red_velvet_creme_cake,8,3
-17935,body_wash_pink_grapefruit_body_clear_,127,11
+17935,body_wash_pink_grapefruit_body_clear,127,11
 17936,beef_cheese_taquitos,38,1
 17937,bamboo_sporks,111,17
 17938,organic_strawberry_whole_milk_greek_yogurt,120,16
@@ -18046,7 +18046,7 @@ product_id,product_name,aisle_id,department_id
 18045,clean_refresh_antibacterial_body_wash_lavender_twilight_jasmine,127,11
 18046,perfect_size_chocolate_lovers_cake_mix,105,13
 18047,premium_dog_food,40,8
-18048,pretzel_shells_,107,19
+18048,pretzel_shells,107,19
 18049,thirst_quencher_caffeine_free_naturally_flavored_citrus_soda,77,7
 18050,gluten_free_spaghetti,131,9
 18051,coffee_cake_cinnamon_walnut,61,19
@@ -18235,7 +18235,7 @@ product_id,product_name,aisle_id,department_id
 18234,organic_spinach_bunch,83,4
 18235,automatic_spray_cashmere_woods_air_freshener_refill,101,17
 18236,annatto_seed_organic,104,13
-18237,aloe_vera_100_,47,11
+18237,aloe_vera_100,47,11
 18238,condensed_cream_of_onion_soup,69,15
 18239,one_size_flexible_fabric_with_memory_weave_adhesive_bandages,118,11
 18240,protein_kefir_nonfat_cultured_milk_smoothie_vanilla_probiotic,120,16
@@ -18633,7 +18633,7 @@ product_id,product_name,aisle_id,department_id
 18632,wetjet_open_window_fresh_scent_liquid_cleaner_refill,114,17
 18633,balsamic_vinaigrette_steak_house_dressing,89,13
 18634,poppy_seed,104,13
-18635,positively_smooth_shave_gel,55,11
+18635,positively_smoothtm_shave_gel,55,11
 18636,ultra_clean_arctic_mint,20,11
 18637,ritz_crackers_and_cheese_dip_handi_snacks,78,19
 18638,lamb_shoulder_chop,122,12
@@ -18648,7 +18648,7 @@ product_id,product_name,aisle_id,department_id
 18647,blueberry_crumb_cake_4_ct,8,3
 18648,natural_free_clear_42_loads_liquid_fabric_softener,75,17
 18649,thai_veggie_chicken,1,20
-18650,stubborn_acne_spot_gel_rapid_clear_,73,11
+18650,stubborn_acne_spot_gel_rapid_clear,73,11
 18651,vanilla_with_blue_diamond_almonds_greek_nonfat_yogurt,120,16
 18652,pain_relief_tablets,6,2
 18653,super_shreds_superfood_brussels_sprouts,123,4
@@ -18733,7 +18733,7 @@ product_id,product_name,aisle_id,department_id
 18732,melatonin_3_mg_tablets,6,2
 18733,pop_tarts_frosted_red_velvet_toaster_pastries,48,14
 18734,energy_pineapple_strawberry_1_62oz,90,7
-18735,anti_itch_crème,118,11
+18735,anti_itch_creme,118,11
 18736,sorta_sweet_straight_up_iced_tea,94,7
 18737,mini_soft_tortilla_taco_boats,4,9
 18738,thintensity_ultrasmooth_lubricant_condoms,6,2
@@ -18826,7 +18826,7 @@ product_id,product_name,aisle_id,department_id
 18825,wakame_seaweed_shiitake_mushrooms,66,6
 18826,healthy_request_condensed_soup_chicken_with_rice,69,15
 18827,the_kyoto_burrito,38,1
-18828,organic_mint_tereré_yerba_mate_blend,94,7
+18828,organic_mint_terere_yerba_mate_blend,94,7
 18829,dairy_free_grated_parmesan_style_topping,91,16
 18830,pressed_cool_pineapple,98,7
 18831,cookies_oatmeal_raisin,8,3
@@ -18989,7 +18989,7 @@ product_id,product_name,aisle_id,department_id
 18988,ultra_soft_strong_toilet_paper_double_rolls,54,17
 18989,citrus_essence_laundry_powder_detergent,75,17
 18990,medjool_dates,123,4
-18991,ultimate_flora_women_s_daily_probiotic,47,11
+18991,ultimate_flora_womens_daily_probiotic,47,11
 18992,light_chestnut_brown_5n_permanent_hair_color,22,11
 18993,organic_cashew_caramel_macrobar,3,19
 18994,spicy_kimchi,66,6
@@ -18999,7 +18999,7 @@ product_id,product_name,aisle_id,department_id
 18998,complete_actionpacs_fresh_scent_dishwasher_detergent,74,17
 18999,veggie_wash,114,17
 19000,wild_caught_sea_scallops,15,12
-19001,nutrisse_nourishing_color_creme_30_darkest_brown_sweet_cola_,22,11
+19001,nutrisse_nourishing_color_creme_30_darkest_brown_sweet_cola,22,11
 19002,rice_based_formula_vanilla_probiotic,70,11
 19003,celery,83,4
 19004,jammers_orange,98,7
@@ -19168,7 +19168,7 @@ product_id,product_name,aisle_id,department_id
 19167,premium_cape_cod_fresh_cranberries,123,4
 19168,midgees_bonus_pack,45,19
 19169,fruit_nut_five_star_bar,45,19
-19170,cheddar_cheese_with_jalapeño_peppers_block,21,16
+19170,cheddar_cheese_with_jalapeno_peppers_block,21,16
 19171,100_lactose_free_organic_2_reduced_fat_milk,84,16
 19172,french_onion_with_bacon_dip,67,20
 19173,orange_calcium_vitamin_d_pulp_free,98,7
@@ -19207,7 +19207,7 @@ product_id,product_name,aisle_id,department_id
 19206,salsa_picante,72,13
 19207,citrus_punch_tangy_original,31,7
 19208,gluten_free_multigrain_bread,112,3
-19209,onion_bagels_6_pre_sliced_,93,3
+19209,onion_bagels_6_pre_sliced,93,3
 19210,cold_allergy_grape_flavor,11,11
 19211,tri_flexxx_triple_blade_cartridges_for_men,55,11
 19212,cherry_almond_chocolate_bar,45,19
@@ -19320,7 +19320,7 @@ product_id,product_name,aisle_id,department_id
 19319,solid_white_albacore_tuna_with_salt_in_pouch,95,15
 19320,ginger_lemongrass,31,7
 19321,virgin_flax_seed_oil,19,13
-19322,original_flax_milk_dairy_free_protein_,91,16
+19322,original_flax_milk_dairy_free_protein,91,16
 19323,organic_olive_oil_basil_garlic_pasta_sauce,9,9
 19324,plugins_scented_oil_cashmere_woods_refills,101,17
 19325,tomato_basil_pasta_sauce,9,9
@@ -19328,7 +19328,7 @@ product_id,product_name,aisle_id,department_id
 19327,artisan_series_cherry_tomatoes_on_the_vine,83,4
 19328,gluten_free_sesame_ring_pretzels,107,19
 19329,brain_on_apple_lemon_flavored,47,11
-19330,jalabeaños_pickled_green_beans,110,13
+19330,jalabeanos_pickled_green_beans,110,13
 19331,whole_mediterranean_bay_leaves,104,13
 19332,organic_raw_cocotella,51,13
 19333,select_100_whole_wheat_sandwich_rolls,43,3
@@ -19440,7 +19440,7 @@ product_id,product_name,aisle_id,department_id
 19439,pomegranate_100_juice,31,7
 19440,organic_wild_berry_blend_juice,31,7
 19441,gluten_free_wheat_free_fudge_brownie_mix,105,13
-19442,100_pure_tangerine_cheering_essential_oil_,101,17
+19442,100_pure_tangerine_cheering_essential_oil,101,17
 19443,dark_chocolate_cherry_cashew_plus_antioxidants_bars,3,19
 19444,multi_purpose_solution_with_lens,44,11
 19445,french_lavender_all_purpose_natural_surface_cleaner,114,17
@@ -19504,7 +19504,7 @@ product_id,product_name,aisle_id,department_id
 19503,udon_soup_bowl,66,6
 19504,seriousmilk_classic_milk_chocolate_bar,45,19
 19505,sliced_mushrooms,83,4
-19506,easy_find_lids_container_1_6l_7_cups_,85,17
+19506,easy_find_lids_container_1_6l_7_cups,85,17
 19507,balm_moisturizing_lip_balm,109,11
 19508,corn_tortillas,128,3
 19509,calming_diaper_rash_cream,102,18
@@ -19615,7 +19615,7 @@ product_id,product_name,aisle_id,department_id
 19614,lowfat_kefir_smoothie_strawberry,120,16
 19615,sliced_bacon,106,12
 19616,grape_seed_oil,19,13
-19617,natural_pads_ultra_super_,126,11
+19617,natural_pads_ultra_super,126,11
 19618,one_smartblend_premium_cat_food_pairings_chicken_salmon_recipe_in_gravy,41,8
 19619,deluxe_bagels_onion,93,3
 19620,butter_rich_maple_syrup,29,13
@@ -19666,7 +19666,7 @@ product_id,product_name,aisle_id,department_id
 19665,organic_feta_cheese,2,16
 19666,original_sugar_free_chai_tea_latte_concentrate,94,7
 19667,carrot_rainbow,83,4
-19668,anti_stress_drink_original_unflavored_,47,11
+19668,anti_stress_drink_original_unflavored,47,11
 19669,mexican_style_rice,4,9
 19670,white_bean_chili_starter_with_roasted_new_mexico_green_chile,30,6
 19671,organic_natural_cotton_panty_liners,126,11
@@ -19707,7 +19707,7 @@ product_id,product_name,aisle_id,department_id
 19706,organic_nectarine,24,4
 19707,peets_big_bang_whole_bean,26,7
 19708,natural_strawberry_flavor_acidophilus_with_bifidus_chewable_wafer,70,11
-19709,el_ciprés_whole_bean_coffee,26,7
+19709,el_cipres_whole_bean_coffee,26,7
 19710,whole_bean_highlander_grog,26,7
 19711,sorbet_pops_strawberry,37,1
 19712,tamarind_black_tea_probiotic_kefir_water_tea_tonic_no_1,94,7
@@ -19881,7 +19881,7 @@ product_id,product_name,aisle_id,department_id
 19880,crossovers_crt_gngr_pistachio,120,16
 19881,bartlett_pear,24,4
 19882,natural_cane_mandarin_lime_soda,77,7
-19883,small_curd_cottage_cheese_4_,108,16
+19883,small_curd_cottage_cheese_4,108,16
 19884,extreme_whitening_baking_soda_peroxide_advance_white_toothpaste,20,11
 19885,brambleberry_crisp_ice_cream,37,1
 19886,kidney_beans,59,15
@@ -19915,7 +19915,7 @@ product_id,product_name,aisle_id,department_id
 19914,tangerine_immunity_defense_powder,47,11
 19915,no_sugar_added_apple_sauce,99,15
 19916,studio_line_clean_gel,22,11
-19917,complete_actionpacs_lemon_burst_dishwasher_detergent,74,17
+19917,completetm_actionpacstm_lemon_burst_dishwasher_detergent,74,17
 19918,original_scent_liquid_fabric_softener,75,17
 19919,fish,34,1
 19920,star_wars_decorated,118,11
@@ -19952,7 +19952,7 @@ product_id,product_name,aisle_id,department_id
 19951,caramel_macchiato_granola_bars,3,19
 19952,expert_wear_twin_brow_eye_pencils_dark_brown,132,11
 19953,pink_grapefruit,115,7
-19954,dry_touch_sunscreen_spf_100_,127,11
+19954,dry_touch_sunscreen_spf_100,127,11
 19955,traditional_98_fat_free_refried_beans,59,15
 19956,brown_rice_pasta_little_dreams,131,9
 19957,squares_dark_60_cacao_chocolate,45,19
@@ -20140,7 +20140,7 @@ product_id,product_name,aisle_id,department_id
 20139,naturals_purifying_makeup_remover_cleaning_towelettes,73,11
 20140,anti_breakage_shampoo,22,11
 20141,original_salsa,30,6
-20142,super_smooth_pears_pears_pears_puree_1_from_4_months_,92,18
+20142,super_smooth_pears_pears_pears_puree_1_from_4_months,92,18
 20143,savory_shreds_with_turkey_giblets_in_gravy_cat_food,41,8
 20144,organic_pack_peasant_bread,112,3
 20145,assorted_knuckle_fingertip_flexible_fabric_bandages,118,11
@@ -20178,7 +20178,7 @@ product_id,product_name,aisle_id,department_id
 20177,baby_lips_moisturizing_lip_balm_quenched,132,11
 20178,organic_quinoa_dark_chocolate_bar,45,19
 20179,sprouted_pumpkin_seed_butter,88,13
-20180,purrfect_delights_tuna_topia_dinner_flaked_in_sauce_cat_food,41,8
+20180,purrfect_delights_tunatopia_dinner_flaked_in_sauce_cat_food,41,8
 20181,oatmeal_fruit_berries,52,1
 20182,all_natural_caramel_flavored_ground_coffee,26,7
 20183,strong_honey_smoked_bbq_almond_protein_bar,3,19
@@ -20253,7 +20253,7 @@ product_id,product_name,aisle_id,department_id
 20252,puff_pastry_dough_for_turnovers,97,13
 20253,raspberry_danish_twist,61,19
 20254,milk_chocolate_peanut_butter_eggs,45,19
-20255,tomato_purée,81,15
+20255,tomato_puree,81,15
 20256,poaching_eggs_cooking_tool,10,17
 20257,eco_foil_lasagna_pans_lids,10,17
 20258,medicated_with_aloe_vitamin_e_baby_powder,102,18
@@ -20880,7 +20880,7 @@ product_id,product_name,aisle_id,department_id
 20879,granola_peanut_butter_homestyle,57,14
 20880,gluten_free_veggie_lovers_thin_crust_pizza,79,1
 20881,titanium_coated_blades_cartridges,55,11
-20882,excellence_non_drip_crème_01_extra_light_ash_blonde,22,11
+20882,excellence_non_drip_creme_01_extra_light_ash_blonde,22,11
 20883,carving_board_slow_cooked_ham,96,20
 20884,baked_cooked_ham,96,20
 20885,unknown,100,21
@@ -20909,7 +20909,7 @@ product_id,product_name,aisle_id,department_id
 20908,taco_shells,4,9
 20909,aloe_vera_juice,47,11
 20910,goldfish_dory,78,19
-20911,100_raw_certified_manuka_honey_bio_active_15_,29,13
+20911,100_raw_certified_manuka_honey_bio_active_15,29,13
 20912,crunchy_fig_chocolate_bar,45,19
 20913,organic_enchilada_green_sauce_mild,30,6
 20914,dairy_milk_fruit_nut_chocolate_bar,45,19
@@ -20930,7 +20930,7 @@ product_id,product_name,aisle_id,department_id
 20929,salad_50_50_mix,123,4
 20930,top_ramen_oriental_flavor,66,6
 20931,black_mission_figs,123,4
-20932,gluten_free_chocolate_raspberry_whoopie_pies_,119,1
+20932,gluten_free_chocolate_raspberry_whoopie_pies,119,1
 20933,unsweetened_mint_green_tea,94,7
 20934,hot_bbq_sauce,5,13
 20935,seasoned_everything_flatbread,78,19
@@ -21048,7 +21048,7 @@ product_id,product_name,aisle_id,department_id
 21047,villalobos_caturra_catuai_coffee,26,7
 21048,ocean_sea_salt_pumpkin_seeds,117,19
 21049,skinnygirl_lime_salt_popcorn,23,19
-21050,bathroom_tissue_1_ply_1000_sheet_rolls,54,17
+21050,bathroom_tissue_1ply_1000_sheet_rolls,54,17
 21051,baba_ghannouge_eggplant_dip,67,20
 21052,turmeric_supreme_joint,47,11
 21053,almond_snack_crackers,78,19
@@ -21081,7 +21081,7 @@ product_id,product_name,aisle_id,department_id
 21080,body_wash_moisturizing_cherry_blossom_wild_bamboo,127,11
 21081,organic_green_berry_shake,31,7
 21082,foaming_hand_wash_pink_grapefruit,127,11
-21083,corn_puffs_with_aged_white_cheddar_lunch_packs_,23,19
+21083,corn_puffs_with_aged_white_cheddar_lunch_packs,23,19
 21084,black_raspberry_chocolate_frozen_dairy_dessert,37,1
 21085,cheese_melts_crackers,78,19
 21086,extra_strength_assorted_berries_antacid,70,11
@@ -21092,7 +21092,7 @@ product_id,product_name,aisle_id,department_id
 21091,chocolate_truffle_low_fat_ice_cream_bars,37,1
 21092,organic_100_pure_dark_amber_maple_syrup,29,13
 21093,beef_ravioli_in_tomato_meat_sauce,59,15
-21094,plastic_bubble_mailer_6_x_9_25_,6,2
+21094,plastic_bubble_mailer_6_x_9_25,6,2
 21095,barbecue_chipotle_cheddar_tamales,13,20
 21096,sea_salt_kettle_cooked_potato_chips,107,19
 21097,souper_meal_picante_shrimp_flavor_hot_spicy,4,9
@@ -21279,7 +21279,7 @@ product_id,product_name,aisle_id,department_id
 21278,all_purpose_crushed_tomatoes,81,15
 21279,garlic_basil_butter,36,16
 21280,organic_stone_ground_mustard,72,13
-21281,café_steamers_grilled_chicken_marinara,38,1
+21281,cafe_steamers_grilled_chicken_marinara,38,1
 21282,mini_abc_s_123_s_with_meatballs,59,15
 21283,otria_spinach_artichoke_greek_yogurt_veggie_dip,67,20
 21284,crunchy_cheese_curls,107,19
@@ -21364,7 +21364,7 @@ product_id,product_name,aisle_id,department_id
 21363,men_care_clean_comfort_antiperspirant_deodorant,80,11
 21364,liquid_bleach,114,17
 21365,peppermint_foot_scrub,6,2
-21366,mezé_smoked_onion_parmesan_greek_yogurt_dip,67,20
+21366,meze_smoked_onion_parmesan_greek_yogurt_dip,67,20
 21367,wild_sardines_in_spring_water,95,15
 21368,spanish_pitted_manzanilla_cocktail_olives,110,13
 21369,bold_spicy_italian_style_pasta_sauce,9,9
@@ -21406,7 +21406,7 @@ product_id,product_name,aisle_id,department_id
 21405,organic_red_radish_bunch,83,4
 21406,whole_organic_anise,104,13
 21407,unknown,100,21
-21408,labné_kefir_cheese,2,16
+21408,labne_kefir_cheese,2,16
 21409,flavored_fizzy_drink_mix_1000_mg_vitamin_c_strawberry_kiwi,47,11
 21410,deli_fresh_honey_smoked_turkey_breast_98_fat_free_gluten_free,96,20
 21411,gumbo_file,104,13
@@ -21561,7 +21561,7 @@ product_id,product_name,aisle_id,department_id
 21560,cut_hearts_of_palm,1,20
 21561,summer_sausage_original_premium,106,12
 21562,naturally_rising_crust_canadian_style_bacon_pineapple_pizza,79,1
-21563,infusions_ultra_infusions_lavender_serenity_liquid_fabric_conditioner_fabric_enhancers,75,17
+21563,infusions_ultra_infusionstm_lavender_serenitytm_liquid_fabric_conditioner_fabric_enhancers,75,17
 21564,tender_centers_tuna_whitefish_flavors_dry_cat_food,41,8
 21565,world_baby_beans_rice_with_sweet_corn_organic_baby_food,92,18
 21566,licorice_log,45,19
@@ -21597,7 +21597,7 @@ product_id,product_name,aisle_id,department_id
 21596,smartpop_butter_single_serve_bags,23,19
 21597,unknown,100,21
 21598,gentle_iron_25mg,47,11
-21599,oh_fudge_,103,19
+21599,oh_fudge,103,19
 21600,lemon_burst_wheat_gluten_free_cookies,61,19
 21601,brown_sugar_cinnamon_pre_sliced_mini_bagels,93,3
 21602,chicken_marsala_roasted_redskin_potatoes_classic_meal_for_2,38,1
@@ -21686,7 +21686,7 @@ product_id,product_name,aisle_id,department_id
 21685,2_ply_full_sheet_regular_roll_paper_towels,54,17
 21686,shredded_chicken_street_taco_ancho_aioli,129,1
 21687,reese_artichoke_hearts,81,15
-21688,puree_world_foods_chicken_risotto_portabella_mushrooms_2_6_months_up_,92,18
+21688,puree_world_foods_chicken_risotto_portabella_mushrooms_2_6_months_up,92,18
 21689,pasta_sides_alfredo,4,9
 21690,disney_pixar_monsters_fruit_flavored_snacks,50,19
 21691,corazon,31,7
@@ -21952,7 +21952,7 @@ product_id,product_name,aisle_id,department_id
 21951,frosting_vanilla,97,13
 21952,polar_ice_sugar_free_gum,46,19
 21953,millennium_organic_cherry_chia_synergy_kombucha,31,7
-21954,bamboo_plates_9_,111,17
+21954,bamboo_plates_9,111,17
 21955,all_natural_marinara_pasta_sauce,9,9
 21956,yogurt_greek_nonfat_strained_blended_with_strawberry,120,16
 21957,bittersweet_sea_salt_chocolate_bar,45,19
@@ -22181,7 +22181,7 @@ product_id,product_name,aisle_id,department_id
 22180,lentil_sage_vegan_deli_slices,14,20
 22181,fresh_pasta_sauce_arrabbiata_sauce,9,9
 22182,old_fashioned_potato_salad,1,20
-22183,blend_of_vegetable_canola_oils_vegetable_plus_,19,13
+22183,blend_of_vegetable_canola_oils_vegetable_plus,19,13
 22184,regenerist_micro_exfoliating_wet_facial_cleansing_wipes,73,11
 22185,organic_mochi,105,13
 22186,peanut_butter_creamy,88,13
@@ -22324,7 +22324,7 @@ product_id,product_name,aisle_id,department_id
 22323,kosher_half_sour_pickles,110,13
 22324,pink_vodka_sauce,9,9
 22325,cocow_chocolate_milk,84,16
-22326,indian_vegetable_korma_entrée,38,1
+22326,indian_vegetable_korma_entree,38,1
 22327,canadian_bacon_pizza,79,1
 22328,organic_popcorn,23,19
 22329,celery_stalks,83,4
@@ -22349,14 +22349,14 @@ product_id,product_name,aisle_id,department_id
 22348,organic_campari_tomatoes,83,4
 22349,100_whole_grain_fig_cookies,61,19
 22350,organic_turmeric_pineapple_elixir,31,7
-22351,southern_homes_you_butter_tastin_,58,1
+22351,southern_homes_you_butter_tastin,58,1
 22352,birthday_cake_chewing_gum,46,19
 22353,gluten_free_vegan_chocolate_chip_cookie_dough_macaroons,8,3
 22354,cereal_supergrains_maple_buckwheat_hemp,121,14
 22355,chef_s_naturals_chips_pecans,17,13
 22356,simply_plain_yogurt_protein_drink_with_crunchy_shot,120,16
 22357,raspberry_hemp_yogurt,120,16
-22358,dusters_dusting_kit_1_handle_5_unscented_refills_,114,17
+22358,dusters_dusting_kit_1_handle_5_unscented_refills,114,17
 22359,organic_50_50_blend_salad,123,4
 22360,taster_s_choice_house_blend_single_serve_instant_coffee_packets,26,7
 22361,beeswax_lip_balm_with_vitamin_e_peppermint,73,11
@@ -22500,7 +22500,7 @@ product_id,product_name,aisle_id,department_id
 22499,cappuccino_brownies,8,3
 22500,silverado_beef_chili_with_beans_97_fat_free,59,15
 22501,gluten_free_sweet_potato_ravioli,42,1
-22502,razor_chrome_includes_2_cartridges_,55,11
+22502,razor_chrome_includes_2_cartridges,55,11
 22503,asian_sesame_kit,123,4
 22504,organic_mountain_forest_amber_honey,29,13
 22505,town_house_reduced_fat_crackers,78,19
@@ -22534,10 +22534,10 @@ product_id,product_name,aisle_id,department_id
 22533,honey_herb_drops_cough_suppressant,11,11
 22534,kashmiri_curry_mild_indian_simmer_sauce,76,6
 22535,april_fresh_fabric_softener,75,17
-22536,reserve_dark_roast_costa_rica_tarrazú_whole_bean_coffee,26,7
+22536,reserve_dark_roast_costa_rica_tarrazu_whole_bean_coffee,26,7
 22537,hearty_nine_grain_bread,112,3
-22538,grüner_veltliner,62,5
-22539,first_bananas_stage_1_4_months_,92,18
+22538,gruner_veltliner,62,5
+22539,first_bananas_stage_1_4_months,92,18
 22540,ultra_sheer_body_mist_sunscreen_broad_spectrum_spf_45,127,11
 22541,high_performance_energy_drink,64,7
 22542,chicken_cup,4,9
@@ -22593,7 +22593,7 @@ product_id,product_name,aisle_id,department_id
 22592,sport_performance_coolzone_spf_30_sunscreen,127,11
 22593,cream_cheese_with_garden_vegetables,108,16
 22594,quattro_formaggi_four_cheeses_pizza,13,20
-22595,silver_multivitamin_multimineral_supplement_women_50_,47,11
+22595,silver_multivitamin_multimineral_supplement_women_50,47,11
 22596,oraganic_wheat_grass_juice_powder,47,11
 22597,100_pure_maple_syrup_grade_a_dark_amber,29,13
 22598,kellogg_s_nutri_grain_blueberry_cereal,48,14
@@ -22689,7 +22689,7 @@ product_id,product_name,aisle_id,department_id
 22688,pro_health_multi_protection_mouthwash_alcohol_free_refreshing_clean_mint,20,11
 22689,white_pita_bread,128,3
 22690,draught_beer,27,5
-22691,omega_3_great_lemon_taste_,47,11
+22691,omega_3_great_lemon_taste,47,11
 22692,organic_dry_roasted_no_salt_pistachios,117,19
 22693,select_chicago_hot_dog_rolls,43,3
 22694,garlic_stuffed_green_olives,110,13
@@ -22839,7 +22839,7 @@ product_id,product_name,aisle_id,department_id
 22838,organic_white_peppercorns,104,13
 22839,grainiac_organic_bread,112,3
 22840,honey_black_seed_soa_with_apricot_oil,25,11
-22841,seasoning_vegit_magic_,104,13
+22841,seasoning_vegit_magic,104,13
 22842,organic_roasted_garlic_herb_stoneground_wheat_crackers,78,19
 22843,beef_patties,34,1
 22844,food_storage_resealable_bags,85,17
@@ -23039,7 +23039,7 @@ product_id,product_name,aisle_id,department_id
 23038,organic_mung_beans,68,10
 23039,fat_free_cream_cheese,108,16
 23040,guac_a_mole_corn_tortilla_chips,107,19
-23041,casual_foam_plates_8_875_,111,17
+23041,casual_foam_plates_8_875,111,17
 23042,real_vegetable_chips_tropical,107,19
 23043,smartwater_vapor_distilled_water,115,7
 23044,cream_top_smooth_creamy_vanilla_yogurt,120,16
@@ -23146,7 +23146,7 @@ product_id,product_name,aisle_id,department_id
 23145,milk_honey_bread,112,3
 23146,tangy_bbq_sauce,5,13
 23147,gut_shot_classic,110,13
-23148,veggie_loaf_mashed_potatoes_entrée,38,1
+23148,veggie_loaf_mashed_potatoes_entree,38,1
 23149,thai_chile_tamarind_bbq_sauce,5,13
 23150,vegetable_classics_99_fat_free_lentil_soup,69,15
 23151,opium_flower_incense_of_auroville,101,17
@@ -23272,7 +23272,7 @@ product_id,product_name,aisle_id,department_id
 23271,tabasco_chipotle_pepper_sauce,72,13
 23272,juice_blend_organic_vegetable_greens_orange,31,7
 23273,cheese_herb_pizza,79,1
-23274,bedtime_moisture_wash_baby,102,18
+23274,bedtime_moisture_washtm_baby,102,18
 23275,kuzu_root_starch,66,6
 23276,soup_and_oyster_crackers,78,19
 23277,classic_peanuts,117,19
@@ -23305,7 +23305,7 @@ product_id,product_name,aisle_id,department_id
 23304,organic_fire_roasted_red_pepper_dinner_sausage,106,12
 23305,fine_egg_noodles,131,9
 23306,impressions_disposable_7_inch_plates,111,17
-23307,sticky_notes_3_x_3_,87,17
+23307,sticky_notes_3_x_3,87,17
 23308,sensible_portions_veggie_straws_ranch_7oz,107,19
 23309,fruit_spread_chia_strawberry_with_agave_syrup,88,13
 23310,100_organic_crushed_chili,104,13
@@ -23544,11 +23544,11 @@ product_id,product_name,aisle_id,department_id
 23543,organic_extra_large_brown_eggs,86,16
 23544,liver_chicken_dinner_classic_pate_cat_food,41,8
 23545,chocolate_mochi_ice_cream,37,1
-23546,royal_jelly_in_honey_10_000_mg_per_container_,47,11
+23546,royal_jelly_in_honey_10_000_mg_per_container,47,11
 23547,simply_salted_french_velvet_grey_sea_salt_thick_cut_cripsbreads,78,19
 23548,toasted_dark_chocolate_coated_coconut_chips,117,19
 23549,chili_with_beans,59,15
-23550,kid_s_mickey_and_minnie_soft_bristles_toothbrushes,20,11
+23550,kids_mickey_and_minnie_soft_bristles_toothbrushes,20,11
 23551,propane_camping_gas,10,17
 23552,unknown,100,21
 23553,calcium_citrate_magnesium_plus,6,2
@@ -23575,7 +23575,7 @@ product_id,product_name,aisle_id,department_id
 23574,california_ripe_pitted_medium_olives,110,13
 23575,traditional_turkey_noodle_soup,69,15
 23576,sweet_greens_and_lemon_vegetable_and_fruit_juice_blend,31,7
-23577,genuine_strawberries_n_crème_non_dairy_protein_shake,65,11
+23577,genuine_strawberries_n_creme_non_dairy_protein_shake,65,11
 23578,premium_instant_mocha_hot_or_iced_cappuccino,26,7
 23579,peanut_butter_chocolate_chip_fruit_nut_food_bar,3,19
 23580,outshine_lime_fruit_bars,37,1
@@ -23593,7 +23593,7 @@ product_id,product_name,aisle_id,department_id
 23592,rapidrise_yeast,17,13
 23593,cat_litter_natural_unscented,41,8
 23594,medium_salsa,51,13
-23595,purrfect_delicacies_wet_cat_food_roasted_chicken_tuna_entrée,41,8
+23595,purrfect_delicacies_wet_cat_food_roasted_chicken_tuna_entree,41,8
 23596,strawberry_shortcake_frosted_soft_cookies,8,3
 23597,ocean_surf_deodorant,80,11
 23598,unknown,100,21
@@ -23782,7 +23782,7 @@ product_id,product_name,aisle_id,department_id
 23781,exotic_fruits_white_zinfandel,134,5
 23782,magic_eraser_cleaning_sponge_2ct_surface_care,114,17
 23783,almond_coconut_bar_organic,3,19
-23784,jalapeño_slices_delicatessen_style_fresh_pack,110,13
+23784,jalapeno_slices_delicatessen_style_fresh_pack,110,13
 23785,baby_kale_mix,123,4
 23786,coolmint_antiseptic_mouth_wash,20,11
 23787,lush_gardenia_bar_soap,25,11
@@ -23989,7 +23989,7 @@ product_id,product_name,aisle_id,department_id
 23988,unknown,100,21
 23989,thin_dailies_unscented_wrapped_pantiliners,126,11
 23990,spongebob_pop_ups_frozen_dairy_dessert,37,1
-23991,organic_spinach_potatoes_2_6_months_,92,18
+23991,organic_spinach_potatoes_2_6_months,92,18
 23992,honey_crisp_apple_juice,98,7
 23993,tranquil_chamomile_aromatherapy_bubble_bath,25,11
 23994,unknown,100,21
@@ -24115,7 +24115,7 @@ product_id,product_name,aisle_id,department_id
 24114,ground_chicken,49,12
 24115,good_buddy_beef_jerky_dog_treat,40,8
 24116,minions_mild_bubble_fruit_toothpaste,20,11
-24117,potato_chips_cheddar_sour_cream_flavored_party_size_,107,19
+24117,potato_chips_cheddar_sour_cream_flavored_party_size,107,19
 24118,vegan_big_cup_pad_thai_noodle_soup,69,15
 24119,natural_southern_cornbread_muffin_mix,105,13
 24120,dried_cranberries,117,19
@@ -24301,14 +24301,14 @@ product_id,product_name,aisle_id,department_id
 24300,organic_raw_cacao_butter,36,16
 24301,beneful_treats_baked_delights_hugs_dog_snacks,40,8
 24302,rose_hip_seed_oil,101,17
-24303,spicy_mango_with_jalapeño_smoked_chicken_sausage,106,12
+24303,spicy_mango_with_jalapeno_smoked_chicken_sausage,106,12
 24304,gloves_premium_latex_m,114,17
 24305,everyday_coconut_face_lotion_with_spf_15,109,11
 24306,flavor_snacks_dog_biscuits_small_for_all_dog_sizes,40,8
 24307,chunky_blue_cheese_dressing_dip,89,13
 24308,red_hot_kickin_bbq_sauce,5,13
 24309,fresh_impact_toothpaste,20,11
-24310,soleil_glow_triple_blade_disposable_razor_for_women_,55,11
+24310,soleil_glow_triple_blade_disposable_razor_for_women,55,11
 24311,original_cheddar_cheesesticks,78,19
 24312,organic_sliced_pepper_jack,21,16
 24313,size_6_diapers,56,18
@@ -24320,7 +24320,7 @@ product_id,product_name,aisle_id,department_id
 24319,3_1_swirl_bonus,55,11
 24320,vanilla_almond,121,14
 24321,mini_s_flavor_dog_snacks,40,8
-24322,round_cake_pan_9_,10,17
+24322,round_cake_pan_9,10,17
 24323,express_everyday_comfort_contact_lens_solution,44,11
 24324,vitamin_b_12_1000_mcg,47,11
 24325,noir_orange_liqueur_cognac,124,5
@@ -24578,7 +24578,7 @@ product_id,product_name,aisle_id,department_id
 24577,olives_pitted_kalamata,110,13
 24578,seasoned_rice_vinegar,66,6
 24579,port,134,5
-24580,flax_all_natural_roll_ups_8_ct_,43,3
+24580,flax_all_natural_roll_ups_8_ct,43,3
 24581,thick_chunky_salsa_medium,51,13
 24582,toaster_size_premium_plain_bagels,93,3
 24583,organic_unsweetened_salt_free_sunflower_seed_butter,88,13
@@ -24647,7 +24647,7 @@ product_id,product_name,aisle_id,department_id
 24646,bug_barrier,87,17
 24647,sage_deodorant_spray,80,11
 24648,irish_oatmeal,130,14
-24649,freshmates_charmin_freshmates_,54,17
+24649,freshmates_charmin_freshmatestm,54,17
 24650,cough_congestion_cherry_flavor,11,11
 24651,orange_clove_liquid_dish_soap,74,17
 24652,dill_pickle_crunchy_popcorn,23,19
@@ -24845,7 +24845,7 @@ product_id,product_name,aisle_id,department_id
 24844,vanilla_energy_waffle,3,19
 24845,popcorn_artisan_simply_sea_salt,23,19
 24846,sweet_fruity_cranberry_granola,57,14
-24847,homestyle_meals_apple_raspberry_kale_amaranth_stage_2_for_6_months_,92,18
+24847,homestyle_meals_apple_raspberry_kale_amaranth_stage_2_for_6_months,92,18
 24848,non_alcoholic_the_original_irish_cream_coffee_creamer,53,16
 24849,cheese_fresh_herb_flatbread_pizza,79,1
 24850,organic_super_fruit_punch_juice_drink,98,7
@@ -25185,12 +25185,12 @@ product_id,product_name,aisle_id,department_id
 25184,peroxiclear_lens_solution,44,11
 25185,cheese_pasteurized_process_cheddar_hot_stuff_buffalo_wing,2,16
 25186,vegan_shanghai_dumplings,13,20
-25187,hand_renewal_with_olay_pomegranate_splash_dishwashing_liquid,74,17
+25187,hand_renewal_with_olay_pomegranate_splashtm_dishwashing_liquid,74,17
 25188,zoe_organic_evoo,19,13
 25189,acidil_quick_dissolving_tablets,47,11
 25190,pure_unfiltered_honey_squeeze_bear,29,13
 25191,steakhouse_ranch_dressing,89,13
-25192,cortizone_10_anti_itch_creme_,118,11
+25192,cortizone_10_anti_itch_creme,118,11
 25193,triple_nutrition_conditioner_for_dry_damaged_hair,22,11
 25194,ground_sausage_style_veggie_protein,14,20
 25195,roasted_garlic_loaf,112,3
@@ -25227,7 +25227,7 @@ product_id,product_name,aisle_id,department_id
 25226,smarty_kat_pet_toy_frisky_flyer,41,8
 25227,go_gurt_spongebob_squarepants_strawberry_riptide_sponge_berry_variety_pack_portable_low_fat_yogurt,120,16
 25228,chai_spice_almond_milk,26,7
-25229,minions_extra_soft_toothbrush_ages_5_,20,11
+25229,minions_extra_soft_toothbrush_ages_5,20,11
 25230,chopped_onions,123,4
 25231,organic_spearmint_tea,94,7
 25232,lucky_charms_cereal,121,14
@@ -25348,7 +25348,7 @@ product_id,product_name,aisle_id,department_id
 25347,greek_100_calories_strawberry_banana_fat_free_yogurt,120,16
 25348,creamery_herbs_de_provence,108,16
 25349,cabernet_sauvignon_california_2006,28,5
-25350,super_premium_natural_brown_paper_basket_coffee_filters_8_12_cups_,26,7
+25350,super_premium_natural_brown_paper_basket_coffee_filters_8_12_cups,26,7
 25351,peanut_butter_dark_chocolate_dreams,88,13
 25352,wasabi_powder,104,13
 25353,aged_garlic_extract_immune_formula_103,47,11
@@ -25493,7 +25493,7 @@ product_id,product_name,aisle_id,department_id
 25492,tofu_firm,66,6
 25493,cookies_n_cream_with_oreo_cookie_pieces_lowfat_yogurt,120,16
 25494,medium_house_blend_ground_coffee,26,7
-25495,flip_low_fat_key_lime_crumble_greek_yogurt,120,16
+25495,fliptm_low_fat_key_lime_crumble_greek_yogurt,120,16
 25496,unknown,100,21
 25497,antioxidant_kit_salad,123,4
 25498,spicy_tomato_parmesan_cream_pasta_sauce,9,9
@@ -25683,7 +25683,7 @@ product_id,product_name,aisle_id,department_id
 25682,non_clumping_24_7_performance_cat_litter,41,8
 25683,organic_dill_weed,104,13
 25684,french_style_green_beans_with_roasted_garlic,81,15
-25685,beef_consommé_condensed_soup,69,15
+25685,beef_consomme_condensed_soup,69,15
 25686,super_soft_flour_tortillas_fajita_size_20_ct,128,3
 25687,peppercorn_steak_sauce,5,13
 25688,flavorsplash_raspberry_water_beverage,115,7
@@ -25885,7 +25885,7 @@ product_id,product_name,aisle_id,department_id
 25884,organic_peru_decaf_coffee,26,7
 25885,grapefruit_bag,24,4
 25886,wild_blend_rice,63,9
-25887,daffodils_10_,6,2
+25887,daffodils_10,6,2
 25888,super_nutrition_vanilla_shake,47,11
 25889,melatonin_2_5_mg_orange_flavored_sublingual_tablets,47,11
 25890,boneless_skinless_chicken_breasts,49,12
@@ -26037,7 +26037,7 @@ product_id,product_name,aisle_id,department_id
 26036,organic_apples_apricots,92,18
 26037,family_care_smooth_dry_insect_repellant,87,17
 26038,wholesome_nut_nut_rition_mix,117,19
-26039,pasta_fideo_7_oz_,131,9
+26039,pasta_fideo_7_oz,131,9
 26040,deli_fresh_honey_ham_97_fat_free_gluten_free,96,20
 26041,pub_burger,13,20
 26042,blood_orange_chili_organic_drink,31,7
@@ -26052,7 +26052,7 @@ product_id,product_name,aisle_id,department_id
 26051,dulce_de_leche_sauce,103,19
 26052,mixed_berry_greek_yogurt,120,16
 26053,all_natural_poppy_seed_dressing,89,13
-26054,april_fresh_fabric_softener_dryer_sheets_105_count_fabric_enhancers,75,17
+26054,april_freshtm_fabric_softener_dryer_sheets_105_count_fabric_enhancers,75,17
 26055,original_fruit_chews,45,19
 26056,old_rasputin_stout_beer,27,5
 26057,gia_mild_giardiniera,110,13
@@ -26216,7 +26216,7 @@ product_id,product_name,aisle_id,department_id
 26215,quick_oats_hot_cereal,130,14
 26216,cotija,21,16
 26217,broccoli_raab_bunch,83,4
-26218,gourmet_fruit_burst_jelly_beans_,45,19
+26218,gourmet_fruit_burst_jelly_beans,45,19
 26219,original_spray_starch,75,17
 26220,organic_french_beans,83,4
 26221,skinny_cow_vanilla_low_fat_ice_cream_sandwiches,37,1
@@ -26518,7 +26518,7 @@ product_id,product_name,aisle_id,department_id
 26517,taster_s_choice_decaf_house_blend,26,7
 26518,chocolate_coconut_protein_bar,3,19
 26519,clinical_advanced_solid_ultimate_fresh_anti_perspirant_and_deodorant_body_spray,80,11
-26520,cheese_shredded_sharp_cheddar_reduced_fat_2_,21,16
+26520,cheese_shredded_sharp_cheddar_reduced_fat_2,21,16
 26521,organic_grass_fed_classic_mild_cheddar_macaroni_cheese,4,9
 26522,prenatal_gummy_vitamins,47,11
 26523,skin_therapy_lotion_healing_fragrance_free_for_sensitive_skin,127,11
@@ -26824,7 +26824,7 @@ product_id,product_name,aisle_id,department_id
 26823,espresso_coconut_water,31,7
 26824,migraine_pain_reliever_caplets,133,11
 26825,sun_dried_tomato_garlic,81,15
-26826,coconut_crème_coffee_mate_coffee_creamer,53,16
+26826,coconut_creme_coffee_mate_coffee_creamer,53,16
 26827,greek_100_calories_blackberry_pie_yogurt,120,16
 26828,unsweetened_100_cacao_cocoa_powder,90,7
 26829,whey_protein_isolate_vanilla_flavor,65,11
@@ -27058,15 +27058,15 @@ product_id,product_name,aisle_id,department_id
 27057,gluten_free_sandwich_rounds,58,1
 27058,tomato_fresh_basil_sauce,9,9
 27059,coconut_hibiscus_curl_shine_conditioner,22,11
-27060,kisses_cookies_n_crème_candies,45,19
+27060,kisses_cookies_n_creme_candies,45,19
 27061,sweet_potato_apple_stage_2_baby_food,92,18
 27062,traditional_crust_pepperoni_pizza,79,1
-27063,complete_multi_benefit_herbal_mint_toothpaste,20,11
+27063,complete_multi_benefittm_herbal_mint_toothpaste,20,11
 27064,85_lean_natural_ground_beef,7,12
 27065,all_natural_chicken_drumsticks,35,12
 27066,96_fat_free_multi_grain_whole_wheat_tortillas,128,3
 27067,be_well_eucalyptus_and_arnica_bath_salts,25,11
-27068,orange_navel_heirloom_,24,4
+27068,orange_navel_heirloom,24,4
 27069,basil_scent_laundry_detergent,75,17
 27070,organic_green_dragon_tea,94,7
 27071,fruity_dyno_bites_cereal,121,14
@@ -27096,7 +27096,7 @@ product_id,product_name,aisle_id,department_id
 27095,reduced_salt_large_pitted_california_ripe_olives,110,13
 27096,boneless_skinless_chicken_breasts,49,12
 27097,maxi_hair_tablets,22,11
-27098,baby_food_organic_peach_banana_raspberry_with_quinoa_2_6_months_up_,92,18
+27098,baby_food_organic_peach_banana_raspberry_with_quinoa_2_6_months_up,92,18
 27099,peanuts_caramel_and_chewy_nougat_chocolate_candy_bar,45,19
 27100,lactose_free_strawberry_low_fat_yogurt,120,16
 27101,gluten_free_mini_carrot_cupcakes_12_ct,8,3
@@ -27131,7 +27131,7 @@ product_id,product_name,aisle_id,department_id
 27130,unknown,100,21
 27131,plant_protein_unflavored,65,11
 27132,unknown,100,21
-27133,soft_ripened_brie_cheese,2,16
+27133,softripened_brie_cheese,2,16
 27134,tropical_punch_heartburn_gas_relief_chews_chewable_tablets,47,11
 27135,iced_tea_with_peach_liquid_water_enhancer,90,7
 27136,whole_mixed_peppercorns,104,13
@@ -27417,7 +27417,7 @@ product_id,product_name,aisle_id,department_id
 27416,car_gain_island_fresh_scent_air_freshener_vent_clip,101,17
 27417,unknown,100,21
 27418,storage_bags,85,17
-27419,daily_deep_conditioner_triple_moisture_,22,11
+27419,daily_deep_conditioner_triple_moisture,22,11
 27420,natural_mint_flavor_chlorofresh,70,11
 27421,crispy_asparagus_pickled_hot_and_spicy,110,13
 27422,organic_brownie_bar_cookie_mix,105,13
@@ -27518,7 +27518,7 @@ product_id,product_name,aisle_id,department_id
 27517,churro_ice_cream,37,1
 27518,spanish_stuffed_queen_olives_with_minced_pimientos,110,13
 27519,bresaola,96,20
-27520,clearly_sheer_beach_pool_lotion_spray_spf_50_,127,11
+27520,clearly_sheer_beach_pool_lotion_spray_spf_50,127,11
 27521,organic_lacinato_dinosaur_kale,83,4
 27522,gluten_free_uncured_bacon_mac_and_cheese,38,1
 27523,pasta_sauce_organic_cherry_tomato_with_basil,9,9
@@ -27567,7 +27567,7 @@ product_id,product_name,aisle_id,department_id
 27566,gentle_iron_25_mg,47,11
 27567,liquid_coconut_premium_oil,25,11
 27568,citrus_punch,98,7
-27569,peanut_buttah_cookie_core_ice_cream,37,1
+27569,peanut_buttah_cookie_coretm_ice_cream,37,1
 27570,beef_flavor_ramen_noodle_soup,4,9
 27571,dairy_free_soymilk_neapolitan_non_dairy_frozen_dessert,37,1
 27572,natural_casing_polska_kielbasa,96,20
@@ -27772,7 +27772,7 @@ product_id,product_name,aisle_id,department_id
 27771,eggplant,83,4
 27772,tropical_green_tea_bags,94,7
 27773,active_greens_food_bar,3,19
-27774,milano_melts_cookies_dark_classic_crème,61,19
+27774,milano_melts_cookies_dark_classic_creme,61,19
 27775,40_less_sugar_fruit_punch_juice_blend,98,7
 27776,to_go_snack_containers_lids,85,17
 27777,basmati_white_rice,63,9
@@ -27975,7 +27975,7 @@ product_id,product_name,aisle_id,department_id
 27974,salisbury_hamburger_helper,4,9
 27975,ghost_pepper_salsa,51,13
 27976,all_natural_roasted_creamy_cashew_butter,88,13
-27977,fresh_goat_cheese_log_herb_chèvre,21,16
+27977,fresh_goat_cheese_log_herb_chevre,21,16
 27978,hot_buffalo_wing_sauce,5,13
 27979,diet_mountain_dew_soda,77,7
 27980,sea_salt_hummus_chips,107,19
@@ -28105,7 +28105,7 @@ product_id,product_name,aisle_id,department_id
 28104,artisan_roasted_chicken_broth,69,15
 28105,pure_100_natural_vegetable_oil,19,13
 28106,organic_tri_colored_peppers,116,1
-28107,line_express_eyeliner_ebony_black,132,11
+28107,line_expresstm_eyeliner_ebony_black,132,11
 28108,bath_shower_gloves,87,17
 28109,plus_febreze_sport_active_fresh_scent_liquid_laundry_detergent_92_oz_48_loads_laundry,75,17
 28110,general_mills_basic_4_cereal,121,14
@@ -28120,7 +28120,7 @@ product_id,product_name,aisle_id,department_id
 28119,wipe_fresh_pet_wipes,6,2
 28120,fruit_shapes_assorted_fruit,50,19
 28121,fruit_bowl_gourmet,45,19
-28122,peter_rabbit_organics_kale_broccoli_and_mango_purée,92,18
+28122,peter_rabbit_organics_kale_broccoli_and_mango_puree,92,18
 28123,organic_cut_green_beans,116,1
 28124,waiter_s_corkscrew,10,17
 28125,white_meat_chicken_cutlets_natural_dog_snacks,40,8
@@ -28201,7 +28201,7 @@ product_id,product_name,aisle_id,department_id
 28200,fruit_enzyme_cleanser,109,11
 28201,premium_pepper_jack_cheese_cracker_cut_slices,21,16
 28202,healthy_grains_with_chia_seeds_raspberry_clusters,3,19
-28203,puree_ratatouille_2_6_months_,92,18
+28203,puree_ratatouille_2_6_months,92,18
 28204,organic_fuji_apple,24,4
 28205,golden_toasted_bread_crumbs,5,13
 28206,chocolate_candies_peanut_butter,45,19
@@ -28301,7 +28301,7 @@ product_id,product_name,aisle_id,department_id
 28300,pure_magnesium_flakes,25,11
 28301,tricolor_fusilli_egg_spinach_beet_pasta,131,9
 28302,totally_twisted_curl_boosting_mousse,22,11
-28303,sala_picante_hot_sauce_,30,6
+28303,sala_picante_hot_sauce,30,6
 28304,vegetable_enchilada,38,1
 28305,cream_stout,27,5
 28306,red_enchilada_sauce,30,6
@@ -28381,7 +28381,7 @@ product_id,product_name,aisle_id,department_id
 28380,organic_grass_fed_real_aged_cheddar_macaroni_shells,4,9
 28381,himalayan_raw_acacia_honey,29,13
 28382,organic_minced_garlic,104,13
-28383,neufchâtel_cream_cheese_spread,108,16
+28383,neufchatel_cream_cheese_spread,108,16
 28384,sweet_peas,116,1
 28385,apollo_daily_fragrance,80,11
 28386,pearl_plastic_triple_pack_includes_light_regular_and_super_unscented_tampons,126,11
@@ -28461,7 +28461,7 @@ product_id,product_name,aisle_id,department_id
 28460,original_whiskey,124,5
 28461,unknown,100,21
 28462,yellow_rice_chicken_with_vegetables_in_sauce_with_green_beans_carrots,92,18
-28463,ultra_downy_clean_breeze_liquid_fabric_conditioner_34_fl_oz_40_loads_fabric_enhancers,75,17
+28463,ultra_downy_clean_breezetm_liquid_fabric_conditioner_34_fl_oz_40_loads_fabric_enhancers,75,17
 28464,whipped_light_cream_original,53,16
 28465,icelandic_style_skyr_blueberry_non_fat_yogurt,120,16
 28466,cookie_dipped_drumsticks,37,1
@@ -28567,7 +28567,7 @@ product_id,product_name,aisle_id,department_id
 28566,oatmeal_traditional,130,14
 28567,maximum_strength_pain_relief_hemorrhoidal_cream,118,11
 28568,spinach_dal_indian_cuisine,76,6
-28569,café_steamers_100_natural_tortellini_primavera_parmesan,38,1
+28569,cafe_steamers_100_natural_tortellini_primavera_parmesan,38,1
 28570,sundried_tomato_organic,50,19
 28571,pretzel_rods,107,19
 28572,premium_ice_cubes,37,1
@@ -28724,7 +28724,7 @@ product_id,product_name,aisle_id,department_id
 28723,organic_green_tea_hibiscus,94,7
 28724,almond_bunny_mix_chocolate_candies,45,19
 28725,organic_diced_mangoes,116,1
-28726,large_waterproof_pad_2_7_8_x_4_,118,11
+28726,large_waterproof_pad_2_7_8_x_4,118,11
 28727,hydro_body_sponge_with_hand_strap,127,11
 28728,organic_falafel,129,1
 28729,organic_vegan_wild_mushroom_gravy,5,13
@@ -28751,7 +28751,7 @@ product_id,product_name,aisle_id,department_id
 28750,extra_sharp_cheddar_cheese_chunk,21,16
 28751,tuscan_herb_butter,36,16
 28752,traditional_caramel_filled_amsterdam_waffle,61,19
-28753,international_café_hazelnut,26,7
+28753,international_cafe_hazelnut,26,7
 28754,milk_chocolate_nuggets,45,19
 28755,uncured_bacon_eggs_scramble_bowl_frozen_meal,52,1
 28756,deviled_eggs,13,20
@@ -28959,7 +28959,7 @@ product_id,product_name,aisle_id,department_id
 28958,raspberry_coffee_cake,8,3
 28959,organic_lentils,63,9
 28960,1000_roses_color_correct_sheer_nude_spf_30_for_sensitive_skin,25,11
-28961,hazed_confused_core_ice_cream,37,1
+28961,hazed_confusedtm_core_ice_cream,37,1
 28962,tuscan_inspired_uncured_two_meat_pizza,38,1
 28963,naked_sponges_2_ct,114,17
 28964,unknown,100,21
@@ -28973,7 +28973,7 @@ product_id,product_name,aisle_id,department_id
 28972,dijon_mustard_with_horseradish,72,13
 28973,smoked_turkey_drumstick,35,12
 28974,unknown,100,21
-28975,organic_apple_juice_100_,98,7
+28975,organic_apple_juice_100,98,7
 28976,ultra_thin_cheese_pizza,79,1
 28977,classic_roast_coffee_k_cups,26,7
 28978,smokehouse_maple_seasoning,5,13
@@ -29079,7 +29079,7 @@ product_id,product_name,aisle_id,department_id
 29078,99_fat_free_natural_goodness_chicken_broth,69,15
 29079,seasoning_curry_powder,104,13
 29080,giant_hot_dog_buns,43,3
-29081,special_k_cookies_crème_pastry_crisps,48,14
+29081,special_k_cookies_creme_pastry_crisps,48,14
 29082,waffle_fries_french_fried_potatoes,129,1
 29083,rose_balancing_face_care_kit,109,11
 29084,honey_mustard_nut_thins_cracker,78,19
@@ -29141,7 +29141,7 @@ product_id,product_name,aisle_id,department_id
 29140,coke_life,77,7
 29141,pomegranate_and_lemon_verbena_body_wash,127,11
 29142,natural_chicken_apple_breakfast_sausage_patty,52,1
-29143,l_oréal_paris_advanced_haircare_total_repair_5_restoring_shampoo,22,11
+29143,l_oreal_paris_advanced_haircare_total_repair_5_restoring_shampoo,22,11
 29144,children_s_cold_cough_liquid_grape_medicine,11,11
 29145,green_tea_blueberry_pomegranate,94,7
 29146,pomegranate_sangria_seltzer,77,7
@@ -29203,7 +29203,7 @@ product_id,product_name,aisle_id,department_id
 29202,organic_pitted_dried_plums,117,19
 29203,terry_scouring_cloth,114,17
 29204,slivered_almonds,117,19
-29205,mint_spearmint_,16,4
+29205,mint_spearmint,16,4
 29206,opcon_a_eye_drops,44,11
 29207,lawn_garden_refuse_bags,60,17
 29208,breath_tonic,20,11
@@ -29317,7 +29317,7 @@ product_id,product_name,aisle_id,department_id
 29316,for_women_skintimate_raspberry_rain_disposable_razors,55,11
 29317,shave_cream_for_sensitive_skin,55,11
 29318,open_mic_series_tropic_wonder_earl_grey_orange_peel_brew,31,7
-29319,organic_banana_baby_breakfast_from_6_months_,92,18
+29319,organic_banana_baby_breakfast_from_6_months,92,18
 29320,unknown,100,21
 29321,toffee_crunch_milk_chocolate_bar,45,19
 29322,berries_cherries_muesli,121,14
@@ -29576,7 +29576,7 @@ product_id,product_name,aisle_id,department_id
 29575,real_exotic_potato_vegetable_chips,107,19
 29576,men_care_extra_fresh_dry_spray_antiperspirant,80,11
 29577,prepared_cheese_product_slices,21,16
-29578,classic_paté_classic_seafood_entree,41,8
+29578,classic_pate_classic_seafood_entree,41,8
 29579,lemonade_sweetened_with_agave,31,7
 29580,sweat_peas_no_salt_added,81,15
 29581,apollo_anti_perspirant_deodorant_stick,80,11
@@ -30830,7 +30830,7 @@ product_id,product_name,aisle_id,department_id
 30829,fresh_chicken_wings,35,12
 30830,organics_vitamin_c_fortified_100_apple_juice,98,7
 30831,fat_free_smooth_creamy_french_vanilla_organic_yogurt,120,16
-30832,halloween_characters_in_a_bag_,45,19
+30832,halloween_characters_in_a_bag,45,19
 30833,cote_du_rhone_rouge_france,28,5
 30834,organic_pan_fired_green_tea_bags,94,7
 30835,long_term_relationship_conditioner_for_long_hair_23_7_fl_oz_female_hair_care,22,11
@@ -31059,11 +31059,11 @@ product_id,product_name,aisle_id,department_id
 31058,unknown,100,21
 31059,repair_protect_toothpaste_for_sensitive_teeth,20,11
 31060,dinner_plates,111,17
-31061,strawberry_toppings_,103,19
+31061,strawberry_toppings,103,19
 31062,kentucky_bourbon_uncured_sausage,106,12
 31063,extension_cord_white,87,17
 31064,rice_nog,91,16
-31065,isopropyl_rubbing_alcohol_70_,118,11
+31065,isopropyl_rubbing_alcohol_70,118,11
 31066,aluminum_foil,85,17
 31067,watermelon,24,4
 31068,proactive_health_smart_puppy_dry_dog_food,40,8
@@ -31335,7 +31335,7 @@ product_id,product_name,aisle_id,department_id
 31334,chocolate_almond_sea_salt_with_chia_granola_bars,3,19
 31335,fennel_antiplaque_and_whitening_toothpaste,20,11
 31336,grape_modified_6_23_09_100_juice,98,7
-31337,organic_hummus_spicy_jalapeño_cilantro,67,20
+31337,organic_hummus_spicy_jalapeno_cilantro,67,20
 31338,classic_almond_butter,88,13
 31339,unknown,100,21
 31340,mustard_dijon,72,13
@@ -31376,7 +31376,7 @@ product_id,product_name,aisle_id,department_id
 31375,medicated_foot_powder_maximum_strength,118,11
 31376,hemp_tea_tree_pure_castile_soap,25,11
 31377,cheesecloth,10,17
-31378,traditional_size_corn_tortillas_6_,128,3
+31378,traditional_size_corn_tortillas_6,128,3
 31379,bread_n_butter_pickles,110,13
 31380,omeprazole_acid_reducer_tablets,70,11
 31381,sugar_cubes_dots,17,13
@@ -31411,7 +31411,7 @@ product_id,product_name,aisle_id,department_id
 31410,basic_bounty_basic_paper_towels_print_8_regular_rolls_towels_napkins,54,17
 31411,caffe_macchiato_gelato,37,1
 31412,rising_crust_italian_sausage_pizza,79,1
-31413,silver_multivitamin_and_multimineral_supplement_tablets_for_women_50_,47,11
+31413,silver_multivitamin_and_multimineral_supplement_tablets_for_women_50,47,11
 31414,cinnamon_crunch,121,14
 31415,360_degree_total_advanced_toothbrush,20,11
 31416,organic_vanilla_raw_fit_protein_for_weight_loss,65,11
@@ -31743,7 +31743,7 @@ product_id,product_name,aisle_id,department_id
 31742,fast_max_maximum_strength_cold_flu_sore_throat_caplets,11,11
 31743,peach_greek_yogurt,120,16
 31744,super_sensitive_shampoo_bodywash,102,18
-31745,shaly_loam_gewürztraminer,62,5
+31745,shaly_loam_gewurztraminer,62,5
 31746,chocolate_chip_protein_bar,3,19
 31747,classic_salmon_shrimp_feast_cat_food,41,8
 31748,cantaloupe_grapefruit_sparkling_water,115,7
@@ -31775,7 +31775,7 @@ product_id,product_name,aisle_id,department_id
 31774,unknown,100,21
 31775,unknown,100,21
 31776,mediterranean_mint_gelato_pops_dipped_in_rich_dark_chocolate,37,1
-31777,sunscreen_spf_50_,6,2
+31777,sunscreen_spf_50,6,2
 31778,oven_baked_cheddar_sour_cream_potato_crisps,107,19
 31779,organic_decaf_blend_coffee,26,7
 31780,serenity_moisturizing_body_wash,127,11
@@ -32082,7 +32082,7 @@ product_id,product_name,aisle_id,department_id
 32081,cinnamon_swirl_crumb_cake_muffin_mix,105,13
 32082,unknown,100,21
 32083,original_in_tomato_cheese_sauce_pasta,59,15
-32084,manuka_honey_mgo_250_,47,11
+32084,manuka_honey_mgo_250,47,11
 32085,grab_n_go_cups_lids_12_ounce,111,17
 32086,tomatoes_finely_chopped,81,15
 32087,pumpkin_creme_pie,119,1
@@ -32230,7 +32230,7 @@ product_id,product_name,aisle_id,department_id
 32229,akoma_extra_semisweet_chocolate_chips,17,13
 32230,organic_greek_fat_free_plain_yogurt,120,16
 32231,grape_juice,31,7
-32232,organic_roasted_buckwheat_kasha_,68,10
+32232,organic_roasted_buckwheat_kasha,68,10
 32233,low_sodium_small_bow_ties_egg_noodles,33,6
 32234,genuine_brewers_mild_tasting_yeast,47,11
 32235,no_caffeine_lemon_lime_soda,77,7
@@ -32266,7 +32266,7 @@ product_id,product_name,aisle_id,department_id
 32265,forceflex_drawstring_tall_kitchen_bags,60,17
 32266,manhattan_cherry_chip_ice_cream,37,1
 32267,twelve_essentials_fruit_and_vegetable_juice,31,7
-32268,night_cool_burst_cold_multi_symptom_liquid,11,11
+32268,night_cool_bursttm_cold_multi_symptom_liquid,11,11
 32269,3d_white_brilliance_boost_toothpaste,20,11
 32270,spice_wrld_organic_garlic,123,4
 32271,original_applesauce,99,15
@@ -32321,7 +32321,7 @@ product_id,product_name,aisle_id,department_id
 32320,chicken_thigh,35,12
 32321,minis_cheddar_pretzel_crackers,107,19
 32322,shine_anti_frizz_serum_for_frizzy_dry_unmanageable_hair,22,11
-32323,great_lash_clear_mascara_clear_for_lash_and_brow_,132,11
+32323,great_lash_clear_mascara_clear_for_lash_and_brow,132,11
 32324,country_ranch_croutons,89,13
 32325,slow_churned_caramel_delight_ice_cream,37,1
 32326,variety_pack_cereal,121,14
@@ -32329,7 +32329,7 @@ product_id,product_name,aisle_id,department_id
 32328,chipotle_mozzarella_lime_smoked_sausage,106,12
 32329,imported_beer_from_mexico,27,5
 32330,protein_plus_farfalle_multigrain_pasta,131,9
-32331,flip_low_fat_almond_coco_loco_lowfat_greek_yogurt,120,16
+32331,fliptm_low_fat_almond_coco_loco_lowfat_greek_yogurt,120,16
 32332,kettle_classics_original_potato_chips,107,19
 32333,apple_banana_fruit_bar,3,19
 32334,lightdays_regular_pantiliners,126,11
@@ -32705,7 +32705,7 @@ product_id,product_name,aisle_id,department_id
 32704,vitamin_code_men_s_raw_whole_food_mutlivitamin,47,11
 32705,gluten_free_oatmeal_brown_sugar_and_maple_with_flax_chia,130,14
 32706,vanilla_bean_plant_protein,65,11
-32707,platinum_actionpacs_fresh_scent_dishwasher_detergent,74,17
+32707,platinumtm_actionpacstm_fresh_scent_dishwasher_detergent,74,17
 32708,white_shabbos_candles,33,6
 32709,plugins_scented_oil_crisp_waters,101,17
 32710,portabella_mushroom,83,4
@@ -32970,11 +32970,11 @@ product_id,product_name,aisle_id,department_id
 32969,dr_chill_soda,77,7
 32970,swiss_preserves_strawberry,88,13
 32971,sliced_peaches,116,1
-32972,hershey_s_crème_pie_with_a_chocolate_cookie_crust,119,1
+32972,hershey_s_creme_pie_with_a_chocolate_cookie_crust,119,1
 32973,baked_zitta_with_turkey_meatballs,38,1
 32974,cavatappi,131,9
 32975,chardonnay_sonoma_country,62,5
-32976,variety_box_4_of_each_original_white_cheddar_cheddar_jack_,78,19
+32976,variety_box_4_of_each_original_white_cheddar_cheddar_jack,78,19
 32977,brown_long_grain_rice,63,9
 32978,lemon_lime_seltzer,115,7
 32979,sourdough_boule,112,3
@@ -33201,7 +33201,7 @@ product_id,product_name,aisle_id,department_id
 33200,sliced_ripe_black_olives,110,13
 33201,soft_white_150_w_light_bulb,87,17
 33202,organic_maple_cinnamon_agave_pancake_syrup,29,13
-33203,excellence_non_drip_crème_4_dark_brown,22,11
+33203,excellence_non_drip_creme_4_dark_brown,22,11
 33204,graduates_lil_entrees_with_carrots_mashed_potatoes_gravy_with_roasted_chicken,92,18
 33205,chocolate_protein_soy_and_dairy_protein_shake,31,7
 33206,pearled_couscous_original_plain,4,9
@@ -33237,7 +33237,7 @@ product_id,product_name,aisle_id,department_id
 33236,sprouted_blues_corn_tortilla_chips,107,19
 33237,classic_five_cheese_lasagna,38,1
 33238,organic_arrowroot_powder,104,13
-33239,nacho_sliced_jalapeños,30,6
+33239,nacho_sliced_jalapenos,30,6
 33240,lightly_seasoned_freeze_dried_edamame_veggie_snack,117,19
 33241,skewers_11_3_4_in,10,17
 33242,blue_cheese_stuffed_queen_olives,110,13
@@ -33324,7 +33324,7 @@ product_id,product_name,aisle_id,department_id
 33323,il_mascarpone,2,16
 33324,organic_gluten_free_tamari_soy_sauce,66,6
 33325,chocolate_espresso_protein_bar,3,19
-33326,cheese_finely_shredded_mexican_four_cheese_blend_reduced_fat_2_,21,16
+33326,cheese_finely_shredded_mexican_four_cheese_blend_reduced_fat_2,21,16
 33327,3rd_foods_banana_apple_strawberry,92,18
 33328,season_and_cooked_pulled_beef,7,12
 33329,smoked_gouda_with_bacon,2,16
@@ -33867,7 +33867,7 @@ product_id,product_name,aisle_id,department_id
 33866,unknown,100,21
 33867,laudemio_extra_virgin_olive_oil,19,13
 33868,go_pumpkins_organic_raw_pumpkin_seeds,117,19
-33869,urinary_pain_relief_maximum_strength,47,11
+33869,urinary_pain_relieftm_maximum_strength,47,11
 33870,bonito_del_norte_en_aceita_de_oliva,95,15
 33871,smarty_dish_pink_grapefruit_dishwasher_detergent_tabs,74,17
 33872,smooth_peanut_butter,88,13
@@ -33936,7 +33936,7 @@ product_id,product_name,aisle_id,department_id
 33935,unknown,100,21
 33936,enchilada_sauce,30,6
 33937,stir_fry_pad_thai,66,6
-33938,diapers_size_3_16_28_lb_,56,18
+33938,diapers_size_3_16_28_lb,56,18
 33939,platinum_power_oxi,74,17
 33940,endulge_chocolate_peanut_candies,45,19
 33941,organic_dark_chocolate_lemon_ginger_with_black_pepper_55_cacao,45,19
@@ -33991,7 +33991,7 @@ product_id,product_name,aisle_id,department_id
 33990,organic_chocolate_chip_granola_bars,3,19
 33991,gluten_free_sourdough_sandwich_rolls,112,3
 33992,organic_curly_parsley,16,4
-33993,jalapeño_heat_potato_chips,107,19
+33993,jalapeno_heat_potato_chips,107,19
 33994,50_less_sodium_chili_beans,59,15
 33995,five_cheese_garlic_bread,129,1
 33996,corn_on_cob,116,1
@@ -34250,7 +34250,7 @@ product_id,product_name,aisle_id,department_id
 34249,strawberry_puffs,92,18
 34250,classic_lasagna_velveeta_cheesy_skillets,4,9
 34251,apricot_ginger_crisps,50,19
-34252,quattro_for_women_refill_blades_,55,11
+34252,quattro_for_women_refill_blades,55,11
 34253,multi_v_goodness_cherry_100_fruit_juice_smoothie_boosts,31,7
 34254,white_facial_tissues,54,17
 34255,citrus_body_wash,25,11
@@ -34439,7 +34439,7 @@ product_id,product_name,aisle_id,department_id
 34438,unknown,100,21
 34439,super_echinacea,47,11
 34440,cookies_oat_dark_chocolate_chip,61,19
-34441,multivitamin_supplement_tablets_for_men_50_,47,11
+34441,multivitamin_supplement_tablets_for_men_50,47,11
 34442,whey_protein_french_vanilla_packet,65,11
 34443,clary_sage_essential_oil,101,17
 34444,arctic_wintergreen_mints,46,19
@@ -34776,7 +34776,7 @@ product_id,product_name,aisle_id,department_id
 34775,vanilla_honey_graham_crunchy_cookies,61,19
 34776,double_caramel_swirl_bars_made_with_low_fat_ice_cream,37,1
 34777,medium_peach_salsa,51,13
-34778,platinum_power_clean_refreshing_rain_dishwashing_liquid,74,17
+34778,platinum_power_cleantm_refreshing_raintm_dishwashing_liquid,74,17
 34779,unknown,100,21
 34780,yahrzeit_memorial_candle,101,17
 34781,whole_black_pepper,104,13
@@ -34855,7 +34855,7 @@ product_id,product_name,aisle_id,department_id
 34854,steamfresh_selects_frozen_broccoli_cauliflower_carrots,116,1
 34855,original_with_olive_oil_sea_salt_baguette_crisps,78,19
 34856,original_plain_wafers_crackers,78,19
-34857,thin_crust_supreme_22_1_oz_12_,79,1
+34857,thin_crust_supreme_22_1_oz_12,79,1
 34858,supreme_original_brownie_mix,105,13
 34859,handcrafted_organic_deodorant_ylang_ylang_calendula,80,11
 34860,reduced_fat_creamy_peanut_butter,88,13
@@ -34872,7 +34872,7 @@ product_id,product_name,aisle_id,department_id
 34871,fire_roasted_diced_green_mild_chiles,30,6
 34872,cellulose_sponge_cloth_multi_purpose,114,17
 34873,pickled_jalapeno_slices,30,6
-34874,fruit_by_the_foot_fruit_roll_ups_fruit_gushers_party_pack_fruit_snacks_24_ct_,50,19
+34874,fruit_by_the_foot_fruit_roll_ups_fruit_gushers_party_pack_fruit_snacks_24_ct,50,19
 34875,active_health_teen_tablets,47,11
 34876,all_natural_table_syrup,29,13
 34877,organic_unfiltered_extra_virgin_olive_oil,19,13
@@ -34936,7 +34936,7 @@ product_id,product_name,aisle_id,department_id
 34935,laundry_wash_delicate,75,17
 34936,oreo_filled_cupcake,8,3
 34937,sweet_tea_drink_mix,90,7
-34938,côtes_du_rhône,134,5
+34938,cotes_du_rhone,134,5
 34939,veggie_ground,14,20
 34940,chicken_flavor_top_ramen_noodles,66,6
 34941,uncured_italian_dry_salame,96,20
@@ -35081,7 +35081,7 @@ product_id,product_name,aisle_id,department_id
 35080,creamy,45,19
 35081,eco_pac_organic_corn_puffs,121,14
 35082,advanced_surface_cleaner_polish,114,17
-35083,manuka_honey_bio_active_5_,29,13
+35083,manuka_honey_bio_active_5,29,13
 35084,wheat_organic_bread,112,3
 35085,spot_s_stew_salmon_dry_dog_food,40,8
 35086,1st_foods_green_beans,92,18
@@ -35143,7 +35143,7 @@ product_id,product_name,aisle_id,department_id
 35142,organic_breakfast_blend_coffee,6,2
 35143,organic_turkey_gravy_mix,4,9
 35144,tartufo_salami,96,20
-35145,infusions_ultra_downy_infusions_lavender_serenity_fabric_softener_sheets_105_count_fabric_enhancers,75,17
+35145,infusions_ultra_downy_infusionstm_lavender_serenitytm_fabric_softener_sheets_105_count_fabric_enhancers,75,17
 35146,wipe_go_instant_stain_remover_wipes,75,17
 35147,medium_roast_whole_bean_coffee,26,7
 35148,pale_ale_honey_spice_mustard,72,13
@@ -35178,7 +35178,7 @@ product_id,product_name,aisle_id,department_id
 35177,wehani_rice,63,9
 35178,scented_oil_hawai_i_exotic_papay_hibiscus_flower_air_freshener_refills,101,17
 35179,diet_lemon_iced_tea_mix,94,7
-35180,l_oréal_paris_advanced_haircare_total_repair_5_restoring_conditioner,22,11
+35180,l_oreal_paris_advanced_haircare_total_repair_5_restoring_conditioner,22,11
 35181,extra_crisp_english_muffins,93,3
 35182,gluten_free_cornbread_mix,105,13
 35183,organic_stevia,17,13
@@ -35242,7 +35242,7 @@ product_id,product_name,aisle_id,department_id
 35241,organic_khao_deng_ruby_red_rice,63,9
 35242,cornmeal_crust_3_cheese_pizza,79,1
 35243,lemongrass_tea_tree_with_orange_peel_body_wash,25,11
-35244,bedtime_bath_baby_bath,102,18
+35244,bedtime_bathtm_baby_bath,102,18
 35245,vitamin_e_stick,109,11
 35246,6_25_oz_lifesavers_wintogreen_peg,46,19
 35247,stout_steak_potato_handheld_aussie_pies,38,1
@@ -35415,7 +35415,7 @@ product_id,product_name,aisle_id,department_id
 35414,sippy_cup,82,18
 35415,dark_chocolate_coconut_protein_bar,65,11
 35416,chicken_seasoning,104,13
-35417,reduced_fat_milk_2_,84,16
+35417,reduced_fat_milk_2,84,16
 35418,dark_almond_organic_chocolate,45,19
 35419,handmade_vodka_from_austin_texas,124,5
 35420,banana_bites_chewy_organic_coconut,50,19
@@ -35636,7 +35636,7 @@ product_id,product_name,aisle_id,department_id
 35635,half_half_lemonade_tea,94,7
 35636,fabulous_eye_cream,44,11
 35637,artesian_hawaiian_volcanic_water,115,7
-35638,marrobone_,40,8
+35638,marrobone,40,8
 35639,mrs_fields_chocolate_chunk_cookie_dough_frozen_dairy_dessert,37,1
 35640,beer_brats_sausage,14,20
 35641,intensive_healing_anti_itch_creme,118,11
@@ -35717,7 +35717,7 @@ product_id,product_name,aisle_id,department_id
 35716,arnold_italian_crustini_rolls,43,3
 35717,jerusalem_baked_whole_wheat_matzo_thins,33,6
 35718,reese_s_peanut_butter_chocolate_chunk_cookie_mix,105,13
-35719,caffé_latte_with_milk_espresso_drink,26,7
+35719,caffe_latte_with_milk_espresso_drink,26,7
 35720,mayan_chocolate_ice_cream,37,1
 35721,irish_aged_cheddar_cheese,2,16
 35722,grilled_chicken_mozzarella_ravioli,38,1
@@ -35796,7 +35796,7 @@ product_id,product_name,aisle_id,department_id
 35795,mexican_restaurant_style_corn_tortilla_chips,107,19
 35796,active_12_100_raw_manuka_honey,29,13
 35797,unknown,100,21
-35798,crushed_tomatoes_in_heavy_purée,81,15
+35798,crushed_tomatoes_in_heavy_puree,81,15
 35799,brown_n_serve_maple_sausage_patties,52,1
 35800,golden_tonic_turmeric_tea,94,7
 35801,duratowel,54,17
@@ -35857,7 +35857,7 @@ product_id,product_name,aisle_id,department_id
 35856,caramel_almond_creamer,53,16
 35857,organic_sliced_medium_cheddar_cheese,21,16
 35858,gluten_free_chewy_oatmeal_raisin_cookies,119,1
-35859,natural_calm_plus_calcium_original_unflavored_,47,11
+35859,natural_calm_plus_calcium_original_unflavored,47,11
 35860,unknown,100,21
 35861,family_size_chicken_flavor_rice_blend,4,9
 35862,old_fashioned_light_caramel_dip,51,13
@@ -35876,7 +35876,7 @@ product_id,product_name,aisle_id,department_id
 35875,super_lysine_plus_cream,20,11
 35876,quart_size_single_slide_storage_bags,85,17
 35877,meaty_ground_dinner_with_chopped_chicken_dog_food,40,8
-35878,traditional_pumpkin_pie_6_,8,3
+35878,traditional_pumpkin_pie_6,8,3
 35879,cane_sugar_syrup,29,13
 35880,chile_lime_2_only_puffed_wheat_snacks,107,19
 35881,general_purpose_masking_tape,87,17
@@ -36021,7 +36021,7 @@ product_id,product_name,aisle_id,department_id
 36020,sour_s_ghetti_gummi_candy,45,19
 36021,360_degree_duster_refills,114,17
 36022,sweet_gala_apples_with_almonds_sliced_apples_with_mild_cheddar_cheese,3,19
-36023,enriched_macaroni_cheese_dinner_,4,9
+36023,enriched_macaroni_cheese_dinner,4,9
 36024,organic_chicken_cilantro_lime_burrito,38,1
 36025,toothpaste,20,11
 36026,ice_cream_bars_value_pack,37,1
@@ -36140,7 +36140,7 @@ product_id,product_name,aisle_id,department_id
 36139,frosty_paws_peanut_butter_novelty_dog_treats,37,1
 36140,million_dollar_white_bread,112,3
 36141,italian_style_breaded_chicken_patties,34,1
-36142,pears_apples_baby_rice_2_from_6_months_,92,18
+36142,pears_apples_baby_rice_2_from_6_months,92,18
 36143,cinnamon_bun_yogurt_bar,120,16
 36144,smoked_turkey_breast,96,20
 36145,mashed_potatoes_organic_home_style,4,9
@@ -36230,7 +36230,7 @@ product_id,product_name,aisle_id,department_id
 36229,elderflower_tonic_water,115,7
 36230,tofu_ravioli_verde,42,1
 36231,men_s_health_tablets_multivitamin_multimineral_supplement,47,11
-36232,argan_stem_cells_conditioner_for_thinning_hair_age_defying_,22,11
+36232,argan_stem_cells_conditioner_for_thinning_hair_age_defying,22,11
 36233,unknown,100,21
 36234,high_brew_dark_chocolate_mocha,26,7
 36235,organic_pure_extra_virgin_coconut_oil,19,13
@@ -36323,8 +36323,8 @@ product_id,product_name,aisle_id,department_id
 36322,thin_spaghetti_no_11,131,9
 36323,fresh_citrus_antibacterial_hand_soap,127,11
 36324,trumoo_whole_chocolate_milk,84,16
-36325,jalapeño_tomato_ketchup,72,13
-36326,multipurpose_sealing_wrap_70_sq_ft_,85,17
+36325,jalapeno_tomato_ketchup,72,13
+36326,multipurpose_sealing_wrap_70_sq_ft,85,17
 36327,ice_cream_mexican_chili_chocolate,37,1
 36328,double_red_rooibos_red_tea_bags,94,7
 36329,natural_mozzarella_cheddar_fancy_shredded_cheese,21,16
@@ -36332,7 +36332,7 @@ product_id,product_name,aisle_id,department_id
 36331,buffalo_ranch_dip,67,20
 36332,apple_strawberry_bar,3,19
 36333,heirloom_bean_veggie_burgers,42,1
-36334,medium_gauze_pads_3_x_3_,118,11
+36334,medium_gauze_pads_3_x_3,118,11
 36335,whole_grain_cheese_pizza_all_natural_sesame_street,79,1
 36336,shin_ramyun_noodle_soup,4,9
 36337,whole_milk_pure_cherry,120,16
@@ -36974,8 +36974,8 @@ product_id,product_name,aisle_id,department_id
 36973,fast_max_cold_flu_sore_throat,11,11
 36974,scalp_hair_damage_color_repair,22,11
 36975,alka_seltzer_plus_cold_formula_orange_zest_effervescent,11,11
-36976,bananas_apples_puree_2_from_6_months_,92,18
-36977,soft_moisturizing_crème,127,11
+36976,bananas_apples_puree_2_from_6_months,92,18
+36977,soft_moisturizing_creme,127,11
 36978,animal_crackers,78,19
 36979,non_alcoholic_malt_beverage,27,5
 36980,jasmine_white_rice,63,9
@@ -37279,7 +37279,7 @@ product_id,product_name,aisle_id,department_id
 37278,sweet_olive_oil_torta_cracker,78,19
 37279,washable_disappearing_purple_school_glue,87,17
 37280,steak_potato_boom_bites,38,1
-37281,white_dark_in_roasting_pan_turkey_gravy_2115_,34,1
+37281,white_dark_in_roasting_pan_turkey_gravy_2115,34,1
 37282,oreo_cookies_and_cream_mint_frozen_dairy_dessert,37,1
 37283,homestyle_meatballs,34,1
 37284,shelled_pistachios_roasted_and_salted,117,19
@@ -37382,12 +37382,12 @@ product_id,product_name,aisle_id,department_id
 37381,burts_thick_cut_potato_chips,107,19
 37382,organic_low_fat_minestrone_soup,69,15
 37383,pert_plus_classic_clean_2_in_1_shampoo_and_conditioner,22,11
-37384,mustard_ground_,104,13
+37384,mustard_ground,104,13
 37385,organic_red_kale,83,4
 37386,sugar_free_apricot_preserves_with_fiber,88,13
 37387,classic_honey_wheat_bread,112,3
 37388,cream_top_blueberry_yogurt,120,16
-37389,whispering_angel_rosé,6,2
+37389,whispering_angel_rose,6,2
 37390,ultra_rapid_action_vanishing_treatment_cream_maximum_strength,73,11
 37391,raw_protein_and_greens_chocolate_organic_plant_formula_powder,65,11
 37392,asian_ginseng_liquid_herbal_extract,47,11
@@ -37406,7 +37406,7 @@ product_id,product_name,aisle_id,department_id
 37405,frosted_mini_wheats_little_bites_chocolate_cereal,121,14
 37406,double_fudge_moose_tracks_premium_ice_cream,37,1
 37407,moroccan_seasoned_chicken_stew_organic,38,1
-37408,italian_style_entrées_meat_sauce_gemelli_pasta,4,9
+37408,italian_style_entrees_meat_sauce_gemelli_pasta,4,9
 37409,50_less_sodium_chicken_broth,69,15
 37410,vanilla_snowflake_goat_s_milk_ice_cream,37,1
 37411,saaa_wheat_organic_bread,112,3
@@ -37599,7 +37599,7 @@ product_id,product_name,aisle_id,department_id
 37598,schar_bonta_d_italia_spaghetti_gluten_free,131,9
 37599,neon_clip_large,85,17
 37600,organic_kettle_corn,23,19
-37601,acne_eliminating_spot_gel_rapid_clear_,73,11
+37601,acne_eliminating_spot_gel_rapid_clear,73,11
 37602,mexican_coffee,26,7
 37603,rustic_bread,112,3
 37604,spring_renewal_detergent,75,17
@@ -37666,7 +37666,7 @@ product_id,product_name,aisle_id,department_id
 37665,splits_pretzels_original,107,19
 37666,sweet_baby_cukes_persian_cucumbers,83,4
 37667,unknown,100,21
-37668,american_slices_2_,21,16
+37668,american_slices_2,21,16
 37669,triple_nut_temptation_dark_chocolate_caracas_bar,45,19
 37670,total_repair_extreme_reconstructing_conditioner,22,11
 37671,blueberry_with_whole_grains_yogurt_blends,92,18
@@ -37693,7 +37693,7 @@ product_id,product_name,aisle_id,department_id
 37692,horseradish_cheddar_cheese,2,16
 37693,classic_blend_vegan_shreds_cheese,21,16
 37694,salsa_picante_mexican_hot_sauce,72,13
-37695,hybrid_advance_triple_blade_disposable_system_razor_for_men_,55,11
+37695,hybrid_advance_triple_blade_disposable_system_razor_for_men,55,11
 37696,strengthening_nail_polish_remover,132,11
 37697,coconut_soft_curls_hair_cream,22,11
 37698,sliced_pears_in_heavy_syrup,99,15
@@ -37757,7 +37757,7 @@ product_id,product_name,aisle_id,department_id
 37756,prune_juice_with_pulp,98,7
 37757,fresh_ground_crunchy_peanut_butter,88,13
 37758,kissed_caramel_flavored_vodka,124,5
-37759,spongebob_squarepants_adhesive_bandages,118,11
+37759,spongebob_squarepantstm_adhesive_bandages,118,11
 37760,cherry_flavor_infants_oral_suspension,6,2
 37761,curry_spice,104,13
 37762,strawberry_kefir,120,16
@@ -37813,7 +37813,7 @@ product_id,product_name,aisle_id,department_id
 37812,pepperoni_pizza_pocket,79,1
 37813,hot_madras_curry_powder,104,13
 37814,unknown,100,21
-37815,jivara_milk_feves_chocolate_40_,45,19
+37815,jivara_milk_feves_chocolate_40,45,19
 37816,premium_dental_vegan_cinnamon_floss,20,11
 37817,slim_cut_swiss_reduced_fat_made_with_2_milk_cheese_slices,21,16
 37818,gluten_free_cinnamon_sugar_donuts_6_count,52,1
@@ -37848,7 +37848,7 @@ product_id,product_name,aisle_id,department_id
 37847,doggie_waste_bags_and_dispenser,40,8
 37848,frozen_lemonade_concentrate,113,1
 37849,velveeta_shells_cheese_pasta,4,9
-37850,tomato_purée_no_salt_added,81,15
+37850,tomato_puree_no_salt_added,81,15
 37851,all_in_one_nutritional_shake_chocolate,65,11
 37852,organic_cranberry_juice,98,7
 37853,brilliant_brunette_color_protecting_shampoo,22,11
@@ -37880,7 +37880,7 @@ product_id,product_name,aisle_id,department_id
 37879,sheer_moisture_lip_tint_glisten,132,11
 37880,unknown,100,21
 37881,ziti_rigate_penne,131,9
-37882,unstoppable_eyeliner_onyx,22,11
+37882,unstoppabletm_eyeliner_onyx,22,11
 37883,odor_shield_scoopable_cat_litter_scented,41,8
 37884,unknown,100,21
 37885,nacho_tortilla_chips,107,19
@@ -37947,7 +37947,7 @@ product_id,product_name,aisle_id,department_id
 37946,ibuprofen_drops_for_ages_6_23_months_white_grape_flavor,6,2
 37947,organic_peach_lowfat_yogurt,120,16
 37948,slow_kettle_kickin_crab_sweet_corn_chowder_soup,69,15
-37949,diapers_swaddlers_size_2_12_18_lb_,56,18
+37949,diapers_swaddlers_size_2_12_18_lb,56,18
 37950,small_enriched_bread,112,3
 37951,sweet_italian_pork_sausage,7,12
 37952,soup_lentil,69,15
@@ -38121,7 +38121,7 @@ product_id,product_name,aisle_id,department_id
 38120,twists_strawberry_candy,45,19
 38121,d_anjou_pears,24,4
 38122,24oz_heat_eat_container,85,17
-38123,jalapeño_seasoned_tuna,15,12
+38123,jalapeno_seasoned_tuna,15,12
 38124,roarin_waters_tropical_fruit,98,7
 38125,caramel_pot_de_creme,71,16
 38126,raspberry_chipotle_salsa_medium,51,13
@@ -38165,7 +38165,7 @@ product_id,product_name,aisle_id,department_id
 38164,almonds_sea_salt_in_dark_chocolate,45,19
 38165,riesling_central_coast,62,5
 38166,ultimate_loaded_bacon_and_cheddar,107,19
-38167,ultra_downy_clean_breeze_liquid_fabric_conditioner_51_fl_oz_60_loads_fabric_enhancers,75,17
+38167,ultra_downy_clean_breezetm_liquid_fabric_conditioner_51_fl_oz_60_loads_fabric_enhancers,75,17
 38168,kale_greens_bunch,83,4
 38169,chai_ultra_spice_tea,94,7
 38170,whole_tomatoes,81,15
@@ -38212,7 +38212,7 @@ product_id,product_name,aisle_id,department_id
 38211,radiant_plastic_super_plus_absorbency_tampons,126,11
 38212,tomato_basil_bisque,1,20
 38213,organic_herbalozenge_tropical_soother_lozenges,11,11
-38214,avent_pacifier_soothie_0_6m_,82,18
+38214,avent_pacifier_soothie_0_6m,82,18
 38215,organic_golden_turmeric_lassi,120,16
 38216,disney_zootopia_assorted_flavored_fruit_snacks,50,19
 38217,snackimals_vanilla_blast_cereal,121,14
@@ -38392,7 +38392,7 @@ product_id,product_name,aisle_id,department_id
 38391,antibacterial_singles,54,17
 38392,cheddar_cheese_popcorn,23,19
 38393,condensed_soup_manhattan_clam_chowder,69,15
-38394,vitamin_d3_5000_i_u_,47,11
+38394,vitamin_d3_5000_i_u,47,11
 38395,bbq,107,19
 38396,raw_sea_kraut,110,13
 38397,chocolate_cupcakes,8,3
@@ -38403,7 +38403,7 @@ product_id,product_name,aisle_id,department_id
 38402,fire_grilled_steak_quesadillas,129,1
 38403,chunky_no_beans_chili,59,15
 38404,vanilla_crisp_energy_bar,3,19
-38405,organix_grain_free_chicken_paté_cat_food,41,8
+38405,organix_grain_free_chicken_pate_cat_food,41,8
 38406,harvest_coarse_ground_mustard,72,13
 38407,freezer_bag_gallon,85,17
 38408,mrs_meyers_dish_soap_rosemary,74,17
@@ -38601,12 +38601,12 @@ product_id,product_name,aisle_id,department_id
 38600,pickled_asparagus,110,13
 38601,breakfast_americana,94,7
 38602,medium_shells,131,9
-38603,3d_white_luxe_toothpaste_vibrant_mint,20,11
+38603,3d_white_luxetm_toothpaste_vibrant_mint,20,11
 38604,advanced_hairstyle_boost_it_volume_inject_mousse,22,11
 38605,handi_scrub,114,17
 38606,raspberry_sherbert,37,1
 38607,mini_baked_fillo_shells,119,1
-38608,lowfat_cottage_cheese_2_,108,16
+38608,lowfat_cottage_cheese_2,108,16
 38609,beef_short_ribs,122,12
 38610,vanilla_spice_perfect_energy,94,7
 38611,baby_derma_white_mallow_face_cream,102,18
@@ -38638,7 +38638,7 @@ product_id,product_name,aisle_id,department_id
 38637,organic_mayo,72,13
 38638,ibuprofen_tablets_200_mg,133,11
 38639,natural_dog_food_lamb_sweet_potato_formula,40,8
-38640,jalapeño_salsa_raw_pumpkin_seeds,117,19
+38640,jalapeno_salsa_raw_pumpkin_seeds,117,19
 38641,organic_fruit_punch_sensible_sippers,98,7
 38642,hot_chili_oil,66,6
 38643,anti_slip_grip_cardboard_applicator_super_absorbency_tampons,126,11
@@ -38877,11 +38877,11 @@ product_id,product_name,aisle_id,department_id
 38876,milk_chocolate_mini_eggs,45,19
 38877,pro_v_sheer_volume_2_in_1_shampoo_conditioner,22,11
 38878,unknown,100,21
-38879,tostada_bowls_6_,30,6
+38879,tostada_bowls_6,30,6
 38880,pure_green_tea_k_cups,94,7
 38881,shredded_iceberg_lettuce,123,4
 38882,goldfish_grahams_cinnamon,78,19
-38883,artichoke_and_jalapeño_dip_spread,67,20
+38883,artichoke_and_jalapeno_dip_spread,67,20
 38884,pure_cane_certified_organic_sugar,17,13
 38885,porcini_truffle_ravioli_in_egg_pasta,13,20
 38886,pomegranate_blackberry_probiotic_juice_drink,70,11
@@ -38889,7 +38889,7 @@ product_id,product_name,aisle_id,department_id
 38888,cheddar_cheese_condensed_soup,69,15
 38889,perrier_lime,115,7
 38890,no_pulp_calcium_vitamin_d_pure_premium_100_pure_orange_juice,98,7
-38891,excellence_non_drip_crème_5g_medium_golden_brown_level_3_permanent_hair_color,22,11
+38891,excellence_non_drip_creme_5g_medium_golden_brown_level_3_permanent_hair_color,22,11
 38892,toll_house_butterscotch_morsels,17,13
 38893,mango_fruit_bar,3,19
 38894,venus_with_olay_women_s_razor_blade_refill_cartridges,55,11
@@ -39168,7 +39168,7 @@ product_id,product_name,aisle_id,department_id
 39167,organic_granulated_garlic_with_parsley,104,13
 39168,gluten_free_double_chocolate_chip_cookies,61,19
 39169,take_alongs_round_small_bowls,85,17
-39170,oatmeal_crème_pies,61,19
+39170,oatmeal_creme_pies,61,19
 39171,unknown,100,21
 39172,organic_unsalted_vegetable_broth,72,13
 39173,indian_hemp_haitian_vetiver_body_wash,127,11
@@ -39418,7 +39418,7 @@ product_id,product_name,aisle_id,department_id
 39417,cajun_krab_dip,67,20
 39418,unknown,100,21
 39419,3_in_1_healthy_trinity_probiotic_dietary_supplement_capsules,47,11
-39420,ultra_dawn_ultra_dishwashing_liquid_antibacterial_apple_blossom_75_oz_dish_care,74,17
+39420,ultra_dawn_ultra_dishwashing_liquid_antibacterial_apple_blossomtm_75_oz_dish_care,74,17
 39421,achiote_organic_seasoning,104,13
 39422,season_tyme_leaves_5_oz,6,2
 39423,disinfecting_wipes_lemon_fresh_scent,114,17
@@ -39690,7 +39690,7 @@ product_id,product_name,aisle_id,department_id
 39689,rondele_light_gourmet_spreadable_cheese_garlic_herbs,21,16
 39690,tootsie_pop,37,1
 39691,chisel_tip_permanent_marker,87,17
-39692,creamy_potato_leek_organic_soup_,69,15
+39692,creamy_potato_leek_organic_soup,69,15
 39693,fresh_dill,16,4
 39694,sliced_fancy_french_style_green_beans,81,15
 39695,zesty_lemon_hummus,67,20
@@ -39744,7 +39744,7 @@ product_id,product_name,aisle_id,department_id
 39743,horchata_original_milk_rice_drink,31,7
 39744,complete_protection_toothpaste,20,11
 39745,coconut_fruitfull_bar,37,1
-39746,a_r_milk_based_infant_formula_for_spit_up_powder,92,18
+39746,a_r_milk_based_infant_formula_for_spitup_powder,92,18
 39747,mixed_berry_english_tea_scones,93,3
 39748,organic_whole_grain_infant_oatmeal_cereal_with_bananas,92,18
 39749,feta_cheese_with_herbs_spices_in_oil,2,16
@@ -39855,7 +39855,7 @@ product_id,product_name,aisle_id,department_id
 39854,fruteria_chewy_mango_strawberry_chewy_granola_bars,57,14
 39855,naturally_sun_dried_organic_raisins,117,19
 39856,organic_peach_conserve,88,13
-39857,baby_food_organic_banana_brown_rice_with_cinnamon_2_6_months_up_,92,18
+39857,baby_food_organic_banana_brown_rice_with_cinnamon_2_6_months_up,92,18
 39858,hydrogen_peroxide,118,11
 39859,soft_white_bread,112,3
 39860,pumpkin_hard_cider,27,5
@@ -40202,7 +40202,7 @@ product_id,product_name,aisle_id,department_id
 40201,vitamin_d,47,11
 40202,ultimate_cheeseburger_mac_velveeta_cheesy_skillets,4,9
 40203,mint_chip_ice_cream,37,1
-40204,whole_jalapeños_in_escabeche,81,15
+40204,whole_jalapenos_in_escabeche,81,15
 40205,uncurred_hot_italian_salami,96,20
 40206,purrfect_grain_free_saucy_wild_tuna_salmon_dinner_premium_cat_food,41,8
 40207,stainless_steel_bottle_opener,10,17
@@ -40312,7 +40312,7 @@ product_id,product_name,aisle_id,department_id
 40311,organic_mixed_baby_kale_salad,123,4
 40312,unknown,100,21
 40313,classic_lighters,87,17
-40314,totally_ranch_,125,19
+40314,totally_ranch,125,19
 40315,dill_spears,110,13
 40316,ready_rice_roasted_chicken_flavored,4,9
 40317,echo_caviar,95,15
@@ -40600,7 +40600,7 @@ product_id,product_name,aisle_id,department_id
 40599,macadamias_maui_onion_sweet,117,19
 40600,cheese_stuffed_crust_pepperoni_pizza,79,1
 40601,grillers_original_veggie_burgers,42,1
-40602,vitamin_d3_1000_i_u_,47,11
+40602,vitamin_d3_1000_i_u,47,11
 40603,fabric_softener_sheets,75,17
 40604,feta_cheese_crumbles,21,16
 40605,bombay_potatoes_vegetarian,76,6
@@ -40865,7 +40865,7 @@ product_id,product_name,aisle_id,department_id
 40864,gluten_free_white_cheddar_popped_corn_chips,23,19
 40865,toll_house_chocolate_chip_cookie_dough,105,13
 40866,ciabatta_rolls,43,3
-40867,sour_punch_twists_blue_raspberry_cherry_strawberry_apple_,45,19
+40867,sour_punch_twists_blue_raspberry_cherry_strawberry_apple,45,19
 40868,zero_calorie_orange_soda,77,7
 40869,unknown,100,21
 40870,colors_baked_snack_crackers,78,19
@@ -41202,7 +41202,7 @@ product_id,product_name,aisle_id,department_id
 41201,milk_chocolate_coins,45,19
 41202,home_style_boneless_pork,38,1
 41203,organic_molasses_unsulphured,29,13
-41204,lightup_timer_toothbrushes_2_pk_soft_,20,11
+41204,lightup_timer_toothbrushes_2_pk_soft,20,11
 41205,unknown,100,21
 41206,concentrated_bleach,75,17
 41207,daily_facial_cleanser,73,11
@@ -41376,7 +41376,7 @@ product_id,product_name,aisle_id,department_id
 41375,organic_atage_3_nibbly_fingers_mangoes_carrots,92,18
 41376,ground_veal,7,12
 41377,real_bacon_bits,89,13
-41378,gluten_free_smoked_jalapeño_extra_firm_tofu,14,20
+41378,gluten_free_smoked_jalapeno_extra_firm_tofu,14,20
 41379,complete_omega_junior_lemon_500mg_softgels,47,11
 41380,country_style_pork_ribs,122,12
 41381,quaker_real_medleys_peach_apple_walnut_multigrain_cereal,121,14
@@ -41514,7 +41514,7 @@ product_id,product_name,aisle_id,department_id
 41513,mountain_chill_soda,77,7
 41514,70_dark_chocolate_with_chile_bar,45,19
 41515,chocolate_coconut_meal_bar,3,19
-41516,vodka_eleganté_pasta_sauce,9,9
+41516,vodka_elegante_pasta_sauce,9,9
 41517,sidekicks_chocolate_shake,92,18
 41518,unknown,100,21
 41519,super_scoop_instant_clumping_unscented_cat_litter,41,8
@@ -41997,7 +41997,7 @@ product_id,product_name,aisle_id,department_id
 41996,wholegrain_mustard,72,13
 41997,pro_health_stages_disney_baby_manual_toothbrush,20,11
 41998,lite_honey_mustard_vinaigrette_dressing_lite,89,13
-41999,cut_tulips_choose_color_,83,4
+41999,cut_tulips_choose_color,83,4
 42000,citron_vodka,124,5
 42001,tuna_ventresca_in_olive_oil,95,15
 42002,pasture_raised_salted_butter,36,16
@@ -42128,7 +42128,7 @@ product_id,product_name,aisle_id,department_id
 42127,blue_eucalyptus_and_lavender_natural_liquid_laundry_detergent,75,17
 42128,organic_apple_sauce_baby_food_stage_1,92,18
 42129,oat_flour_whole_grain,17,13
-42130,pro_health_invigorating_clean_mouthwash_invigorating_mint,20,11
+42130,pro_healthtm_invigorating_clean_mouthwash_invigorating_mint,20,11
 42131,hershey_s_chocolate_chunk_cookie_mix,105,13
 42132,orange_flavor,17,13
 42133,100_organic_bay_leaves,104,13
@@ -42183,7 +42183,7 @@ product_id,product_name,aisle_id,department_id
 42182,rice_drink_enriched_chocolate,91,16
 42183,super_antioxidant_green_tea,94,7
 42184,turkey_cotto_salami,96,20
-42185,extra_strenght_antigas_chewable_cherry_crème,70,11
+42185,extra_strenght_antigas_chewable_cherry_creme,70,11
 42186,coated_aspirin_325_mg,133,11
 42187,broccoli_cheddar_bake_bowl,129,1
 42188,lemon_chamomile_wood_cleaner,114,17
@@ -42302,7 +42302,7 @@ product_id,product_name,aisle_id,department_id
 42301,walnut_chocolate_chews,45,19
 42302,onion_hamburger_buns_with_poppy_seeds_8_ct,43,3
 42303,old_fashion_egg_nog,84,16
-42304,caffé_vanilla_affogato_with_milk_espresso_drink,26,7
+42304,caffe_vanilla_affogato_with_milk_espresso_drink,26,7
 42305,dog_food_with_beef_in_meaty_juices,40,8
 42306,pulsar_soft_battery_powered_toothbrush,20,11
 42307,organic_reduced_fat_2_cottage_cheese,108,16
@@ -42737,7 +42737,7 @@ product_id,product_name,aisle_id,department_id
 42736,unsalted_butter,36,16
 42737,sweet_potato_noodles,123,4
 42738,shiraz_cabernet_sauvignon_wine,28,5
-42739,band_aid_medium_hurt_free_wrap_2_,118,11
+42739,band_aid_medium_hurt_free_wrap_2,118,11
 42740,cedarwood_juniper_deodorant,80,11
 42741,red_velvet_ice_cream,37,1
 42742,unknown,100,21
@@ -42850,11 +42850,11 @@ product_id,product_name,aisle_id,department_id
 42849,ice_cream_cones,61,19
 42850,sour_cherry_jam,88,13
 42851,original_regular_pantiliners,126,11
-42852,fun_colors_square_cake_pans_with_blue_lids_8_in_x_8_in_,97,13
+42852,fun_colors_square_cake_pans_with_blue_lids_8_in_x_8_in,97,13
 42853,navitas_goji_berries,117,19
 42854,nourish_bowls_southwest_chipotle,123,4
 42855,mild_bbq_sauce,5,13
-42856,roasted_beef_patties_topped_with_sautéed_onions_and_gravy,38,1
+42856,roasted_beef_patties_topped_with_sauteed_onions_and_gravy,38,1
 42857,pesto,9,9
 42858,baking_powder_aluminum_free,17,13
 42859,food_storage,85,17
@@ -42959,7 +42959,7 @@ product_id,product_name,aisle_id,department_id
 42958,rustic_baguette,112,3
 42959,jet_dry_original_rinse_aid,74,17
 42960,all_purpose_greek_seasoning,112,3
-42961,ultra_downy_mountain_spring_,75,17
+42961,ultra_downy_mountain_springtm,75,17
 42962,zap_ems_macaroni_cheese,38,1
 42963,casaba_melon,24,4
 42964,gluten_free_spaghetti_pasta,131,9
@@ -43154,7 +43154,7 @@ product_id,product_name,aisle_id,department_id
 43153,orange_cauliflower_head,83,4
 43154,sparkling_mineral_water,115,7
 43155,fresh_meadow_precision_pour_bleach_gel,75,17
-43156,cold_remedy_honey_lemon_multi_symptom_relief_quickmelts_,11,11
+43156,cold_remedy_honey_lemon_multi_symptom_relief_quickmelts,11,11
 43157,soothing_pine_cough_drops,11,11
 43158,potato_chips_lightly_salted,107,19
 43159,mineral_bath_aromatherapy_relaxing_lavender,25,11
@@ -43197,7 +43197,7 @@ product_id,product_name,aisle_id,department_id
 43196,sliced_medium_cheddar_cheese_slices,21,16
 43197,cream_cheese_whipped_frosting,97,13
 43198,sweet_thick_honey_bbq_sauce,5,13
-43199,signature_shredded_steak_three_cheese_burritos,38,1
+43199,signature_shredded_steak_threecheese_burritos,38,1
 43200,old_fashioned_caramel_dip,51,13
 43201,organic_black_bean_mini_fettucini,131,9
 43202,honey_bbq_sauce_boneless_chicken_bites,129,1
@@ -43275,7 +43275,7 @@ product_id,product_name,aisle_id,department_id
 43274,100_organic_einkorn_whole_wheat_pasta,131,9
 43275,raspberry_lemonade_seltzer,115,7
 43276,blueberry_apple_purple_carrot_fruit_veggie_twist,92,18
-43277,pitted_organic_kalamata_olives_to_go_,110,13
+43277,pitted_organic_kalamata_olives_to_go,110,13
 43278,multi_purpose_oxi_stain_remover,75,17
 43279,non_fat_greek_yogurt_with_strawberries_on_the_bottom,120,16
 43280,whole_grain_baked_snack_crackers,78,19
@@ -43637,7 +43637,7 @@ product_id,product_name,aisle_id,department_id
 43636,organic_dog_cookies_peanut_butter,40,8
 43637,sun_dried_tomatoes_in_oil,81,15
 43638,butter_flavor_movie_theater_microwave_popcorn,23,19
-43639,fresher_collection_timber_with_mint_men_s_anti_perspirant_deodorant,80,11
+43639,fresher_collectiontm_timbertm_with_mint_men_s_anti_perspirant_deodorant,80,11
 43640,white_crab_meat,95,15
 43641,soft_baked_banana_bread,48,14
 43642,classic_clean_dandruff_shampoo,22,11
@@ -43783,7 +43783,7 @@ product_id,product_name,aisle_id,department_id
 43782,sourdough_round,112,3
 43783,chewy_cinnamon_flavored_candies,45,19
 43784,salted_caramel_ice_cream_bars,37,1
-43785,magic_tape_3_4_,87,17
+43785,magic_tape_3_4,87,17
 43786,whole_sesame_seed,6,2
 43787,bolthouse_farms_baby_cut_carrots,123,4
 43788,organic_pearfecto_level_1_baby_food,92,18
@@ -44018,7 +44018,7 @@ product_id,product_name,aisle_id,department_id
 44017,coco_roons_mini_vanilla_maple,61,19
 44018,enriched_rice_flour,30,6
 44019,calnaturale_svelte_organic_protein_shake_french_vanilla,65,11
-44020,purrfect_delicacies_wet_cat_food_roasted_chicken_beef_entrée_in_gravy,41,8
+44020,purrfect_delicacies_wet_cat_food_roasted_chicken_beef_entree_in_gravy,41,8
 44021,grilled_vegetables,13,20
 44022,original_bite_size_candies,45,19
 44023,quantum_duracell_quantum_aa_alkaline_batteries_12_count_primary_major_cells,87,17
@@ -44182,7 +44182,7 @@ product_id,product_name,aisle_id,department_id
 44181,unknown,100,21
 44182,organic_greens_vegetable_chips,50,19
 44183,marias,30,6
-44184,strawberry_banana_tooth_gel_with_xylitol_for_ages_3_months_,20,11
+44184,strawberry_banana_tooth_gel_with_xylitol_for_ages_3_months,20,11
 44185,butter_lovers_microwave_popcorn,23,19
 44186,cough_bronchial_syrup_maximum_strength_daytime,47,11
 44187,protein_caramel_nut_chewy_bars,48,14
@@ -44327,7 +44327,7 @@ product_id,product_name,aisle_id,department_id
 44326,pork_and_chicken_liver_mousse_mousse_truffee,96,20
 44327,organic_romaine_blend,123,4
 44328,gluten_free_chocolate_dipped_donuts,52,1
-44329,skillet_refried_red_beans_sautéed_with_onion_tomatillo,59,15
+44329,skillet_refried_red_beans_sauteed_with_onion_tomatillo,59,15
 44330,viva_italian_dressing,89,13
 44331,grow_gain_chocolate_shake_nutritional_drink,92,18
 44332,lemonaise_garlic_herb,72,13
@@ -44354,7 +44354,7 @@ product_id,product_name,aisle_id,department_id
 44353,deliciously_organic_mmm_chocolate_chip_cookie_mix,105,13
 44354,cooking_sauce_la_pizza,81,15
 44355,honey_mustard_potato_crisps,107,19
-44356,tortilla_chips_hint_of_lime_party_size_,107,19
+44356,tortilla_chips_hint_of_lime_party_size,107,19
 44357,salt_sense_iodized_salt,104,13
 44358,chicken_flavor_granulated_bouillon,30,6
 44359,organic_small_bunch_celery,83,4
@@ -44500,7 +44500,7 @@ product_id,product_name,aisle_id,department_id
 44499,c_vitamin_1000_mg_tablets,47,11
 44500,ultra_strong_charmin_ultra_strong_toilet_paper,54,17
 44501,100_whole_grain_whole_wheat_flour,17,13
-44502,black_chill_revitalizing_shower,127,11
+44502,black_chilltm_revitalizing_shower,127,11
 44503,large_strawberries_sliced,116,1
 44504,raisin_cinnamon_bread,112,3
 44505,mixed_berry_crunch_protein_oatmeal,130,14
@@ -44909,7 +44909,7 @@ product_id,product_name,aisle_id,department_id
 44908,beets,83,4
 44909,fresh_mozarella_cheese_ciliegine,21,16
 44910,organic_spring_mix_salad,123,4
-44911,entrée_containers_lids,85,17
+44911,entree_containers_lids,85,17
 44912,baking_powder,17,13
 44913,car_linen_sky_scent_air_freshener_vent_clips,101,17
 44914,easy_cheese_cheddar_cheese,51,13
@@ -45127,7 +45127,7 @@ product_id,product_name,aisle_id,department_id
 45126,toddler_veggie_cracker_bites,78,19
 45127,trading_company_white_bean_dip_medium_hot,51,13
 45128,milk_chocolate_m_ms,45,19
-45129,whole_wheat_wraps_12_,128,3
+45129,whole_wheat_wraps_12,128,3
 45130,bakery_classics_soft_white_hoagie_rolls,43,3
 45131,seven_crown_whiskey,124,5
 45132,whole_care_natural_peppermint_gel_fluoride_toothpaste,20,11
@@ -45390,7 +45390,7 @@ product_id,product_name,aisle_id,department_id
 45389,original_roasted_salted_sunflower_seeds,117,19
 45390,yellow_cling_peach_chunks,99,15
 45391,smart_straw_lubricant,87,17
-45392,unbleached_100_recycled_bath_tissue_double_rolls_,54,17
+45392,unbleached_100_recycled_bath_tissue_double_rolls,54,17
 45393,cinnamon_raisin_sandwich_bread,112,3
 45394,kellogg_s_special_k_strawberry_fruit_crisps_100_calorie,48,14
 45395,lower_fat_chicken_hardwood_smoked_sausage,106,12
@@ -45539,7 +45539,7 @@ product_id,product_name,aisle_id,department_id
 45538,microwave_ready_bacon_lower_sodium,106,12
 45539,gourmet_beef_flavored_broth,33,6
 45540,almond_aloe_moisturizer_spf_15,109,11
-45541,the_tonight_dough_ice_cream,37,1
+45541,the_tonight_doughtm_ice_cream,37,1
 45542,wasabi_green_peas,117,19
 45543,medium_buffalo_wing_sauce,5,13
 45544,organic_plain_nonfat_greek_yogurt,120,16
@@ -45684,7 +45684,7 @@ product_id,product_name,aisle_id,department_id
 45683,heavy_duty_scrub_sponge,114,17
 45684,organic_mango_chunks_in_mango_juice,99,15
 45685,cheddar_snack_mix,125,19
-45686,organic_chickpeas_garbanzos_,63,9
+45686,organic_chickpeas_garbanzos,63,9
 45687,diet_cranberry_fruit_juice,98,7
 45688,dark_chocolate_goji_raspberry_flavors,45,19
 45689,kilo_antiperspirant_stick,80,11
@@ -45823,7 +45823,7 @@ product_id,product_name,aisle_id,department_id
 45822,sea_salt_almond_organic_stone_ground_80_dark_chocolate,45,19
 45823,white_radiant_mint_flouride_anticavity_toothpaste,20,11
 45824,duck_venison_green_bean_wild_rice_canned_dog_food,40,8
-45825,grow_gain_strawberry_nutrition_shake_,92,18
+45825,grow_gain_strawberry_nutrition_shake,92,18
 45826,avocado_100_pure_moisturizing_oil,25,11
 45827,roasted_seaweed_snack_coconut_oil,50,19
 45828,natural_tea_tree_oil_ultra_care_mouthwash,20,11
@@ -45875,7 +45875,7 @@ product_id,product_name,aisle_id,department_id
 45874,little_champions_variety_pack,40,8
 45875,7_grain_lite_crispbread,78,19
 45876,fiji_2_in_1_shampoo_and_conditioner,22,11
-45877,hershey_s_chocolate_cr_eme_pie_singles,119,1
+45877,hershey_s_chocolate_creme_pie_singles,119,1
 45878,joe_s_ny_style_cold_pressed_lemonade,31,7
 45879,strong_honey_mustard_bar,3,19
 45880,stuffed_clams,34,1
@@ -46055,7 +46055,7 @@ product_id,product_name,aisle_id,department_id
 46054,baby_calendula_face_cream,109,11
 46055,organic_whole_anise_seed,104,13
 46056,cut_crystal_plastic_cups,111,17
-46057,wet_skin_kids_sunscreen_spray_broad_spectrum_spf_70_,127,11
+46057,wet_skin_kids_sunscreen_spray_broad_spectrum_spf_70,127,11
 46058,multi_grain_cheerios,121,14
 46059,all_whites_100_liquid_egg_whites,86,16
 46060,brown_rice_pasta_fettuccini_style_pad_thai,131,9
@@ -46067,7 +46067,7 @@ product_id,product_name,aisle_id,department_id
 46066,tavern_ham,96,20
 46067,ginger_mango_dryer_sheets,75,17
 46068,cinnamon_chips_baking_pieces,97,13
-46069,supergreens_,123,4
+46069,supergreens,123,4
 46070,beyond_organic_raw_protein_formula,65,11
 46071,scent_expressions_antiperspirant_deodorant_clear_gel_va_va_vanilla,80,11
 46072,nonpareilles_capers,110,13
@@ -46116,7 +46116,7 @@ product_id,product_name,aisle_id,department_id
 46115,banana_granola_cereal,57,14
 46116,crystal_clean_plus_the_power_of_oxiclean_stain_fighters_liquid_laundry_detergent,75,17
 46117,organic_fennel,83,4
-46118,neufchâtel_cheese,21,16
+46118,neufchatel_cheese,21,16
 46119,avocado_chipotle_spread,51,13
 46120,ultimate_healing_lotion,127,11
 46121,swiss_bittersweet_fine_dark_chocolate,45,19
@@ -46223,7 +46223,7 @@ product_id,product_name,aisle_id,department_id
 46222,original_ranch_salad_dressing_seasoning_mix,89,13
 46223,medicated_cooling_pads_with_witch_hazel,70,11
 46224,chocolate_frosting,97,13
-46225,complete_multi_benefit_whitening_scope_toothpaste,20,11
+46225,complete_multi_benefittm_whitening_scope_toothpaste,20,11
 46226,thick_crispy_tortilla_chips,107,19
 46227,organic_pita_bread,128,3
 46228,white_cheddar_mac_cheese_bacon,38,1
@@ -46597,7 +46597,7 @@ product_id,product_name,aisle_id,department_id
 46596,activia_drinks_prune_flavor,120,16
 46597,5_in_french_rolls,43,3
 46598,shake_n_bake_extra_crispy_seasoned_coating_mix,105,13
-46599,ultra_leakguards_value_pack_diapers_size_3_16_28_lbs_,56,18
+46599,ultra_leakguards_value_pack_diapers_size_3_16_28_lbs,56,18
 46600,unknown,100,21
 46601,lavender_peach_multi_surface_cleaner,114,17
 46602,sweet_red_chili_sauce,66,6
@@ -46700,10 +46700,10 @@ product_id,product_name,aisle_id,department_id
 46699,carrot_cake_slice,8,3
 46700,pine_nut_hummus,67,20
 46701,sauvignon_blanc_napa_valley_2006,62,5
-46702,heavy_duty_aluminum_foil_50_sq_ft_,85,17
+46702,heavy_duty_aluminum_foil_50_sq_ft,85,17
 46703,shelled_soybeans_edamame,116,1
 46704,creamer_peppermint_chocolate_truffle,53,16
-46705,eco_foil_pot_pie_pans_lids_5_in_dia_x_1_5_8_in_,10,17
+46705,eco_foil_pot_pie_pans_lids_5_in_dia_x_1_5_8_in,10,17
 46706,goober_grape_peanut_butter_and_jelly_spread,88,13
 46707,all_natural_gourmet_corn_bread_mix,105,13
 46708,butter_spreadable_with_canola_oil_tub,36,16
@@ -46743,7 +46743,7 @@ product_id,product_name,aisle_id,department_id
 46742,lite_raspberry_walnut_vinaigrette_dressing,89,13
 46743,caribbean_jerk_marinade,5,13
 46744,organic_zfruit_rope_fruit_punch_flavor,117,19
-46745,lentil_and_rice_creamy_coconut_,6,2
+46745,lentil_and_rice_creamy_coconut,6,2
 46746,classic_chocolate_mix_assortment,45,19
 46747,dill_sour_cream_plentils,107,19
 46748,buttered_popcorn,23,19
@@ -46848,7 +46848,7 @@ product_id,product_name,aisle_id,department_id
 46847,quick_cooking_rolled_oats_irish_oatmeal,130,14
 46848,organic_pure_vanilla_extract,104,13
 46849,hemorrhoidal_suppositories,118,11
-46850,pull_ups_learning_designs_boys_size_2t_3t_training_pants_disney_pixar,56,18
+46850,pullups_learning_designs_boys_size_2t_3t_training_pants_disney_pixar,56,18
 46851,bold_spicy,5,13
 46852,sunset_blend_gluten_free_granola,57,14
 46853,power_c_machine_all_natural_fruit_boost_juice_smoothie,31,7
@@ -46997,7 +46997,7 @@ product_id,product_name,aisle_id,department_id
 46996,creamy_swiss_french_onion_wedges_cheese,21,16
 46997,unknown,100,21
 46998,mint_moose_tracks_ice_cream,37,1
-46999,tortillas_de_maiz_corn_tortillas_,30,6
+46999,tortillas_de_maiz_corn_tortillas,30,6
 47000,ultra_soft_toilet_paper,54,17
 47001,herbal_tea_wild_berries,94,7
 47002,coffee_toffee_ice_cream,37,1
@@ -47235,7 +47235,7 @@ product_id,product_name,aisle_id,department_id
 47234,cucumber_dish_soap,74,17
 47235,stovetop_cornbread_stuffing_mix,4,9
 47236,protein_with_dark_chocolate_granola,121,14
-47237,ultraclean_arctic_mint_mouth_wash,20,11
+47237,ultracleantm_arctic_mint_mouth_wash,20,11
 47238,original_recipe_stewed_tomatoes,81,15
 47239,cherry_grape_lemon_apple_and_orange_sugar_candy,45,19
 47240,blueberry_syrup,29,13
@@ -47419,7 +47419,7 @@ product_id,product_name,aisle_id,department_id
 47418,toffee_almonds_in_milk_chocolate,45,19
 47419,fragrance_free_dead_sea_mineral_bath_salts,25,11
 47420,organic_columbia,8,3
-47421,glass_easy_find_lids_4_cups_946_ml_,85,17
+47421,glass_easy_find_lids_4_cups_946_ml,85,17
 47422,smoked_oysters,95,15
 47423,roasted_jalapeno_hummus,67,20
 47424,popcorn_flamin_hot_flavored,107,19
@@ -47944,7 +47944,7 @@ product_id,product_name,aisle_id,department_id
 47943,unsweetened_terere_yerba_mate,94,7
 47944,schwarzwalder_dark_rye_bread,112,3
 47945,cookies_n_cream_bar,3,19
-47946,nutella_go_,88,13
+47946,nutella_go,88,13
 47947,original_french_dressing,89,13
 47948,glutin_free_low_fat_rice_crackers_black_sesame_and_soy_sauce_bag,66,6
 47949,blackberry_pomegranate_sparkling_water,115,7
@@ -48093,7 +48093,7 @@ product_id,product_name,aisle_id,department_id
 48092,pork_butt_roast,122,12
 48093,sliced_halves_whole_wheat_pita_pockets,128,3
 48094,crushed_tomatoes_with_basil,81,15
-48095,purified_water_9_5ph_,115,7
+48095,purified_water_9_5ph,115,7
 48096,stevia_in_the_raw_baking_bag,17,13
 48097,rum_raisin_ice_cream,37,1
 48098,country_classic_oatmeal_bread,112,3
@@ -48211,7 +48211,7 @@ product_id,product_name,aisle_id,department_id
 48210,whole_wheat_blueberry_fig_bars,48,14
 48211,cajun_sides_dirty_rice,4,9
 48212,3_packs_assorted_bottle_brushes,114,17
-48213,cough_suppressant_cherry_liquid_for_ages_4_,11,11
+48213,cough_suppressant_cherry_liquid_for_ages_4,11,11
 48214,seasoned_fries,129,1
 48215,diet_cranberry_with_lime_juice,98,7
 48216,organic_chocolate_chip_cookie_coconut_milk_ice_cream,37,1
@@ -48322,7 +48322,7 @@ product_id,product_name,aisle_id,department_id
 48321,organic_vanilla_ice_cream_dark_chocolate,37,1
 48322,natural_toothpaste_whitening_gel,20,11
 48323,grated_parmasean_cheese,21,16
-48324,maximum_strength_intensive_healing_anti_itch_crème,118,11
+48324,maximum_strength_intensive_healing_anti_itch_creme,118,11
 48325,organic_refried_beans,59,15
 48326,lentil_rice_pilaf_mix,4,9
 48327,organic_kale_caesar_salad_kit,123,4
@@ -48442,7 +48442,7 @@ product_id,product_name,aisle_id,department_id
 48441,light_balsamic_vinaigrette,89,13
 48442,broccoli_kale_cheddar_cheese_organic_veggie_snack,92,18
 48443,all_purpose_natural_sea_salt,104,13
-48444,tofu_medium_firm_regular_,14,20
+48444,tofu_medium_firm_regular,14,20
 48445,hazelnut_cream_filled_wafers,61,19
 48446,table_fresh_balsamico_dressing,89,13
 48447,insta_dri_fast_dry_nail_color_clearly_quick,132,11
@@ -48538,7 +48538,7 @@ product_id,product_name,aisle_id,department_id
 48537,gluten_free_corn_tortilla_taquitos_vegan_beef_style,42,1
 48538,diced_pimientos,110,13
 48539,instant_gluten_free_brown_sugar_flax_oatmeal,130,14
-48540,what_s_a_bialy_,33,6
+48540,what_s_a_bialy,33,6
 48541,maximum_strength_multi_symptom_menstrual_pain_relief,126,11
 48542,minis_assorted_ice_cream_bars,37,1
 48543,organic_flax_seed,6,2
@@ -48677,7 +48677,7 @@ product_id,product_name,aisle_id,department_id
 48676,bean_rice_chips_nacho,107,19
 48677,vanilla_egg_white_protein_pack,65,11
 48678,aji_panca_organic_chili_paste,30,6
-48679,organic_garnet_sweet_potato_yam_,83,4
+48679,organic_garnet_sweet_potato_yam,83,4
 48680,ham_cheddar_mini_ritz_snack_duos,13,20
 48681,kale_cranberry_chopped_salad_kit,123,4
 48682,sauerkraut,110,13
@@ -48929,7 +48929,7 @@ product_id,product_name,aisle_id,department_id
 48928,snack_on_the_run_chicken_salad_with_crackers,95,15
 48929,breast_white_premium_chunk_in_water_chicken_breast,95,15
 48930,cinnamon_babka,8,3
-48931,hydrogen_peroxide_3_,118,11
+48931,hydrogen_peroxide_3,118,11
 48932,corn_baked_with_skim_milk_and_eggs_corn_souffle,38,1
 48933,free_and_gentle_liquid_laundry_detergent,75,17
 48934,concord_grape,28,5
@@ -48969,7 +48969,7 @@ product_id,product_name,aisle_id,department_id
 48968,gluten_free_wild_berry_fig_bars,61,19
 48969,cheese_plate_spanish,2,16
 48970,hummus_made_easy_classic,4,9
-48971,tortilla_chips_rolls_,107,19
+48971,tortilla_chips_rolls,107,19
 48972,organic_red_beans_vegetarian,59,15
 48973,royal_blend_with_red_quinoa,63,9
 48974,organic_asian_sesame_dressing,89,13
@@ -49037,7 +49037,7 @@ product_id,product_name,aisle_id,department_id
 49036,tropical_punch_liquid_drink_mix,90,7
 49037,fume_free_oven_cleaner,114,17
 49038,organic_fava_beans,59,15
-49039,almond_butter_crunchy_,88,13
+49039,almond_butter_crunchy,88,13
 49040,blueberry_minute_muffin,130,14
 49041,beech_nut_stage_1_chicken_chicken_broth,92,18
 49042,balance_conditioner,22,11
@@ -49459,7 +49459,7 @@ product_id,product_name,aisle_id,department_id
 49458,chicken_jerky_dog_treats,40,8
 49459,dark_chocolate_non_dairy_frozen_dessert_bar,37,1
 49460,disinfectant_max_cover_mist_lavender_fields,114,17
-49461,organic_crushed_tomatoes_in_tomato_purée,81,15
+49461,organic_crushed_tomatoes_in_tomato_puree,81,15
 49462,moisturizing_face_cream,55,11
 49463,organic_whole_bean_coffee,26,7
 49464,creole_mustard,72,13
@@ -49532,9 +49532,9 @@ product_id,product_name,aisle_id,department_id
 49531,anchovy_fillets_in_olive_oil,95,15
 49532,pancake_waffle_mix_gluten_free,17,13
 49533,cane_sugar,17,13
-49534,jalapeño_seasoned_potato_chips,107,19
+49534,jalapeno_seasoned_potato_chips,107,19
 49535,special_k_strawberry_protein_shake,65,11
-49536,café_de_olla_instant_coffee,26,7
+49536,cafe_de_olla_instant_coffee,26,7
 49537,mulling_spice,104,13
 49538,non_drowsy_cold_mucus,11,11
 49539,gluten_free_buttermilk_pancake_mix,105,13
@@ -49571,7 +49571,7 @@ product_id,product_name,aisle_id,department_id
 49570,dairy_free_greek_yogurt_blueberry,120,16
 49571,chelated_zinc,47,11
 49572,honey_lemon_menthol_cough_suppressants,11,11
-49573,that_s_my_jam_core_ice_cream,37,1
+49573,that_s_my_jamtm_core_ice_cream,37,1
 49574,candles_birthday_stripes,101,17
 49575,unknown,100,21
 49576,vegetable_beef_nutritious_dinner,92,18
@@ -49584,7 +49584,7 @@ product_id,product_name,aisle_id,department_id
 49583,sweet_potatoes_stage_2,92,18
 49584,herbal_supplement_milk_thistle_tea_bags_24_ct,94,7
 49585,organic_refined_coconut_oil,19,13
-49586,chèvre_oh_la_la_spreadable_goat_cheese,21,16
+49586,chevre_oh_la_la_spreadable_goat_cheese,21,16
 49587,tender_beef_liver_feast_classic_wet_cat_food,41,8
 49588,honey,29,13
 49589,spray_red_honeysuckle_nectar_air_freshener,101,17
