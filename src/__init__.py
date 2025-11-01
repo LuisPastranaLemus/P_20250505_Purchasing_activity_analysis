@@ -2,29 +2,30 @@
 # Smart __init__.py used for importing easily from the package.
 
 try:
-    
-    from .data_loader import (load_dataset_from_zip, 
-                              load_dataset_from_csv, 
-                              load_dataset_from_excel, 
-                              load_dataset_from_list, 
+
+    from .data_loader import (load_dataset_from_zip,
+                              load_dataset_from_csv,
+                              load_dataset_from_excel,
+                              load_dataset_from_list,
                               load_dataset_from_dict)
-    
+
     from .data_cleaning import (check_existing_missing_values,
                                 replace_missing_values,
+                                missing_values_rate,
                                 normalize_string_format,
                                 normalize_columns_headers_format,
-                                detect_implicit_duplicates,
-                                normalize_string,
-                                find_implicit_duplicates_only,
+                                detect_implicit_duplicates_token,
+                                detect_implicit_duplicates_fuzzy,
                                 normalize_datetime,
                                 find_fail_conversion_to_numeric,
                                 convert_object_to_numeric,
                                 convert_integer_to_boolean,
                                 standardize_gender_values,
                                 convert_numday_strday)
-    
+
     from .eda import (outlier_limit_bounds,
                       evaluate_central_trend,
+                      calculate_bins, 
                       evaluate_correlation,
                       missing_values_heatmap,
                       plot_heatmap,
@@ -33,44 +34,66 @@ try:
                       plot_hue_histogram,
                       plot_dual_histogram,
                       plot_frequency_density,
-                      plot_grouped_barplot,
+                      plot_hue_barplot,
+                      plot_categorical_horizontal_bar,
                       plot_horizontal_bar,
                       plot_grouped_bars,
-                      plot_grouped_bars_indx,
                       plot_pairplot,
                       plot_scatter_matrix,
                       plot_scatter,
-                      plot_ecdf)
+                      plot_ecdf,
+                      plot_bar_comp,
+                      plot_distribution_dispersion_sl5000,
+                      plot_distribution_dispersion_sg5000,
+                      plot_bar_series,
+                      plot_horizontal_lines,
+                      plot_qq_normality_tests,
+                      plot_horizontal_boxplot,
+                      missing_values_heatmap_plotlypx,
+                      plot_qq_normality_tests_plotlypx,
+                      plotly_frequency_density_numeric_plotlypx,
+                      plotly_frequency_datetime_plotlypx,
+                      plotly_frequency_date_time_plotlypx,
+                      plotly_frequency_object_plotlypx,
+                      plot_horizontal_boxplot_plotlypx,
+                      plot_scatter_matrix_plotlypx,
+                      plot_vertical_bar_plotpx,
+                      plot_horizontal_bar_plotpx,
+                      plot_cualitative_histogram_plotlypx,
+                      plot_crosstab_bars_plotlypx)
     
-    from .utils import(format_notebook)
-                      
+    from .features import(cast_datatypes)
+
+    from .utils import (format_notebook)
+
 
 except ImportError as e:
     raise ImportError("One or more modules could not be found."
                       "Ensure required scripts exist in the same directory as '__init__.py'.") from e
 
-__all__ = ['load_dataset_from_zip', 
-           'load_dataset_from_csv', 
-           'load_dataset_from_excel', 
-           'load_dataset_from_list', 
+__all__ = ['load_dataset_from_zip',
+           'load_dataset_from_csv',
+           'load_dataset_from_excel',
+           'load_dataset_from_list',
            'load_dataset_from_dict',
-           
+
            'check_existing_missing_values',
            'replace_missing_values',
+           'missing_values_rate',
            'normalize_string_format',
            'normalize_columns_headers_format',
-           'detect_implicit_duplicates',
-           'normalize_string',
-           'find_implicit_duplicates_only',
+           'detect_implicit_duplicates_token',
+           'detect_implicit_duplicates_fuzzy',
            'normalize_datetime',
            'find_fail_conversion_to_numeric',
            'convert_object_to_numeric',
            'convert_integer_to_boolean',
            'standardize_gender_values',
            'convert_numday_strday',
-           
+
            'outlier_limit_bounds',
            'evaluate_central_trend',
+           'calculate_bins',
            'evaluate_correlation',
            'missing_values_heatmap',
            'plot_heatmap',
@@ -79,13 +102,34 @@ __all__ = ['load_dataset_from_zip',
            'plot_hue_histogram',
            'plot_dual_histogram',
            'plot_frequency_density',
-           'plot_grouped_barplot',
+           'plot_hue_barplot',
+           'plot_categorical_horizontal_bar',
            'plot_horizontal_bar',
            'plot_grouped_bars',
-           'plot_grouped_bars_indx',
            'plot_pairplot',
            'plot_scatter_matrix',
            'plot_scatter',
            'plot_ecdf',
+           'plot_bar_comp',
+           'plot_distribution_dispersion_sl5000',
+           'plot_distribution_dispersion_sg5000',
+           'plot_bar_series',
+           'plot_horizontal_lines',
+           'plot_qq_normality_tests',
+           'plot_horizontal_boxplot',
+           'missing_values_heatmap_plotlypx',
+           'plot_qq_normality_tests_plotlypx',
+            'plotly_frequency_density_numeric_plotlypx',
+           'plotly_frequency_datetime_plotlypx',
+           'plotly_frequency_date_time_plotlypx',
+           'plotly_frequency_object_plotlypx',
+           'plot_horizontal_boxplot_plotlypx',
+           'plot_scatter_matrix_plotlypx',
+           'plot_vertical_bar_plotpx',
+           'plot_horizontal_bar_plotpx',
+           'plot_cualitative_histogram_plotlypx',
+           'plot_crosstab_bars_plotlypx',
            
+           'cast_datatypes',
+
            'format_notebook']
